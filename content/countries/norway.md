@@ -1,0 +1,12 @@
+---
+title: Norway
+---
+
+## Alcohol sale
+- <=4.75%:
+    - Mon-Fri: 8:00-20:00 
+    - Sat: 8:00-18:00 
+    - Sun: forbidden
+- \>4.75%: 
+    - Only in https://en.m.wikipedia.org/wiki/Vinmonopolet and expensive
+
