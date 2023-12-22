@@ -17,3 +17,6 @@ title: Latvia
 
 Had great experience renting a motorcycle from [L-auto](https://l-auto.lv/lv) - all kinds of motorcycles and also protective gear is available for reasonable price.
 
+## Alcohol sale
+- 8:00-22:00 
+
