@@ -5,6 +5,8 @@ title: Latvia
 ## Must-have app
 [App - eVeselībasPunkts (eveselibaspunkts.lv)](https://eveselibaspunkts.lv/en/App) allows user to make an emergency call to 113 by simultaneously transmitting caller location data (GPS coordinates) and basic information of caller to Emergency medical service dispatchers.
 
+## Transportation
+- 🚕 Taxi: [Bolt]({{< ref "/transportation/bolt" >}}), [Forus]({{< ref "/transportation/forus" >}})
 ## Motorcycling
 - It's legal to ride the following with a car license (B category):
 	- <=125cc motorcycles 
