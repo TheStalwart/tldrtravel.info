@@ -11,6 +11,10 @@ title: Latvia
 - 🛵 Moto sharing: [Skok]({{< ref "/transportation/skok" >}})
 - 🛴 Scooter sharing: [Bolt]({{< ref "/transportation/bolt" >}}), [Tuul]({{< ref "/transportation/tuul" >}})
 - 🚲 Bicycle sharing: [Skok]({{< ref "/transportation/skok" >}})
+## Deliveries
+- [Wolt]({{< ref "/delivery/wolt" >}})
+- [Bolt Food]({{< ref "/delivery/bolt-food" >}})
+
 ## Motorcycling
 - It's legal to ride the following with a car license (B category):
 	- <=125cc motorcycles 
