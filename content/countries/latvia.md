@@ -7,6 +7,7 @@ title: Latvia
 
 ## Transportation
 - 🚕 Taxi: [Bolt]({{< ref "/transportation/bolt" >}}), [Forus]({{< ref "/transportation/forus" >}})
+- 🛴 Scooter sharing: [Bolt]({{< ref "/transportation/bolt" >}}), [Tuul]({{< ref "/transportation/tuul" >}})
 ## Motorcycling
 - It's legal to ride the following with a car license (B category):
 	- <=125cc motorcycles 
