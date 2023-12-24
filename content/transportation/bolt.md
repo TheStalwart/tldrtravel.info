@@ -10,6 +10,7 @@ Must-have app for urban transportation in most of the Europe.
 ## Vehicles available
 - 🚕 Taxi
 - 🚙 Car sharing
+- 🚲 e-Bicycle sharing 
 - 🛴 Scooter sharing
 
 ## Payment methods
