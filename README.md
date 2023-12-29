@@ -13,6 +13,6 @@ Not a source of mainstream tourist attractions, but a more sober companion for [
 
 ## Design Policy
 - Accessibility and Readability are the highest priority.
-- Formatting should be simple, functional and responsive.
+- Formatting should be simple, functional and [responsive](https://www.w3schools.com/css/css_rwd_intro.asp).
 - Website must perform well on older mobile devices over slow and unreliable internet connection.
 - Do not interfere with any ways of copying and saving content for offline use.
