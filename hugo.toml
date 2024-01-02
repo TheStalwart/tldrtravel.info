@@ -1,5 +1,5 @@
 baseURL = 'https://travel.retromultiplayer.com/'
 languageCode = 'en-us'
 title = 'Pragmatic Travel Notes'
-theme = 'ananke'
+theme = 'hugo-book'
 sectionPagesMenu = 'main'
