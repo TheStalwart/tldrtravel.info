@@ -2,4 +2,17 @@ baseURL = 'https://travel.retromultiplayer.com/'
 languageCode = 'en-us'
 title = 'Pragmatic Travel Notes'
 theme = 'hugo-book'
+
+
+# Ananke theme configuration
 sectionPagesMenu = 'main'
+
+
+# Hugo Book theme configuration
+# https://github.com/alex-shpak/hugo-book/blob/master/exampleSite/config.toml
+enableGitInfo = true
+
+[params]
+  BookTheme = 'auto'
+  BookSection = '/'
+  BookRepo = 'https://github.com/TheStalwart/travel-notes'
