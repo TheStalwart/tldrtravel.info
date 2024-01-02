@@ -2,6 +2,8 @@
 title: Tuul
 ---
 
+# Tuul
+
 ## Download
 [Home - Tuul e-scooter](https://tuul.xyz/en/)
 

@@ -2,6 +2,8 @@
 title: Norway
 ---
 
+# Norway
+
 ## Alcohol sale
 - <=4.75%:
     - Mon-Fri: 8:00-20:00 

@@ -2,6 +2,7 @@
 title: Bolt
 ---
 
+# Bolt
 Must-have app for urban transportation in most of the Europe.
 
 ## Download

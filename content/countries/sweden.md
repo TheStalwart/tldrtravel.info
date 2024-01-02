@@ -2,6 +2,8 @@
 title: Sweden
 ---
 
+# Sweden
+
 ## Transportation
 - 🚕 Taxi: [[Bolt]]
 

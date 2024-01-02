@@ -2,6 +2,8 @@
 title: Estonia
 ---
 
+# Estonia
+
 ## Transportation
 - 🚕 Taxi: [Bolt]({{< ref "/transportation/bolt" >}}), [Forus]({{< ref "/transportation/forus" >}})
 - 🚙 Car sharing: [Bolt Drive]({{< ref "/transportation/bolt" >}})

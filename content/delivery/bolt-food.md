@@ -2,6 +2,7 @@
 title: Bolt Food
 ---
 
+# Bolt Food
 Most restaurants work with both Bolt Food and [Wolt]({{< ref "/delivery/wolt" >}}), but if you need a non-edible product like memory card or a phone charger - [Wolt]({{< ref "/delivery/wolt" >}}) is a better choice.
 
 ## Download

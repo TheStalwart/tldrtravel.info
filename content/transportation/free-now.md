@@ -2,6 +2,7 @@
 title: FREENOW
 ---
 
+# FREENOW
 Alternative to [Bolt]({{< ref "/transportation/bolt" >}}) for transportation, often cheaper.
 
 ## Download

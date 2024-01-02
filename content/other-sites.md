@@ -3,6 +3,8 @@ title: Other sites
 weight: 20
 ---
 
+# Other sites
+
 ## Useful sites
 - [Nomad List](https://nomadlist.com/)
 - [Trans Euro Trail](https://transeurotrail.org)
