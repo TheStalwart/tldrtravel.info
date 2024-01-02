@@ -1,5 +1,6 @@
 ---
 title: About
+weight: 10
 ---
 
 A dump of concise and organized information for urban survival. Focus on food, shelter, transportation, and staying out of jail. 
