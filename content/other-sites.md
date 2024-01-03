@@ -7,7 +7,7 @@ weight: 20
 
 ## Useful sites
 - [Nomad List](https://nomadlist.com/)
-- [Trans Euro Trail](https://transeurotrail.org)
+- [Trans Euro Trail](https://transeurotrail.org) - information for motorcyclists
 - [Mains electricity by country](https://en.wikipedia.org/wiki/Mains_electricity_by_country)
 - [PlugShare](https://www.plugshare.com) - electric vehicle charger map
 
