@@ -30,5 +30,8 @@ Have [eHealthPoint](https://eveselibaspunkts.lv/en/App) app installed on your ph
 Had great experience renting a motorcycle from [L-auto](https://l-auto.lv/lv) - all kinds of motorcycles and also protective gear is available for reasonable price.
 
 ## Alcohol sale
-- 8:00-22:00 
+- 8:00-22:00[^1]
+
+[^1]: [Likumi.lv: Par alkoholisko dzērienu mazumtirdzniecības laika un vietas ierobežojumiem
+](https://likumi.lv/ta/id/272336-par-alkoholisko-dzerienu-mazumtirdzniecibas-laika-un-vietas-ierobezojumiem)
 
