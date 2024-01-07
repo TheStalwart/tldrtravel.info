@@ -32,6 +32,9 @@ Had great experience renting a motorcycle from [L-auto](https://l-auto.lv/lv) - 
 ## Alcohol sale
 - 8:00-22:00[^1]
 
+## Gyms
+- [Lemon Gym]({{< ref "/gyms/lemon-gym" >}})
+
 [^1]: [Likumi.lv: Par alkoholisko dzērienu mazumtirdzniecības laika un vietas ierobežojumiem
 ](https://likumi.lv/ta/id/272336-par-alkoholisko-dzerienu-mazumtirdzniecibas-laika-un-vietas-ierobezojumiem)
 

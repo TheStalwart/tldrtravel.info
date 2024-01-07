@@ -13,3 +13,5 @@ title: Estonia
 - [Wolt]({{< ref "/delivery/wolt" >}})
 - [Bolt Food]({{< ref "/delivery/bolt-food" >}})
 
+## Gyms
+- [Lemon Gym]({{< ref "/gyms/lemon-gym" >}})
