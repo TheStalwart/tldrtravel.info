@@ -15,3 +15,4 @@ title: Estonia
 
 ## Gyms
 - [Lemon Gym]({{< ref "/gyms/lemon-gym" >}})
+- [MyFitness]({{< ref "/gyms/myfitness" >}})

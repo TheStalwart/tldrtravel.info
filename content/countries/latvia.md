@@ -34,6 +34,7 @@ Had great experience renting a motorcycle from [L-auto](https://l-auto.lv/lv) - 
 
 ## Gyms
 - [Lemon Gym]({{< ref "/gyms/lemon-gym" >}})
+- [MyFitness]({{< ref "/gyms/myfitness" >}})
 
 [^1]: [Likumi.lv: Par alkoholisko dzērienu mazumtirdzniecības laika un vietas ierobežojumiem
 ](https://likumi.lv/ta/id/272336-par-alkoholisko-dzerienu-mazumtirdzniecibas-laika-un-vietas-ierobezojumiem)
