@@ -19,3 +19,4 @@ title: Lithuania
 
 ## Gyms
 - [Lemon Gym]({{< ref "/gyms/lemon-gym" >}})
+- [Gym+]({{< ref "/gyms/gymplius" >}})
