@@ -1,5 +1,10 @@
 {
     "image": "mcr.microsoft.com/devcontainers/universal:2",
+    "features": {
+        "ghcr.io/devcontainers/features/hugo:1": {
+            "extended": true
+        }
+    },
     "customizations": {
         "vscode": {
             "extensions": [
