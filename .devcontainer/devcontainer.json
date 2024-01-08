@@ -12,5 +12,6 @@
                 "budparr.language-hugo-vscode"
             ]
         }
-    }
+    },
+    "postCreateCommand": "git submodule update --init"
 }
