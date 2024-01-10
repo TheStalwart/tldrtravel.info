@@ -18,3 +18,8 @@ Production instance: https://travel.retromultiplayer.com
 - Formatting should be simple, functional and [responsive](https://www.w3schools.com/css/css_rwd_intro.asp).
 - Website must perform well on older mobile devices over slow and unreliable internet connection.
 - Do not interfere with any ways of copying and saving content for offline use.
+
+## Development environment tips
+- Don't forget to update git submodules: `git submodule update --init`
+- Make sure to install _extended_ build of Hugo: gohugoio/hugoDocs#1152
+- Use bind parameter to test on mobile devices: `hugo server --bind 0.0.0.0`
