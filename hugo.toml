@@ -4,10 +4,6 @@ title = 'Pragmatic Travel'
 theme = 'hugo-book'
 
 
-# Ananke theme configuration
-sectionPagesMenu = 'main'
-
-
 # Hugo Book theme configuration
 # https://github.com/alex-shpak/hugo-book/blob/master/exampleSite/config.toml
 enableGitInfo = true
