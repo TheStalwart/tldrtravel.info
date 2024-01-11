@@ -31,6 +31,25 @@ Had great experience renting a motorcycle from [L-auto](https://l-auto.lv/lv) - 
 
 ## Alcohol sale
 - 8:00-22:00[^1]
+- Buyer must be 18 years old[^4]
+- Buyers younger than 25 years old must present ID to the retailer
+
+## Tobacco sale
+- Flavored products made of real tobacco are banned[^2]
+- In 2024, tobacco product buyer must be 18 years old
+- Starting January 1st 2025:[^3]
+	- tobacco product buyer must be 20 years old
+	- smoking in gambling venues will be prohibited
+
+## Vaping product sale
+- The law prohibits clear advertising so shops have opaque shelving - just ask employees and they will sell the products
+- In 2024:
+	- flavored vaping products, with and without nicotine, are widely available in most shopping malls
+	- vaping product buyer must be 18 years old
+- Starting January 1st 2025:[^3]
+	- vaping product buyer must be 20 years old
+	- vaping product _user_ must be 20 years old
+	- flavored vaping products will be illegal to sell, only tobacco flavor will be legal
 
 ## Gyms
 - [Lemon Gym]({{< ref "/gyms/lemon-gym" >}})
@@ -39,4 +58,6 @@ Had great experience renting a motorcycle from [L-auto](https://l-auto.lv/lv) - 
 
 [^1]: [Likumi.lv: Par alkoholisko dzērienu mazumtirdzniecības laika un vietas ierobežojumiem
 ](https://likumi.lv/ta/id/272336-par-alkoholisko-dzerienu-mazumtirdzniecibas-laika-un-vietas-ierobezojumiem)
-
+[^2]: [Latvijā tiks aizliegti aromatizēti karsējamās tabakas izstrādājumi; likums stājas spēkā 23. oktobrī](https://nra.lv/latvija/429894-latvija-tiks-aizliegti-aromatizeti-karsejamas-tabakas-izstradajumi-likums-stajas-speka-23-oktobri.htm)
+[^3]: [Ar 2025. gadu tabakas izstrādājumus drīkstēs pirkt no 20 gadu vecuma, e-cigaretes – bez garšas](https://www.lsm.lv/raksts/zinas/latvija/11.01.2024-ar-2025-gadu-tabakas-izstradajumus-drikstes-pirkt-no-20-gadu-vecuma-e-cigaretes-bez-garsas.a538510/)
+[^4]: [Handling of Alcoholic Beverages Law](https://likumi.lv/ta/en/en/id/88009-handling-of-alcoholic-beverages-law)
