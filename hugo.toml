@@ -11,4 +11,4 @@ enableGitInfo = true
 [params]
   BookTheme = 'auto'
   BookSection = '/'
-  BookRepo = 'https://github.com/TheStalwart/travel-notes'
+  BookRepo = 'https://github.com/TheStalwart/tldrtravel.info'

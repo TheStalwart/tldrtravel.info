@@ -8,7 +8,7 @@ A dump of concise and organized information for urban survival. Focus on food, s
 
 Not a source of mainstream tourist attractions, but a more sober companion for [Tripadvisor](https://www.tripadvisor.com/).
 
-Website is open-source, feedback and contributions are welcome on [GitHub](https://github.com/TheStalwart/travel-notes)
+Website is open-source, feedback and contributions are welcome on [GitHub](https://github.com/TheStalwart/tldrtravel.info)
 
 ## Content Policy
 - No ads.
