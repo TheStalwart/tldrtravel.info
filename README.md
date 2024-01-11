@@ -4,7 +4,7 @@ A dump of concise and organized information for urban survival. Focus on food, s
 
 Not a source of mainstream tourist attractions, but a more sober companion for [Tripadvisor](https://www.tripadvisor.com/).
 
-Production instance: https://travel.retromultiplayer.com
+Production instance: https://tldrtravel.info
 
 ## Content Policy
 - No ads.
