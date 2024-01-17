@@ -1,4 +1,5 @@
 ---
+title: Gyms
 bookCollapseSection: true
 weight: 90
 ---
