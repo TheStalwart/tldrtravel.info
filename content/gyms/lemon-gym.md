@@ -1,5 +1,6 @@
 ---
 title: Lemon Gym
+open24x7: true
 ---
 
 # Lemon Gym

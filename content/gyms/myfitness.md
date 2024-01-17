@@ -1,5 +1,6 @@
 ---
 title: MyFitness
+open24x7: false
 ---
 
 # MyFitness

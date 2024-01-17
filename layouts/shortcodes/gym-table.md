@@ -1,0 +1,16 @@
+<table>
+    <thead>
+        <tr>
+            <th>Chain</th>
+            <th>24/7</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{ range $.Page.Pages }}
+        <tr>
+            <td><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a></td>
+            <td>{{ if .Params.open24x7 }}✅{{ else }}❌{{ end }}</td>
+        </tr>
+        {{ end }}
+    </tbody>
+</table>

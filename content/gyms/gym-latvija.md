@@ -1,5 +1,6 @@
 ---
 title: Gym! Latvija
+open24x7: true
 ---
 
 # Gym! Latvija

@@ -1,5 +1,6 @@
 ---
 title: Gym+
+open24x7: true
 ---
 
 # Gym+
