@@ -1,0 +1,20 @@
+{{ range first 5 ($.Site.Pages.GroupByLastmod "January 2, 2006") }}
+
+  <h2>{{ .Key }}</h2> 
+  <ul>
+    {{ range .Pages }}
+      <li>
+        {{ range $index, $value := .Ancestors.Reverse }}
+          {{ if not .IsHome }} {{/* https://discourse.gohugo.io/t/generating-breadcrumbs-for-hugo/42059 */}}
+            <a href="{{ .RelPermalink }}">{{ default .RelPermalink .Title }}</a> /
+          {{ end }}
+        {{ end }}
+        <a href="{{ .RelPermalink }}">{{ default .RelPermalink .Title }}</a>: 
+        {{ .GitInfo.Subject }} 
+        <a href="{{ $.Site.Params.BookRepo }}/commit/{{ .GitInfo.Hash }}">{{ .GitInfo.AbbreviatedHash }}</a>
+      </li>
+    {{ end }}
+  </ul>
+{{ end }}
+
+{{/* Based on: https://gist.github.com/ubergesundheit/f99cd7f5a96d670e11a5fa3c73388e57 */}}
