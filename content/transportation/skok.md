@@ -1,5 +1,10 @@
 ---
 title: Skok
+payments:
+    applePay: false
+    cards: true
+    cash: false
+    payPal: false
 ---
 
 # Skok

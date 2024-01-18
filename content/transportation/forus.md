@@ -1,5 +1,10 @@
 ---
 title: Forus
+payments:
+    applePay: false
+    cards: true
+    cash: 🚕
+    payPal: false
 ---
 
 # Forus

@@ -1,5 +1,10 @@
 ---
 title: Tuul
+payments:
+    applePay: true
+    cards: true
+    cash: false
+    payPal: false
 ---
 
 # Tuul

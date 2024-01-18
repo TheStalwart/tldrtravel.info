@@ -1,5 +1,10 @@
 ---
 title: FREENOW
+payments:
+    applePay: true
+    cards: true
+    cash: false
+    payPal: true
 ---
 
 # FREENOW

@@ -1,5 +1,10 @@
 ---
 title: Bolt
+payments:
+    applePay: true
+    cards: true
+    cash: 🚕
+    payPal: false
 ---
 
 # Bolt
