@@ -26,7 +26,7 @@ Must-have app for urban transportation in most of the Europe.
 - [Cash]({{< ref "/payments/cash" >}}) (taxi only)
 
 ## Extra notes
-- To rent a car, driver's license experience must be at least 6 months or something like that. It's not mentioned anywhere in license agreement, but some of my friends couldn't rent a car shortly after getting a license
+- To rent a car, driver must be over 20-years of age and have held a valid driving licence for at least 1 year[^1]
 - [Cabrios](https://en.wikipedia.org/wiki/Convertible) available in select cities during summer
 
 ## Countries supported
@@ -41,3 +41,5 @@ Must-have app for urban transportation in most of the Europe.
 - [Poland]({{< ref "/countries/poland" >}})
 - [Sweden]({{< ref "/countries/sweden" >}})
 - Many more: [Bolt cities | Use Bolt in cities around the world](https://bolt.eu/en/cities/) 
+
+[^1]: [How to rent a car with Bolt Drive](https://bolt.eu/en-lv/drive/)
