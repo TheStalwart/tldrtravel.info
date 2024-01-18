@@ -23,6 +23,7 @@ Must-have app for urban transportation in most of the Europe.
 
 ## Payment methods
 - Apple Pay
+- Google Pay
 - [Cards]({{< ref "/payments/cards" >}})
 - [Cash]({{< ref "/payments/cash" >}}) (taxi only)
 

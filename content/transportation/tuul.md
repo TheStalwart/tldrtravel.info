@@ -18,6 +18,7 @@ payments:
 
 ## Payment methods
 - Apple Pay
+- Google Pay
 - [Cards]({{< ref "/payments/cards" >}})
 
 ## Countries supported
