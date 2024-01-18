@@ -42,11 +42,11 @@
             </td>
             <td>
                 {{ if eq .Params.payments.googlePay true }}
-                ✅
+                    ✅
                 {{ else if eq .Params.payments.googlePay false }}
-                ❌
+                    ❌
                 {{ else if ne .Params.payments.googlePay nil }}
-                {{ .Params.payments.googlePay }}
+                    {{ .Params.payments.googlePay }}
                 {{ end }}
             </td>
             <td>
