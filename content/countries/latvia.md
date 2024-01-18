@@ -9,7 +9,7 @@ Have [eHealthPoint](https://eveselibaspunkts.lv/en/App) app installed on your ph
 
 ## Transportation
 - 🚕 Taxi: [Bolt]({{< ref "/transportation/bolt" >}}), [Forus]({{< ref "/transportation/forus" >}})
-- 🚙 Car sharing: [Bolt Drive]({{< ref "/transportation/bolt" >}}), [CityBee]({{< ref "/transportation/citybee" >}})
+- 🚙 Car sharing: [Bolt Drive]({{< ref "/transportation/bolt" >}}), [CityBee]({{< ref "/transportation/citybee" >}}), [Carguru]({{< ref "/transportation/carguru" >}})
 - 🚐 Van sharing: [Bolt Drive]({{< ref "/transportation/bolt" >}}), [CityBee]({{< ref "/transportation/citybee" >}})
 - 🛵 Moto sharing: [Skok]({{< ref "/transportation/skok" >}})
 - 🛴 Scooter sharing: [Bolt]({{< ref "/transportation/bolt" >}}), [Tuul]({{< ref "/transportation/tuul" >}})
