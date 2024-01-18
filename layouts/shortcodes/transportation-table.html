@@ -2,10 +2,10 @@
     <thead>
         <tr>
             <th>App</th>
-            <th>Android Pay</th>
             <th>Apple Pay</th>
             <th>Cards</th>
             <th>Cash</th>
+            <th>Google Pay</th>
             <th>PayPal</th>
         </tr>
     </thead>
@@ -13,15 +13,6 @@
         {{ range $.Page.Pages }}
         <tr>
             <td><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a></td>
-            <td>
-                {{ if eq .Params.payments.androidPay true }}
-                    ✅
-                {{ else if eq .Params.payments.androidPay false }}
-                    ❌
-                {{ else if ne .Params.payments.androidPay nil }}
-                    {{ .Params.payments.androidPay }}
-                {{ end }}
-            </td>
             <td>
                 {{ if eq .Params.payments.applePay true }}
                     ✅
@@ -47,6 +38,15 @@
                     ❌
                 {{ else if ne .Params.payments.cash nil }}
                     {{ .Params.payments.cash }}
+                {{ end }}
+            </td>
+            <td>
+                {{ if eq .Params.payments.googlePay true }}
+                ✅
+                {{ else if eq .Params.payments.googlePay false }}
+                ❌
+                {{ else if ne .Params.payments.googlePay nil }}
+                {{ .Params.payments.googlePay }}
                 {{ end }}
             </td>
             <td>
