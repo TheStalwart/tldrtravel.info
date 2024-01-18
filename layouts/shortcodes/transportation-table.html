@@ -1,0 +1,64 @@
+<table class="sortable-theme-minimal" data-sortable>
+    <thead>
+        <tr>
+            <th>App</th>
+            <th>Android Pay</th>
+            <th>Apple Pay</th>
+            <th>Cards</th>
+            <th>Cash</th>
+            <th>PayPal</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{ range $.Page.Pages }}
+        <tr>
+            <td><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a></td>
+            <td>
+                {{ if eq .Params.payments.androidPay true }}
+                    ✅
+                {{ else if eq .Params.payments.androidPay false }}
+                    ❌
+                {{ else if ne .Params.payments.androidPay nil }}
+                    {{ .Params.payments.androidPay }}
+                {{ end }}
+            </td>
+            <td>
+                {{ if eq .Params.payments.applePay true }}
+                    ✅
+                {{ else if eq .Params.payments.applePay false }}
+                    ❌
+                {{ else if ne .Params.payments.applePay nil }}
+                    {{ .Params.payments.applePay }}
+                {{ end }}
+            </td>
+            <td>
+                {{ if eq .Params.payments.cards true }}
+                    ✅
+                {{ else if eq .Params.payments.cards false }}
+                    ❌
+                {{ else if ne .Params.payments.cards nil }}
+                    {{ .Params.payments.cards }}
+                {{ end }}
+            </td>
+            <td>
+                {{ if eq .Params.payments.cash true }}
+                    ✅
+                {{ else if eq .Params.payments.cash false }}
+                    ❌
+                {{ else if ne .Params.payments.cash nil }}
+                    {{ .Params.payments.cash }}
+                {{ end }}
+            </td>
+            <td>
+                {{ if eq .Params.payments.payPal true }}
+                    ✅
+                {{ else if eq .Params.payments.payPal false }}
+                    ❌
+                {{ else if ne .Params.payments.payPal nil }}
+                    {{ .Params.payments.payPal }}
+                {{ end }}
+            </td>
+        </tr>
+        {{ end }}
+    </tbody>
+</table>
