@@ -1,0 +1,24 @@
+<table class="sortable-theme-minimal" data-sortable>
+    <thead>
+        <tr>
+            <th>Mall</th>
+            <th title="Dog friendly">🐕</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{ range $.Page.Pages }}
+        <tr>
+            <td><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a></td>
+            <td>
+                {{ if eq .Params.dogFriendly true }}
+                    ✅
+                {{ else if eq .Params.dogFriendly false }}
+                    ❌
+                {{ else if ne .Params.dogFriendly nil }}
+                    {{ .Params.dogFriendly }}
+                {{ end }}
+            </td>
+        </tr>
+        {{ end }}
+    </tbody>
+</table>
