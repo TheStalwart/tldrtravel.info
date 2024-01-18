@@ -4,6 +4,7 @@ payments:
     applePay: true
     cards: true
     cash: 🚕
+    googlePay: true
     payPal: false
 ---
 

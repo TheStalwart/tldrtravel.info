@@ -4,6 +4,7 @@ payments:
     applePay: false
     cards: true
     cash: 🚕
+    googlePay: false
     payPal: false
 ---
 
@@ -15,6 +16,7 @@ Alternative to [Bolt]({{< ref "/transportation/bolt" >}}), that is sometimes che
 
 ## Issues
 - Apple Pay is not supported
+- Google Pay is not supported
 
 ## Vehicles available
 - 🚕 Taxi

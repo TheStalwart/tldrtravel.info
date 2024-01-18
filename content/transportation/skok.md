@@ -26,7 +26,8 @@ In [Latvia]({{< ref "/countries/latvia#motorcycling" >}}), it's legal to ride mo
 - [Cards]({{< ref "/payments/cards" >}})
 
 ## Issues
-Marketing is unclear and inconsistent about season start and end dates.
+- Marketing is unclear and inconsistent about season start and end dates.
+- There is a registration fee, €1.99.
 
 ## Countries supported
 - [Latvia]({{< ref "/countries/latvia" >}})
