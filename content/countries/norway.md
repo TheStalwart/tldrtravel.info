@@ -10,5 +10,5 @@ title: Norway
     - Sat: 8:00-18:00 
     - Sun: forbidden
 - \>4.75%: 
-    - Only in https://en.m.wikipedia.org/wiki/Vinmonopolet and expensive
+    - Only in [Vinmonopolet stores](https://en.m.wikipedia.org/wiki/Vinmonopolet) and expensive
 
