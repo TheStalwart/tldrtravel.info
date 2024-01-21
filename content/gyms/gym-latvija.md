@@ -1,6 +1,8 @@
 ---
 title: Gym! Latvija
 open24x7: true
+countries:
+- latvia
 ---
 
 # Gym! Latvija
