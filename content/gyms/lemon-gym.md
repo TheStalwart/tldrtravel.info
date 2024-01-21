@@ -1,6 +1,10 @@
 ---
 title: Lemon Gym
 open24x7: true
+countries:
+- estonia
+- latvia
+- lithuania
 ---
 
 # Lemon Gym
@@ -25,7 +29,4 @@ Truly 24/7 low cost gym chain in Baltic states.
 - Subscriptions are per-country by default, but support staff states they can arrange access to other country's gyms for a limited time on per-request basis
 - No free drinking water
 
-## Countries supported
-- [Estonia]({{< ref "/countries/estonia" >}})
-- [Latvia]({{< ref "/countries/latvia" >}})
-- [Lithuania]({{< ref "/countries/lithuania" >}})
+{{% country-list %}}

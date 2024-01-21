@@ -1,6 +1,8 @@
 ---
 title: Gym+
 open24x7: true
+countries:
+- lithuania
 ---
 
 # Gym+
@@ -25,7 +27,6 @@ Truly 24/7 gym chain in Lithuania.
 ## Extra notes
 Gym+ chain is owned by [MyFitness]({{< ref "/gyms/myfitness" >}})[^1]
 
-## Countries supported
-- [Lithuania]({{< ref "/countries/lithuania" >}})
+{{% country-list %}}
 
 [^1]: [My Fitness AS acquires 100% of the second largest fitness chain in Lithuania - MyFitness LV](https://www.myfitness.lv/en/fitness-acquires-100-second-largest-fitness-chain-lithuania/)

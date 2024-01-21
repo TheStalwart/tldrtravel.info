@@ -1,5 +1,7 @@
 ---
 title: Swish
+countries:
+- sweden
 ---
 
 # Swish
@@ -11,5 +13,4 @@ Some vendors in {{% country-link "sweden" %}}, like street food trucks, only acc
 ## Major issue
 Only Swedish accounts in Swedish banks are supported, e.g. Latvian [Swedbank]({{< ref "/payments/cards#swedbank" >}}) accounts are not compatible.
 
-## Countries supported
-- [Sweden]({{< ref "/countries/sweden" >}})
+{{% country-list %}}
