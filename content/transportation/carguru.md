@@ -6,6 +6,8 @@ payments:
     cash: false
     googlePay: false
     payPal: false
+countries:
+- latvia
 ---
 
 # Carguru
@@ -26,7 +28,6 @@ Car sharing in Latvia
 ## Issues
 - Service uses a [dark pattern](https://www.darkpattern.games/pattern/16/premium-currency.html) of in-app currency "₲–Coins" that can only be topped-up in 5 EUR increments
 
-## Countries supported
-- [Latvia]({{< ref "/countries/latvia" >}})
+{{% country-list %}}
 
 [^1]: [Agreement and conditions - CARGURU](https://carguru.lv/docs/legal/b2cterms-en.pdf)

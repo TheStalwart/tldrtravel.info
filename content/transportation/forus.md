@@ -6,6 +6,10 @@ payments:
     cash: 🚕
     googlePay: false
     payPal: false
+countries:
+- estonia
+- latvia
+- lithuania
 ---
 
 # Forus
@@ -25,7 +29,4 @@ Alternative to [Bolt]({{< ref "/transportation/bolt" >}}), that is sometimes che
 - [Cards]({{< ref "/payments/cards" >}})
 - [Cash]({{< ref "/payments/cash" >}}) (taxi only)
 
-## Countries supported
-- [Estonia]({{< ref "/countries/estonia" >}})
-- [Latvia]({{< ref "/countries/latvia" >}})
-- [Lithuania]({{< ref "/countries/lithuania" >}})
+{{% country-list %}}

@@ -6,6 +6,9 @@ payments:
     cash: false
     googlePay: true
     payPal: false
+countries:
+- estonia
+- latvia
 ---
 
 # Tuul
@@ -21,6 +24,4 @@ payments:
 - Google Pay
 - [Cards]({{< ref "/payments/cards" >}})
 
-## Countries supported
-- [Estonia]({{< ref "/countries/estonia" >}})
-- [Latvia]({{< ref "/countries/latvia" >}})
+{{% country-list %}}

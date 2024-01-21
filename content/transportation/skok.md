@@ -5,6 +5,8 @@ payments:
     cards: true
     cash: false
     payPal: false
+countries:
+- latvia
 ---
 
 # Skok
@@ -29,5 +31,4 @@ In [Latvia]({{< ref "/countries/latvia#motorcycling" >}}), it's legal to ride mo
 - Marketing is unclear and inconsistent about season start and end dates.
 - There is a registration fee, €1.99.
 
-## Countries supported
-- [Latvia]({{< ref "/countries/latvia" >}})
+{{% country-list %}}
