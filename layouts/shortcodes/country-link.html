@@ -1,0 +1,4 @@
+{{- $linkOptions := dict "path" (printf "/countries/%s" (.Get 0)) -}}
+{{- $parameterHashSplit := (split (.Get 0) "#") -}}
+{{- $countryTitle := index $parameterHashSplit 0 -}}
+[{{ if (.Get 1) }}{{ .Get 1 }}{{ else }}{{ $countryTitle | title }}{{ end }}]({{ .RelRef $linkOptions }})
