@@ -11,6 +11,6 @@ Some vendors in {{% country-link "sweden" %}}, like street food trucks, only acc
 [Swish - Private](https://www.swish.nu/private)
 
 ## Major issue
-Only Swedish accounts in Swedish banks are supported, e.g. Latvian [Swedbank]({{< ref "/payments/cards#swedbank" >}}) accounts are not compatible.
+Only Swedish accounts in Swedish banks are supported, e.g. Latvian {{% payment-link "cards#swedbank" "Swedbank" %}} accounts are not compatible.
 
 {{% country-list %}}

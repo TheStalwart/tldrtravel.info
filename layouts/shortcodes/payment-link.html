@@ -1,4 +1,4 @@
 {{- $pagePath := printf "/payments/%s" (.Get 0) -}}
 {{- $pageTitle := ($.Page.GetPage $pagePath).Title -}}
 {{- $linkOptions := dict "path" $pagePath -}}
-[{{ $pageTitle }}]({{ .RelRef $linkOptions }})
+[{{ if (.Get 1) }}{{ .Get 1 }}{{ else }}{{ $pageTitle }}{{ end }}]({{ .RelRef $linkOptions }})
