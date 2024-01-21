@@ -14,5 +14,5 @@ American Express is not accepted everywhere. Have at least one Visa/Mastercard f
 
 ## Swedbank
 Swedbank is technically a completely different bank in every country
-- [Swish]({{< ref "/payments/swish" >}}) will not work with e.g. Latvian Swedbank account
+- {{% payment-link "swish" %}} will not work with e.g. Latvian Swedbank account
 - Trying to pay for Lithuanian event ticket with Latvian Swedbank account can be declined with "account does not exist" error when using Swedbank Bank Link. If payment processor does not allow choosing Swedbank country - enter Visa/Mastercard card number instead of using Bank Link, or use a different bank that doesn't have these kinds of quirks.
