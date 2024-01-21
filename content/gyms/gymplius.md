@@ -25,7 +25,7 @@ Truly 24/7 gym chain in Lithuania.
 - Besides 1-day membership, minimum subscription is 1-month
 
 ## Extra notes
-Gym+ chain is owned by [MyFitness]({{< ref "/gyms/myfitness" >}})[^1]
+Gym+ chain is owned by {{% gym-link "myfitness" %}}[^1]
 
 {{% country-list %}}
 

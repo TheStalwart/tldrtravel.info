@@ -1,0 +1,4 @@
+{{- $pagePath := printf "/gyms/%s" (.Get 0) -}}
+{{- $pageTitle := ($.Page.GetPage $pagePath).Title -}}
+{{- $linkOptions := dict "path" $pagePath -}}
+[{{ $pageTitle }}]({{ .RelRef $linkOptions }})

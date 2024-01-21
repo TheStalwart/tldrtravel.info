@@ -33,8 +33,8 @@ Premium gym chain in Estonia and Latvia.
 - Subscriptions are per-country, having other country's subscription only grants a discount
 
 ## Extra notes
-- Low cost 24/7 offering by the same holding is called [Gym! Latvija]({{< ref "/gyms/gym-latvija" >}})[^1]
-- Lithuanian [Gym+]({{< ref "/gyms/gymplius" >}}) chain is owned by MyFitness[^2], but offers and pricing is quite different.
+- Low cost 24/7 offering by the same holding is called {{% gym-link "gym-latvija" %}}[^1]
+- Lithuanian {{% gym-link "gymplius" %}} chain is owned by MyFitness[^2], but offers and pricing is quite different.
 
 {{% country-list %}}
 

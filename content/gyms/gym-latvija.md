@@ -21,6 +21,6 @@ Truly 24/7 low cost gym chain in Latvia.
 - Shortest contract offered is 12 months
 
 ## Extra notes
-Gym! Latvija chain is owned by [MyFitness]({{< ref "/gyms/myfitness" >}})[^1]
+Gym! Latvija chain is owned by {{% gym-link "myfitness" %}}[^1]
 
 [^1]: [Diennakts sporta klubu tīkls Gym! atklāj otru klubu Rīgā :: Dienas Bizness](https://www.db.lv/zinas/diennakts-sporta-klubu-tikls-gym-atklaj-otru-klubu-riga-503710)
