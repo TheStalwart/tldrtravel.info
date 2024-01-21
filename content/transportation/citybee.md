@@ -6,10 +6,14 @@ payments:
     cash: false
     googlePay: false
     payPal: false
+countries:
+- estonia
+- latvia
+- lithuania
 ---
 
 # CityBee
-Car sharing in Baltic states
+Car sharing in Baltic states[^2]
 
 ## Download
 [About Us - CityBee](https://citybee.lv/en/citybee/)
@@ -24,10 +28,7 @@ Car sharing in Baltic states
 ## Extra notes
 - Car sharing is available to 18 year olds with brand new driver's license[^1]
 
-## Countries supported[^2]
-- [Estonia]({{< ref "/countries/estonia" >}})
-- [Latvia]({{< ref "/countries/latvia" >}})
-- [Lithuania]({{< ref "/countries/lithuania" >}})
+{{% country-list %}}
 
 [^1]: [rental car for an 18 year old : latvia](https://www.reddit.com/r/latvia/comments/wct0ne/rental_car_for_an_18_year_old/iihiwho/)
 [^2]: [CityBee: Overview | LinkedIn](https://www.linkedin.com/company/citybee-car-sharing)

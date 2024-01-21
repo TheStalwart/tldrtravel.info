@@ -1,0 +1,5 @@
+## Countries supported
+{{ range $element := $.Page.Params.countries }}
+{{- $linkOptions := dict "path" (printf "/countries/%s" $element) -}}
+- [{{ $element | title }}]({{ $.Page.RelRef $linkOptions }})
+{{ end }}
