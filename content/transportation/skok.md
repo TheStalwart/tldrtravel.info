@@ -22,7 +22,7 @@ Every moped has two helmets in top box - size M and L, it's legal and comfortabl
 - 🚲 e-Bicycle sharing (Ninebot Urban A200 - limited to 25km/h, pedal assist only)
 
 ## Notes
-In [Latvia]({{< ref "/countries/latvia#motorcycling" >}}), it's legal to ride motorcycles (including mopeds) on public transport lanes, and legally park them on sidewalks (except pedestrian streets) for free.
+In {{% country-link "latvia#motorcycling" %}}, it's legal to ride motorcycles (including mopeds) on public transport lanes, and legally park them on sidewalks (except pedestrian streets) for free.
 
 ## Payment methods
 - [Cards]({{< ref "/payments/cards" >}})

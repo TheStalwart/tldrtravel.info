@@ -3,7 +3,7 @@ title: Wolt
 ---
 
 # Wolt
-The most diverse inventory of deliverable products in [Latvia]({{< ref "/countries/latvia" >}}).
+The most diverse inventory of deliverable products in {{% country-link "latvia" %}}.
 
 ## Download
 [Wolt Delivery: Food and more](https://wolt.com/)
