@@ -1,0 +1,4 @@
+## Delivery
+{{ range (where (where .Site.Pages "Section" "delivery" ) ".Params.countries" "intersect" (slice $.Page.File.BaseFileName ) ) }}
+- [{{ .Title }}]({{ .RelPermalink }})
+{{- end -}}

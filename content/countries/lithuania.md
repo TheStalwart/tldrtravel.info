@@ -10,9 +10,7 @@ title: Lithuania
 - 🚐 Van sharing: [Bolt Drive]({{< ref "/transportation/bolt" >}}), [CityBee]({{< ref "/transportation/citybee" >}})
 - 🛴 Scooter sharing: [Bolt]({{< ref "/transportation/bolt" >}})
 
-## Deliveries
-- [Wolt]({{< ref "/delivery/wolt" >}})
-- [Bolt Food]({{< ref "/delivery/bolt-food" >}})
+{{% delivery-list %}}
 
 ## Alcohol sale
 - Monday-Saturday: 10:00-20:00 

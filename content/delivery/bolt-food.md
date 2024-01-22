@@ -1,5 +1,37 @@
 ---
 title: Bolt Food
+countries: # This definition only includes european countries: https://bolt.eu/en/cities/
+- austria
+- azerbaijan
+- belgium
+- croatia
+- cyprus
+- czechia
+- denmark
+- estonia
+- finland
+- france
+- georgia
+- germany
+- hungary
+- ireland
+- italy
+- latvia
+- lithuania
+- malta
+- moldova
+- netherlands
+- norway
+- poland
+- portugal
+- romania
+- slovakia
+- slovenia
+- spain
+- sweden
+- switzerland
+- uk
+- ukraine
 ---
 
 # Bolt Food

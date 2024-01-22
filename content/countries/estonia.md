@@ -10,8 +10,6 @@ title: Estonia
 - 🚐 Van sharing: [Bolt Drive]({{< ref "/transportation/bolt" >}}), [CityBee]({{< ref "/transportation/citybee" >}})
 - 🛴 Scooter sharing: [Bolt]({{< ref "/transportation/bolt" >}}), [Tuul]({{< ref "/transportation/tuul" >}})
 
-## Deliveries
-- [Wolt]({{< ref "/delivery/wolt" >}})
-- [Bolt Food]({{< ref "/delivery/bolt-food" >}})
+{{% delivery-list %}}
 
 {{% gym-list %}}

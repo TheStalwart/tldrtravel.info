@@ -2,3 +2,4 @@
 title: Germany
 ---
 
+{{% delivery-list %}}

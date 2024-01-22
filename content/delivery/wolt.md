@@ -1,5 +1,31 @@
 ---
 title: Wolt
+countries: # https://wolt.com/
+- austria
+- azerbaijan
+- croatia
+- cyprus
+- czechia
+- denmark
+- estonia
+- finland
+- georgia
+- germany
+- greece
+- hungary
+- iceland
+- israel
+- japan
+- kazakhstan
+- latvia
+- lithuania
+- malta
+- norway
+- poland
+- serbia
+- slovakia
+- slovenia
+- sweden
 ---
 
 # Wolt
