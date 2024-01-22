@@ -52,10 +52,7 @@ Had great experience renting a motorcycle from [L-auto](https://l-auto.lv/lv) - 
 	- vaping product _user_ must be 20 years old
 	- flavored vaping products will be illegal to sell, only tobacco flavor will be legal
 
-## Gyms
-- [Lemon Gym]({{< ref "/gyms/lemon-gym" >}})
-- [Gym! Latvija]({{< ref "/gyms/gym-latvija" >}})
-- [MyFitness]({{< ref "/gyms/myfitness" >}})
+{{% gym-list %}}
 
 [^1]: [Likumi.lv: Par alkoholisko dzērienu mazumtirdzniecības laika un vietas ierobežojumiem
 ](https://likumi.lv/ta/id/272336-par-alkoholisko-dzerienu-mazumtirdzniecibas-laika-un-vietas-ierobezojumiem)

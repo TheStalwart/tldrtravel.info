@@ -1,0 +1,4 @@
+## Gyms
+{{ range (where (where .Site.Pages "Section" "gyms" ) ".Params.countries" "intersect" (slice $.Page.File.BaseFileName ) ) }}
+- [{{ .Title }}]({{ .RelPermalink }})
+{{- end -}}
