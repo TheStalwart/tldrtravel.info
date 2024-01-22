@@ -45,7 +45,7 @@ The most diverse inventory of deliverable products in {{% country-link "latvia" 
 - ...much more
 
 ## Extra notes
-Some restaurants only work with [Bolt Food]({{< ref "/delivery/bolt-food" >}}), so if you're missing a specific place in search results - try the green app.
+Some restaurants only work with {{% delivery-link "bolt-food" %}}, so if you're missing a specific place in search results - try the green app.
 
 ## Countries supported
 - [Austria]({{< ref "/countries/austria" >}})

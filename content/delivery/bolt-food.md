@@ -35,7 +35,7 @@ countries: # This definition only includes european countries: https://bolt.eu/e
 ---
 
 # Bolt Food
-Most restaurants work with both Bolt Food and [Wolt]({{< ref "/delivery/wolt" >}}), but if you need a non-edible product like memory card or a phone charger - [Wolt]({{< ref "/delivery/wolt" >}}) is a better choice.
+Most restaurants work with both Bolt Food and {{% delivery-link "wolt" %}}, but if you need a non-edible product like memory card or a phone charger - {{% delivery-link "wolt" %}} is a better choice.
 
 ## Download
 [Bolt Food: Delivery & Takeaway | Restaurants, Groceries and More](https://bolt.eu/food/)
@@ -46,7 +46,7 @@ Most restaurants work with both Bolt Food and [Wolt]({{< ref "/delivery/wolt" >}
 - Electronics
 
 ## Extra notes
-Some restaurants only work with [Wolt]({{< ref "/delivery/wolt" >}}), so if you're missing a specific place in search results - try the blue app.
+Some restaurants only work with {{% delivery-link "wolt" %}}, so if you're missing a specific place in search results - try the blue app.
 
 ## Countries supported
 - [Austria]({{< ref "/countries/austria" >}})
