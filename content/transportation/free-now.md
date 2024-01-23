@@ -8,7 +8,7 @@ payments:
 ---
 
 # FREENOW
-Alternative to [Bolt]({{< ref "/transportation/bolt" >}}) for transportation, often cheaper.
+Alternative to {{% transportation-link "bolt" %}} for transportation, often cheaper.
 
 ## Download
 [Ride - Download App | FREENOW (free-now.com)](https://www.free-now.com/uk/ride/download-app/)
