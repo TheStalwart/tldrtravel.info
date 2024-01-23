@@ -1,0 +1,6 @@
+applepay: 
+  title: "Apple Pay"
+googlepay:
+  title: "Google Pay"
+paypal:
+  title: "PayPal"

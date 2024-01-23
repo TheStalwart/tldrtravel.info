@@ -19,9 +19,6 @@ countries:
 ## Vehicles available
 - 🛴 Scooter sharing
 
-## Payment methods
-- Apple Pay
-- Google Pay
-- [Cards]({{< ref "/payments/cards" >}})
+{{% payment-list %}}
 
 {{% country-list %}}

@@ -22,8 +22,7 @@ Car sharing in Baltic states[^2]
 - 🚙 Car sharing
 - 🚐 Van sharing
 
-## Payment methods
-- [Cards]({{< ref "/payments/cards" >}})
+{{% payment-list %}}
 
 ## Extra notes
 - Car sharing is available to 18 year olds with brand new driver's license[^1]

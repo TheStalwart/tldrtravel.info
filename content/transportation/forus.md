@@ -25,8 +25,6 @@ Alternative to {{% transportation-link "bolt" %}}, that is sometimes cheaper, bu
 ## Vehicles available
 - 🚕 Taxi
 
-## Payment methods
-- [Cards]({{< ref "/payments/cards" >}})
-- [Cash]({{< ref "/payments/cash" >}}) (taxi only)
+{{% payment-list %}}
 
 {{% country-list %}}

@@ -17,10 +17,8 @@ Alternative to {{% transportation-link "bolt" %}} for transportation, often chea
 - 🚕 Taxi
 - 🛴 Scooter sharing
 - 🚲 e-Bicycle sharing
-## Payment methods
-- Apple Pay
-- PayPal
-- [Cards]({{< ref "/payments/cards" >}})
+
+{{% payment-list %}}
 
 ## Issues
 Not possible to plan a trip outside of current geolocation

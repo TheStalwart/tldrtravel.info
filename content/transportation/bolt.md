@@ -21,11 +21,7 @@ Must-have app for urban transportation in most of the Europe.
 - 🚲 e-Bicycle sharing 
 - 🛴 Scooter sharing
 
-## Payment methods
-- Apple Pay
-- Google Pay
-- [Cards]({{< ref "/payments/cards" >}})
-- [Cash]({{< ref "/payments/cash" >}}) (taxi only)
+{{% payment-list %}}
 
 ## Extra notes
 - To rent a car, driver must be over 20-years of age and have held a valid driving licence for at least 1 year[^1]

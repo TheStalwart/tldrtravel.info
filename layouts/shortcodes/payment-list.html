@@ -1,0 +1,17 @@
+## Payment methods
+{{- range $key, $value := $.Page.Params.payments -}}
+    {{- if $value -}}
+        {{- $pagePath := printf "/payments/%s" $key -}}
+        {{- $page := $.Page.GetPage $pagePath -}}
+        {{- if $page -}}
+            {{ "\n" }}- [{{ $page.Title }}]({{ $page.RelPermalink }})
+        {{- else -}}
+            {{- with index $.Site.Data.payments $key -}}
+                {{ "\n" }}- {{ .title }}
+            {{- end -}}
+        {{- end -}}
+        {{- if eq $value "🚕" -}}
+            {{ " " }}(taxi only)
+        {{- end -}}
+    {{- end -}}
+{{- end -}}

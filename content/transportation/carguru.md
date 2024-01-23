@@ -19,8 +19,7 @@ Car sharing in Latvia
 ## Vehicles available
 - 🚙 Car sharing
 
-## Payment methods
-- [Cards]({{< ref "/payments/cards" >}})
+{{% payment-list %}}
 
 ## Extra notes
 - To rent a car, driver must be 21 year old and possessing a valid category B driver’s license held for a minimum of 2 years[^1]

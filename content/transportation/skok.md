@@ -24,8 +24,7 @@ Every moped has two helmets in top box - size M and L, it's legal and comfortabl
 ## Notes
 In {{% country-link "latvia#motorcycling" %}}, it's legal to ride motorcycles (including mopeds) on public transport lanes, and legally park them on sidewalks (except pedestrian streets) for free.
 
-## Payment methods
-- [Cards]({{< ref "/payments/cards" >}})
+{{% payment-list %}}
 
 ## Issues
 - Marketing is unclear and inconsistent about season start and end dates.
