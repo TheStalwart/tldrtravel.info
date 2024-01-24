@@ -1,5 +1,14 @@
 ## Countries supported
-{{ range $element := $.Page.Params.countries }}
-{{- $linkOptions := dict "path" (printf "/countries/%s" $element) -}}
-- [{{ $element | title }}]({{ $.Page.RelRef $linkOptions }})
+{{- $supportedCountriesListed := 0 -}}
+{{- range $element := $.Page.Params.countries -}}
+    {{- $countryPagePath := printf "/countries/%s" $element -}}
+    {{- $countryPage := $.Page.GetPage $countryPagePath -}}
+    {{- if $countryPage -}}
+        {{- $supportedCountriesListed = add $supportedCountriesListed 1 -}}
+        {{ "\n" }}- [{{ $countryPage.Title }}]({{ $countryPage.RelPermalink }})
+    {{- end -}}
+{{- end -}}
+
+{{ if gt $.Page.Params.countries $supportedCountriesListed }}
+- ...many {{ if $.Page.Params.countryListURL }}[more]({{ $.Page.Params.countryListURL }}){{ else }}more{{ end }}
 {{ end }}

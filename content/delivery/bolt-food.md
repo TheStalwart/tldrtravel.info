@@ -32,6 +32,7 @@ countries: # This definition only includes european countries: https://bolt.eu/e
 - switzerland
 - uk
 - ukraine
+countryListURL: "https://bolt.eu/en/cities/"
 ---
 
 # Bolt Food
@@ -48,15 +49,4 @@ Most restaurants work with both Bolt Food and {{% delivery-link "wolt" %}}, but 
 ## Extra notes
 Some restaurants only work with {{% delivery-link "wolt" %}}, so if you're missing a specific place in search results - try the blue app.
 
-## Countries supported
-- [Austria]({{< ref "/countries/austria" >}})
-- [Estonia]({{< ref "/countries/estonia" >}})
-- [France]({{< ref "/countries/france" >}})
-- [Germany]({{< ref "/countries/germany" >}})
-- [Italy]({{< ref "/countries/italy" >}})
-- [Latvia]({{< ref "/countries/latvia" >}})
-- [Lithuania]({{< ref "/countries/lithuania" >}})
-- [Norway]({{< ref "/countries/norway" >}})
-- [Poland]({{< ref "/countries/poland" >}})
-- [Sweden]({{< ref "/countries/sweden" >}})
-- Many more: [Bolt cities | Use Bolt in cities around the world](https://bolt.eu/en/cities/) 
+{{% country-list %}}

@@ -6,6 +6,39 @@ payments:
     cash: 🚕
     googlePay: true
     payPal: false
+countries: # This definition only includes european countries: https://bolt.eu/en/cities/
+- austria
+- azerbaijan
+- belgium
+- croatia
+- cyprus
+- czechia
+- denmark
+- estonia
+- finland
+- france
+- georgia
+- germany
+- hungary
+- ireland
+- italy
+- latvia
+- lithuania
+- malta
+- moldova
+- netherlands
+- norway
+- poland
+- portugal
+- romania
+- slovakia
+- slovenia
+- spain
+- sweden
+- switzerland
+- uk
+- ukraine
+countryListURL: "https://bolt.eu/en/cities/"
 ---
 
 # Bolt
@@ -27,17 +60,6 @@ Must-have app for urban transportation in most of the Europe.
 - To rent a car, driver must be over 20-years of age and have held a valid driving licence for at least 1 year[^1]
 - [Cabrios](https://en.wikipedia.org/wiki/Convertible) available in select cities during summer
 
-## Countries supported
-- [Austria]({{< ref "/countries/austria" >}})
-- [Estonia]({{< ref "/countries/estonia" >}})
-- [France]({{< ref "/countries/france" >}})
-- [Germany]({{< ref "/countries/germany" >}})
-- [Italy]({{< ref "/countries/italy" >}})
-- [Latvia]({{< ref "/countries/latvia" >}})
-- [Lithuania]({{< ref "/countries/lithuania" >}})
-- [Norway]({{< ref "/countries/norway" >}})
-- [Poland]({{< ref "/countries/poland" >}})
-- [Sweden]({{< ref "/countries/sweden" >}})
-- Many more: [Bolt cities | Use Bolt in cities around the world](https://bolt.eu/en/cities/) 
+{{% country-list %}}
 
 [^1]: [How to rent a car with Bolt Drive](https://bolt.eu/en-lv/drive/)

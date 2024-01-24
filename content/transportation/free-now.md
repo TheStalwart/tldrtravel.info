@@ -5,6 +5,17 @@ payments:
     cards: true
     cash: false
     payPal: true
+countries:
+- uk
+- austria
+- france
+- germany
+- greece
+- ireland
+- italy
+- poland
+- spain
+countryListURL: "https://www.free-now.com/uk/cities/"
 ---
 
 # FREENOW
@@ -23,10 +34,4 @@ Alternative to {{% transportation-link "bolt" %}} for transportation, often chea
 ## Issues
 Not possible to plan a trip outside of current geolocation
 
-## Countries supported
-- [Austria]({{< ref "/countries/austria" >}})
-- [France]({{< ref "/countries/france" >}})
-- [Germany]({{< ref "/countries/germany" >}})
-- [Italy]({{< ref "/countries/italy" >}})
-- [Poland]({{< ref "/countries/poland" >}})
-- Many more: [Ride - Cities | FREENOW (free-now.com)](https://www.free-now.com/uk/cities/)
+{{% country-list %}}
