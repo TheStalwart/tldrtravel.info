@@ -1,0 +1,18 @@
+taxi:
+  emoji: "🚕"
+  title: "Taxi"
+car:
+  emoji: "🚙"
+  title: "Car"
+van:
+  emoji: "🚐"
+  title: "Van"
+ebicycle:
+  emoji: "🚲"
+  title: "e-Bicycle"
+ekickscooter:
+  emoji: "🛴"
+  title: "e-Kickscooter"
+emoto:
+  emoji: "🛵"
+  title: "e-Motorcycle"

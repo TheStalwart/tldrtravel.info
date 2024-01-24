@@ -6,6 +6,8 @@ payments:
     cash: false
     googlePay: false
     payPal: false
+vehicles:
+    car: true
 countries:
 - latvia
 ---
@@ -16,8 +18,7 @@ Car sharing in Latvia
 ## Download
 [CARGURU](https://carguru.lv)
 
-## Vehicles available
-- 🚙 Car sharing
+{{% vehicle-list %}}
 
 {{% payment-list %}}
 

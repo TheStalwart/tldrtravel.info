@@ -5,6 +5,13 @@ payments:
     cards: true
     cash: false
     payPal: false
+vehicles:
+    emoto:
+        model: "NIU NQi GT"
+        comment: "limited to 50km/h"
+    ebicycle:
+        model: "Ninebot Urban A200"
+        comment: "limited to 25km/h, pedal assist only"
 countries:
 - latvia
 ---
@@ -17,9 +24,7 @@ Every moped has two helmets in top box - size M and L, it's legal and comfortabl
 ## Download
 [Skok Sharing - Skok](https://skoksharing.com/) 
 
-## Vehicles available
-- 🛵 e-Moto sharing (NIU NQi GT - limited to 50km/h)
-- 🚲 e-Bicycle sharing (Ninebot Urban A200 - limited to 25km/h, pedal assist only)
+{{% vehicle-list %}}
 
 ## Notes
 In {{% country-link "latvia#motorcycling" %}}, it's legal to ride motorcycles (including mopeds) on public transport lanes, and legally park them on sidewalks (except pedestrian streets) for free.

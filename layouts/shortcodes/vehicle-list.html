@@ -1,0 +1,18 @@
+## Vehicles available
+{{- range $key, $value := .Page.Params.vehicles -}}
+    {{- if ne $value false -}}
+        {{- with index $.Site.Data.vehicles $key -}}
+            {{ "\n" }}- {{ .emoji }} {{ .title }}
+            {{- if eq (printf "%T" $value) "maps.Params" -}}
+                {{- if $value.model -}}
+                    {{ " " }}({{ $value.model }}
+                    {{- if $value.comment -}}
+                    {{ " " }}- {{$value.comment}})
+                    {{- else -}}
+                        )
+                    {{- end -}}
+                {{- end -}}
+            {{- end -}}
+        {{- end -}}
+    {{- end -}}
+{{- end -}}

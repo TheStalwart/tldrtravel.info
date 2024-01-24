@@ -6,6 +6,8 @@ payments:
     cash: false
     googlePay: true
     payPal: false
+vehicles:
+    ekickscooter: true
 countries:
 - estonia
 - latvia
@@ -16,8 +18,7 @@ countries:
 ## Download
 [Home - Tuul e-scooter](https://tuul.xyz/en/)
 
-## Vehicles available
-- 🛴 Scooter sharing
+{{% vehicle-list %}}
 
 {{% payment-list %}}
 

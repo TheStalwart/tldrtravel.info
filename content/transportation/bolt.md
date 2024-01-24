@@ -6,6 +6,12 @@ payments:
     cash: 🚕
     googlePay: true
     payPal: false
+vehicles:
+    taxi: true
+    car: true
+    van: true
+    ebicycle: true
+    ekickscooter: true
 countries: # This definition only includes european countries: https://bolt.eu/en/cities/
 - austria
 - azerbaijan
@@ -47,12 +53,7 @@ Must-have app for urban transportation in most of the Europe.
 ## Download
 [Downloading the Bolt app | Bolt](https://bolt.eu/en-lv/support/articles/115003024753/) 
 
-## Vehicles available
-- 🚕 Taxi
-- 🚙 Car sharing
-- 🚐 Van sharing
-- 🚲 e-Bicycle sharing 
-- 🛴 Scooter sharing
+{{% vehicle-list %}}
 
 {{% payment-list %}}
 

@@ -6,6 +6,9 @@ payments:
     cash: false
     googlePay: false
     payPal: false
+vehicles:
+    car: true
+    van: true
 countries:
 - estonia
 - latvia
@@ -18,9 +21,7 @@ Car sharing in Baltic states[^2]
 ## Download
 [About Us - CityBee](https://citybee.lv/en/citybee/)
 
-## Vehicles available
-- 🚙 Car sharing
-- 🚐 Van sharing
+{{% vehicle-list %}}
 
 {{% payment-list %}}
 

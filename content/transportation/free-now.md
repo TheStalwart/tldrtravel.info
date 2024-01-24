@@ -5,6 +5,10 @@ payments:
     cards: true
     cash: false
     payPal: true
+vehicles:
+    taxi: true
+    ebicycle: true
+    ekickscooter: true
 countries:
 - uk
 - austria
@@ -24,10 +28,7 @@ Alternative to {{% transportation-link "bolt" %}} for transportation, often chea
 ## Download
 [Ride - Download App | FREENOW (free-now.com)](https://www.free-now.com/uk/ride/download-app/)
 
-## Vehicles available
-- 🚕 Taxi
-- 🛴 Scooter sharing
-- 🚲 e-Bicycle sharing
+{{% vehicle-list %}}
 
 {{% payment-list %}}
 

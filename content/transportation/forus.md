@@ -6,6 +6,8 @@ payments:
     cash: 🚕
     googlePay: false
     payPal: false
+vehicles:
+    taxi: true
 countries:
 - estonia
 - latvia
@@ -22,8 +24,7 @@ Alternative to {{% transportation-link "bolt" %}}, that is sometimes cheaper, bu
 - Apple Pay is not supported
 - Google Pay is not supported
 
-## Vehicles available
-- 🚕 Taxi
+{{% vehicle-list %}}
 
 {{% payment-list %}}
 
