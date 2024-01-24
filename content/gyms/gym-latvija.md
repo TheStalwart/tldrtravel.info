@@ -7,7 +7,7 @@ countries:
 
 # Gym! Latvija
 
-Truly 24/7 low cost gym chain in Latvia.
+Truly 24/7 low cost gym chain in {{% country-link "latvia" %}}.
 
 ## Website
 [Gym! For Every Body | 19€/mēnesī | 24/7 | Rīgā](https://www.gymlatvija.lv)

@@ -7,7 +7,7 @@ countries:
 
 # Gym+
 
-Truly 24/7 gym chain in Lithuania.
+Truly 24/7 gym chain in {{% country-link "lithuania" %}}.
 
 ## Website
 [GymPlius Sporto Klubas 24/7](https://gymplius.lt)
