@@ -3,8 +3,6 @@ title: Sweden
 flagEmoji: 🇸🇪
 ---
 
-# Sweden
-
 {{% transportation-list %}}
 
 {{% delivery-list %}}

@@ -3,8 +3,6 @@ title: Italy
 flagEmoji: 🇮🇹
 ---
 
-# Italy
-
 {{% transportation-list %}}
 
 {{% delivery-list %}}

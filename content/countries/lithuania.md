@@ -3,8 +3,6 @@ title: Lithuania
 flagEmoji: 🇱🇹
 ---
 
-# Lithuania
-
 {{% transportation-list %}}
 
 {{% delivery-list %}}

@@ -3,8 +3,6 @@ title: Norway
 flagEmoji: 🇳🇴
 ---
 
-# Norway
-
 {{% transportation-list %}}
 
 {{% delivery-list %}}
