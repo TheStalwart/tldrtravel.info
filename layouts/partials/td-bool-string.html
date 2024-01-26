@@ -1,0 +1,9 @@
+<td>
+    {{ if eq . true }}
+        ✅
+    {{ else if eq . false }}
+        ❌
+    {{ else if ne . nil }}
+        {{ . }}
+    {{ end }}
+</td>

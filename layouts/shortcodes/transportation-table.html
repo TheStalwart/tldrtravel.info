@@ -2,6 +2,9 @@
     <thead>
         <tr>
             <th>App</th>
+            {{- range $key, $value := .Site.Data.vehicles -}}
+                <th>{{ $value.emoji }}</th>
+            {{- end -}}
             <th>Apple Pay</th>
             <th>Cards</th>
             <th>Cash</th>
@@ -10,54 +13,17 @@
         </tr>
     </thead>
     <tbody>
-        {{ range $.Page.Pages }}
+        {{ range $service := .Page.Pages }}
         <tr>
             <td><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a></td>
-            <td>
-                {{ if eq .Params.payments.applePay true }}
-                    ✅
-                {{ else if eq .Params.payments.applePay false }}
-                    ❌
-                {{ else if ne .Params.payments.applePay nil }}
-                    {{ .Params.payments.applePay }}
-                {{ end }}
-            </td>
-            <td>
-                {{ if eq .Params.payments.cards true }}
-                    ✅
-                {{ else if eq .Params.payments.cards false }}
-                    ❌
-                {{ else if ne .Params.payments.cards nil }}
-                    {{ .Params.payments.cards }}
-                {{ end }}
-            </td>
-            <td>
-                {{ if eq .Params.payments.cash true }}
-                    ✅
-                {{ else if eq .Params.payments.cash false }}
-                    ❌
-                {{ else if ne .Params.payments.cash nil }}
-                    {{ .Params.payments.cash }}
-                {{ end }}
-            </td>
-            <td>
-                {{ if eq .Params.payments.googlePay true }}
-                    ✅
-                {{ else if eq .Params.payments.googlePay false }}
-                    ❌
-                {{ else if ne .Params.payments.googlePay nil }}
-                    {{ .Params.payments.googlePay }}
-                {{ end }}
-            </td>
-            <td>
-                {{ if eq .Params.payments.payPal true }}
-                    ✅
-                {{ else if eq .Params.payments.payPal false }}
-                    ❌
-                {{ else if ne .Params.payments.payPal nil }}
-                    {{ .Params.payments.payPal }}
-                {{ end }}
-            </td>
+            {{- range $key, $value := .Site.Data.vehicles -}}
+                {{ partial "td-bool.html" (index $service.Params.vehicles $key) }}
+            {{- end -}}
+            {{ partial "td-bool-string.html" .Params.payments.applePay }}
+            {{ partial "td-bool-string.html" .Params.payments.cards }}
+            {{ partial "td-bool-string.html" .Params.payments.cash }}
+            {{ partial "td-bool-string.html" .Params.payments.googlePay }}
+            {{ partial "td-bool-string.html" .Params.payments.payPal }}
         </tr>
         {{ end }}
     </tbody>
