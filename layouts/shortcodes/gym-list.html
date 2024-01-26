@@ -1,4 +1,7 @@
+{{- $gyms := where (where .Site.Pages "Section" "gyms" ) ".Params.countries" "intersect" (slice $.Page.File.BaseFileName ) -}}
+{{- if gt $gyms.Len 0 -}}
 ## Gyms
-{{ range (where (where .Site.Pages "Section" "gyms" ) ".Params.countries" "intersect" (slice $.Page.File.BaseFileName ) ) }}
+{{ range $gyms }}
 - [{{ .Title }}]({{ .RelPermalink }})
+{{- end -}}
 {{- end -}}
