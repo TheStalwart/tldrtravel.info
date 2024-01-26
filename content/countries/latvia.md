@@ -7,13 +7,7 @@ title: Latvia
 ## Emergencies
 Have [eHealthPoint](https://eveselibaspunkts.lv/en/App) app installed on your phone. It allows user to make an emergency call to 113 by simultaneously transmitting caller location data (GPS coordinates) and basic information of caller to Emergency medical service dispatchers.
 
-## Transportation
-- 🚕 Taxi: [Bolt]({{< ref "/transportation/bolt" >}}), [Forus]({{< ref "/transportation/forus" >}})
-- 🚙 Car sharing: [Bolt Drive]({{< ref "/transportation/bolt" >}}), [CityBee]({{< ref "/transportation/citybee" >}}), [Carguru]({{< ref "/transportation/carguru" >}})
-- 🚐 Van sharing: [Bolt Drive]({{< ref "/transportation/bolt" >}}), [CityBee]({{< ref "/transportation/citybee" >}})
-- 🛵 Moto sharing: [Skok]({{< ref "/transportation/skok" >}})
-- 🛴 Scooter sharing: [Bolt]({{< ref "/transportation/bolt" >}}), [Tuul]({{< ref "/transportation/tuul" >}})
-- 🚲 Bicycle sharing: [Skok]({{< ref "/transportation/skok" >}})
+{{% transportation-list %}}
 
 {{% delivery-list %}}
 

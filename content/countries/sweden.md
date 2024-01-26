@@ -4,8 +4,7 @@ title: Sweden
 
 # Sweden
 
-## Transportation
-- 🚕 Taxi: [Bolt]({{< ref "/transportation/bolt" >}})
+{{% transportation-list %}}
 
 {{% delivery-list %}}
 
