@@ -1,5 +1,6 @@
 ---
 title: Lithuania
+flagEmoji: 🇱🇹
 ---
 
 # Lithuania

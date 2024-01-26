@@ -1,5 +1,6 @@
 ---
 title: Latvia
+flagEmoji: 🇱🇻
 ---
 
 # Latvia

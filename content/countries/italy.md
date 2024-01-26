@@ -1,5 +1,6 @@
 ---
 title: Italy
+flagEmoji: 🇮🇹
 ---
 
 # Italy

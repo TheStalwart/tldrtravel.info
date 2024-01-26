@@ -1,5 +1,6 @@
 ---
 title: Austria
+flagEmoji: 🇦🇹
 ---
 
 # Austria

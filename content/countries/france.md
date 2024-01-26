@@ -1,5 +1,6 @@
 ---
 title: France
+flagEmoji: 🇫🇷
 ---
 
 # France

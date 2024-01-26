@@ -1,5 +1,6 @@
 ---
 title: Germany
+flagEmoji: 🇩🇪
 ---
 
 # Germany

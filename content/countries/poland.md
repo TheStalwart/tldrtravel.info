@@ -1,5 +1,6 @@
 ---
 title: Poland
+flagEmoji: 🇵🇱
 ---
 
 # Poland

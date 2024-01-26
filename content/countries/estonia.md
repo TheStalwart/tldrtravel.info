@@ -1,5 +1,6 @@
 ---
 title: Estonia
+flagEmoji: 🇪🇪
 ---
 
 # Estonia

@@ -1,5 +1,6 @@
 ---
 title: Sweden
+flagEmoji: 🇸🇪
 ---
 
 # Sweden

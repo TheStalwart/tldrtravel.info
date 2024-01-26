@@ -1,5 +1,6 @@
 ---
 title: Norway
+flagEmoji: 🇳🇴
 ---
 
 # Norway
