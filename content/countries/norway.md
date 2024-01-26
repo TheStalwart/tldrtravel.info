@@ -4,7 +4,11 @@ title: Norway
 
 # Norway
 
+{{% transportation-list %}}
+
 {{% delivery-list %}}
+
+{{% gym-list %}}
 
 ## Alcohol sale
 - <=4.75%:
