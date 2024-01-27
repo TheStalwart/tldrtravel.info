@@ -13,5 +13,8 @@ weight: 20
 - [VUUMLY](https://vuumly.com/demo/) - shared vehicle aggregator and map
 
 ## Not so useful sites
-- [Tripadvisor](https://www.tripadvisor.com)
 - [Hoodmaps](https://hoodmaps.com/)
+
+## POI lookup
+- [Tripadvisor](https://www.tripadvisor.com)
+- [Trip and Treat](https://www.tripandtreat.com) - Plan next trip without hustle with AI help
