@@ -4,8 +4,14 @@
     {{- $markdownEntries := slice -}}
     {{- range $dataEntry := .Params.parking -}}
         {{- $markdownEntry := printf "- %s" (i18n (printf "parking.%s" $dataEntry.type)) -}}
-        {{- if $dataEntry.evCharger -}}
+        {{- if $dataEntry.comment -}}
+            {{- $markdownEntry = printf "%s%s" $markdownEntry (printf " (%s)" $dataEntry.comment) -}}
+        {{- end -}}
+        {{- if ne $dataEntry.evCharger nil -}}
             {{- $markdownEntry = printf "%s%s" $markdownEntry (printf "\n  - %s: %s" (i18n "parking.evCharger") (partial "bool-emoji" $dataEntry.evCharger)) -}}
+        {{- end -}}
+        {{- if $dataEntry.heightLimit -}}
+            {{- $markdownEntry = printf "%s%s" $markdownEntry (printf "\n  - %s: %s" (i18n "parking.heightLimit") (partial "format-value-cm" $dataEntry.heightLimit)) -}}
         {{- end -}}
         {{- $markdownEntries = $markdownEntries | append $markdownEntry -}}
     {{- end -}}

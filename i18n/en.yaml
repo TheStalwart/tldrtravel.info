@@ -7,3 +7,5 @@ parking:
     other: Multi-storey parking
   evCharger:
     other: "EV charger"
+  heightLimit:
+    other: "Height limit"
