@@ -2,6 +2,8 @@
 
 {{- $links = $links | append (printf "- [Nomad List](https://nomadlist.com/%s)" .File.BaseFileName) -}}
 
+{{- $links = $links | append (printf "- [Trans Euro Trail](https://transeurotrail.org/%s)" .File.BaseFileName) -}}
+
 {{- /*
     Find "Explore %CountryName%" page on TripAdvisor.com
     e.g. https://www.tripadvisor.com/Tourism-g274960-Latvia-Vacations.html

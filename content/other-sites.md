@@ -6,7 +6,6 @@ weight: 20
 # Other sites
 
 ## Urban survival
-- [Trans Euro Trail](https://transeurotrail.org) - information for motorcyclists
 - [Mains electricity by country](https://en.wikipedia.org/wiki/Mains_electricity_by_country)
 - [PlugShare](https://www.plugshare.com) - electric vehicle charger map
 - [VUUMLY](https://vuumly.com/demo/) - shared vehicle aggregator and map
