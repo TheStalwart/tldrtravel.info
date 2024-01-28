@@ -2,6 +2,8 @@
 
 {{- $links = $links | append (printf "- [CountryReports](https://www.countryreports.org/country/%s/fact.htm)" .File.BaseFileName) -}}
 
+{{- $links = $links | append (printf "- [Coworker](https://www.coworker.com/%s)" .File.BaseFileName) -}}
+
 {{- $links = $links | append (printf "- [Nomad List](https://nomadlist.com/%s)" .File.BaseFileName) -}}
 
 {{- $links = $links | append (printf "- [Trans Euro Trail](https://transeurotrail.org/%s)" .File.BaseFileName) -}}
