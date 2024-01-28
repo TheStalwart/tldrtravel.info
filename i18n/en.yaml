@@ -9,3 +9,7 @@ parking:
     other: EV charger
   heightLimit:
     other: Height limit
+  overnight:
+    other: Overnight
+  timeLimit:
+    other: Time limit
