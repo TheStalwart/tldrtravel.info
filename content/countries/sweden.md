@@ -1,6 +1,7 @@
 ---
 title: Sweden
 flagEmoji: 🇸🇪
+tripAdvisorID: g189806
 ---
 
 {{% transportation-list %}}

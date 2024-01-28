@@ -4,6 +4,8 @@
     <a href="{{ .RelPermalink }}">{{ partial "countries/title.html" . }}</a>
   </h1>
   {{ partial "docs/post-meta" . }}
+  
+  {{ partial "countries/other-sites.html" . }}
   {{- .Content -}}
 </article>
 {{ end }}

@@ -1,6 +1,7 @@
 ---
 title: Latvia
 flagEmoji: 🇱🇻
+tripAdvisorID: g274960
 ---
 
 ## Emergencies

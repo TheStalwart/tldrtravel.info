@@ -1,6 +1,7 @@
 ---
 title: Norway
 flagEmoji: 🇳🇴
+tripAdvisorID: g190455
 ---
 
 {{% transportation-list %}}

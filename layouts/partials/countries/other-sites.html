@@ -1,0 +1,18 @@
+{{- $links := slice -}}
+
+{{- $links = $links | append (printf "- [Nomad List](https://nomadlist.com/%s)" .File.BaseFileName) -}}
+
+{{- /*
+    Find "Explore %CountryName%" page on TripAdvisor.com
+    e.g. https://www.tripadvisor.com/Tourism-g274960-Latvia-Vacations.html
+    and copy "gXXXXXX" ID from URL 
+    into tripAdvisorID field of country page front matter
+*/ -}}
+{{- if .Params.tripAdvisorID -}}
+    {{- $links = $links | append (printf "- [Tripadvisor](https://www.tripadvisor.com/Tourism-%s.html)" .Params.tripAdvisorID) -}}
+{{- end -}}
+
+{{- if $links -}}
+    {{ "## Other sites" | .RenderString }}
+    {{ delimit $links "\n" | .RenderString }}
+{{- end -}}

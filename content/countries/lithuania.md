@@ -1,6 +1,7 @@
 ---
 title: Lithuania
 flagEmoji: 🇱🇹
+tripAdvisorID: g274947
 ---
 
 {{% transportation-list %}}

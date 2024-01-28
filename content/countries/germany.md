@@ -1,6 +1,7 @@
 ---
 title: Germany
 flagEmoji: 🇩🇪
+tripAdvisorID: g187275
 ---
 
 {{% transportation-list %}}
