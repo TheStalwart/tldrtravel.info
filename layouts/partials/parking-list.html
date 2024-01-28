@@ -15,7 +15,7 @@
         {{- end -}}
         {{- $markdownEntries = $markdownEntries | append $markdownEntry -}}
     {{- end -}}
-    {{- range $parkingType := (slice "street" "multistorey") -}}
+    {{- range $parkingType := (slice "multistorey" "lot" "street") -}}
         {{- if not (where $.Page.Params.parking "type" $parkingType) -}}
             {{- $markdownEntries = $markdownEntries | append (printf "- %s: %s" (i18n (printf "parking.%s" $parkingType)) (partial "bool-emoji" false)) -}}
         {{- end -}}
