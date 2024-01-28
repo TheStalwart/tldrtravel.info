@@ -17,7 +17,7 @@
         <tr>
             <td><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a></td>
             {{- range $key, $value := .Site.Data.vehicles -}}
-                {{ partial "td-bool.html" (index $service.Params.vehicles $key) }}
+                <td>{{- partial "bool-emoji" (index $service.Params.vehicles $key) -}}</td>
             {{- end -}}
             {{ partial "td-bool-string.html" .Params.payments.applePay }}
             {{ partial "td-bool-string.html" .Params.payments.cards }}
