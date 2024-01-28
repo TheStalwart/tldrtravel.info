@@ -12,6 +12,8 @@
     {{- $links = $links | append (printf "- [Tripadvisor](https://www.tripadvisor.com/Tourism-%s.html)" .Params.tripAdvisorID) -}}
 {{- end -}}
 
+{{- $links = $links | append (printf "- [Wikipedia](https://en.wikipedia.org/wiki/%s)" .File.BaseFileName) -}}
+
 {{- if $links -}}
     {{ "## Other sites" | .RenderString }}
     {{ delimit $links "\n" | .RenderString }}
