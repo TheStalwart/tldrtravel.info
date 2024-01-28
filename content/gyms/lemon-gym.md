@@ -29,4 +29,8 @@ Truly 24/7 low cost gym chain in Baltic states.
 - Subscriptions are per-country by default, but support staff states they can arrange access to other country's gyms for a limited time on per-request basis
 - No free drinking water
 
+## Wi-Fi
+- Teika
+    - unlimited, no captive portal
+
 {{% country-list %}}
