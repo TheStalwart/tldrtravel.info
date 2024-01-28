@@ -1,0 +1,9 @@
+parking:
+  lot:
+    other: Parking lot
+  street:
+    other: Street parking
+  multistorey:
+    other: Multi-storey parking
+  evCharger:
+    other: "EV charger"

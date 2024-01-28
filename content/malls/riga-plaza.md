@@ -3,8 +3,6 @@ title: Riga Plaza
 dogFriendly: true
 ---
 
-# Rīga Plaza
-
 ## Website
 [Rīga Plaza](https://www.rigaplaza.lv)
 

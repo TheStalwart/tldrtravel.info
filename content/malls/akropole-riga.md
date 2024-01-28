@@ -1,9 +1,10 @@
 ---
 title: Akropole Rīga
 dogFriendly: false
+parking:
+- type: lot
+  evCharger: true
 ---
-
-# Akropole Rīga
 
 ## Website
 [Iepirkšanās un izklaides centrs AKROPOLE](https://www.akropoleriga.lv)
@@ -34,11 +35,7 @@ dogFriendly: false
 ## Store categories
 - groceries: maxima
 - affordable clothing: sports-direct
-
-## Parking
-- Parking lot: yes
-- Multistory: no
-- Street parking: no
+- camping equipment???
 
 ## Wi-Fi
 - unlimited, no captive portal
