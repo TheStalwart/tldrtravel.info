@@ -13,7 +13,7 @@ countries:
 ---
 
 # Carguru
-Car sharing in Latvia
+Car sharing in [](/countries/latvia) 
 
 ## Download
 [CARGURU](https://carguru.lv)

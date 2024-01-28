@@ -1,0 +1,16 @@
+{{- $text := .Text -}}
+{{- if not $text -}}
+    {{- $parameterHashSplit := (split (.Destination) "#") -}}
+    {{- $pagePath := index $parameterHashSplit 0 -}}
+    {{- $page := $.Page.GetPage $pagePath -}}
+    {{- if $page -}}
+        {{- if $page.Params.flagEmoji -}}
+            {{- /* https://stackoverflow.com/a/28405917 */ -}}
+            {{- $text = printf "%s&#8288;%s" $page.Params.flagEmoji $page.Title -}}
+        {{- else -}}
+            {{- $text = $page.Title -}}
+        {{- end -}}
+    {{- end -}}
+{{- end -}}
+
+<a href="{{ .Destination | safeURL }}"{{ with .Title}} title="{{ . }}"{{ end }}>{{ $text | safeHTML }}</a>
