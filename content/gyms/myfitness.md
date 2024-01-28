@@ -8,7 +8,7 @@ countries:
 
 # MyFitness
 
-Premium gym chain in {{% country-link "estonia" %}} and {{% country-link "latvia" %}}.
+Premium gym chain in [](/countries/estonia) and [](/countries/latvia).
 
 ## Websites
 - Estonia: [MyFitness spordiklubi](https://www.myfitness.ee)

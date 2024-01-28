@@ -30,7 +30,7 @@ countryListURL: "https://wolt.com/"
 ---
 
 # Wolt
-The most diverse inventory of deliverable products in {{% country-link "latvia" %}}.
+The most diverse inventory of deliverable products in [](/countries/latvia).
 
 ## Download
 [Wolt Delivery: Food and more](https://wolt.com/)
