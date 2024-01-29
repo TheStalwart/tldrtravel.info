@@ -1,6 +1,22 @@
 ---
 title: Domina
 dogFriendly: true
+parking:
+- type: multistorey
+  evCharger: true
+  heightLimit: 190
+  comment: north-east
+  overnight: false
+- type: multistorey
+  evCharger: true
+  heightLimit: 210
+  comment: south-west
+  overnight: false
+- type: lot
+  evCharger: false
+  comment: almost always full, including disabled spots
+  overnight: false
+  timeLimit: 180
 ---
 
 ## Website
@@ -15,11 +31,6 @@ dogFriendly: true
     - Western fast food
     - European cuisine
 
-## Parking
-- Street parking: employee-only and almost full all the time
-- Parking lot: no
-- NE multistory: 190cm height limit
-- SW multistory: 210cm height limit
 
 ## Gyms
 - {{% gym-link "myfitness" %}}
