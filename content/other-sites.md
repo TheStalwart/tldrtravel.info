@@ -13,3 +13,8 @@ weight: 20
 
 ## POI lookup
 - [Trip and Treat](https://www.tripandtreat.com) - Plan next trip without hustle with AI help
+
+## Accommodation
+- [Airbnb](https://www.airbnb.com)
+- [Booking.com](https://www.booking.com)
+- [Couchsurfing](https://www.couchsurfing.com)
