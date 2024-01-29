@@ -27,9 +27,10 @@ parking:
 - Multiple pet stores.
 
 ## Food court
-- Variety 2/3
-    - Western fast food
-    - European cuisine
+- Western fast food
+- European cuisine
+- Pizza
+- Asian
 
 
 ## Gyms
