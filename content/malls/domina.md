@@ -26,12 +26,25 @@ parking:
 - Dogs are allowed inside and in most retail stores.[^1]
 - Multiple pet stores.
 
+## Chill & Charge
+- Hard benches without backrest
+    - No power
+- Hard benches without backrest
+    - 220V
+- Hard benches with backrest
+    - 220V
+- Soft benches with backrest
+    - 220V
+    - comment: near Skypark
+
 ## Food court
 - Western fast food
 - European cuisine
 - Pizza
 - Asian
 
+## Wi-Fi
+- absolutely tragic, no mall-wide network, only random spots in specific magic locations and with captive portals
 
 ## Gyms
 - {{% gym-link "myfitness" %}}
