@@ -47,6 +47,10 @@ Had great experience renting a motorcycle from [L-auto](https://l-auto.lv/lv) - 
 
 {{% gym-list %}}
 
+## Classifieds
+- [SS.LV](https://ss.lv)
+- [Andele Mandele](https://www.andelemandele.lv)
+
 [^1]: [Likumi.lv: Par alkoholisko dzērienu mazumtirdzniecības laika un vietas ierobežojumiem
 ](https://likumi.lv/ta/id/272336-par-alkoholisko-dzerienu-mazumtirdzniecibas-laika-un-vietas-ierobezojumiem)
 [^2]: [Latvijā tiks aizliegti aromatizēti karsējamās tabakas izstrādājumi; likums stājas spēkā 23. oktobrī](https://nra.lv/latvija/429894-latvija-tiks-aizliegti-aromatizeti-karsejamas-tabakas-izstradajumi-likums-stajas-speka-23-oktobri.htm)
