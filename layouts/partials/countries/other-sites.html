@@ -4,7 +4,11 @@
 
 {{- $links = $links | append (printf "- [Coworker](https://www.coworker.com/%s)" .File.BaseFileName) -}}
 
-{{- $links = $links | append (printf "- [Nomad List](https://nomadlist.com/%s)" .File.BaseFileName) -}}
+{{- /*  Cheap monthly subscriptions are no longer available,                                            */ -}}
+{{- /*  lifetime access costs 100$                                                                      */ -}}
+{{- /*  and data aggregated here is inaccurate and unreliable.                                          */ -}}
+{{- /*  https://www.reddit.com/r/digitalnomad/comments/f18hny/is_the_nomadlist_subscription_worth_it/   */ -}}
+{{- /*  $links = $links | append (printf "- [Nomad List](https://nomadlist.com/%s)" .File.BaseFileName) */ -}}
 
 {{- $links = $links | append (printf "- [Trans Euro Trail](https://transeurotrail.org/%s)" .File.BaseFileName) -}}
 
