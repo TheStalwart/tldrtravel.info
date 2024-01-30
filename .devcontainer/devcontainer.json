@@ -9,6 +9,7 @@
         "vscode": {
             "extensions": [
                 "eamodio.gitlens",
+                "yzhang.markdown-all-in-one",
                 "budparr.language-hugo-vscode"
             ]
         }
