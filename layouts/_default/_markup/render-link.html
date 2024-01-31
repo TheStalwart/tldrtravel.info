@@ -8,7 +8,7 @@
     {{- end -}}
     {{- if $page.Params.flagEmoji -}}
         {{- /* https://stackoverflow.com/a/28405917 */ -}}
-        {{- $text = printf "%s&#8288;%s" $page.Params.flagEmoji $text -}}
+        {{- $text = printf "%s&#8239;%s" $page.Params.flagEmoji $text -}}
     {{- end -}}
 {{- end -}}
 

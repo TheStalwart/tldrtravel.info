@@ -14,4 +14,4 @@
   {{ $title = .File.BaseFileName | humanize | title }}
 {{ end }}
 
-{{ return (printf "%s%s" .Params.flagEmoji $title) }}
+{{ return (printf "%s&#8239;%s" .Params.flagEmoji $title) }}
