@@ -5,11 +5,6 @@
             {{- range $key, $value := .Site.Data.vehicles -}}
                 <th>{{ $value.emoji }}</th>
             {{- end -}}
-            <th>Apple Pay</th>
-            <th>Cards</th>
-            <th>Cash</th>
-            <th>Google Pay</th>
-            <th>PayPal</th>
         </tr>
     </thead>
     <tbody>
@@ -19,11 +14,6 @@
             {{- range $key, $value := .Site.Data.vehicles -}}
                 <td>{{- partial "bool-emoji" (index $service.Params.vehicles $key) -}}</td>
             {{- end -}}
-            {{ partial "td-bool-string.html" .Params.payments.applePay }}
-            {{ partial "td-bool-string.html" .Params.payments.cards }}
-            {{ partial "td-bool-string.html" .Params.payments.cash }}
-            {{ partial "td-bool-string.html" .Params.payments.googlePay }}
-            {{ partial "td-bool-string.html" .Params.payments.payPal }}
         </tr>
         {{ end }}
     </tbody>
