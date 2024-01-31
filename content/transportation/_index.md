@@ -6,4 +6,10 @@ weight: 90
 
 # Transportation
 
-{{< transportation-table >}}
+## Vehicles
+
+{{< transportation-vehicle-table >}}
+
+## Payments
+
+{{< transportation-payment-table >}}

@@ -1,0 +1,24 @@
+<table class="sortable-theme-minimal" data-sortable>
+    <thead>
+        <tr>
+            <th>App</th>
+            <th>Apple Pay</th>
+            <th>Cards</th>
+            <th>Cash</th>
+            <th>Google Pay</th>
+            <th>PayPal</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{ range $service := .Page.Pages }}
+        <tr>
+            <td><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a></td>
+            {{ partial "td-bool-string.html" .Params.payments.applePay }}
+            {{ partial "td-bool-string.html" .Params.payments.cards }}
+            {{ partial "td-bool-string.html" .Params.payments.cash }}
+            {{ partial "td-bool-string.html" .Params.payments.googlePay }}
+            {{ partial "td-bool-string.html" .Params.payments.payPal }}
+        </tr>
+        {{ end }}
+    </tbody>
+</table>
