@@ -22,10 +22,10 @@ cuisine:
 - european
 - pizza
 - asian
+links:
+- title: Domina Shopping - Plašs, moderns iepirkšanās centrs ar vairāk nekā 170 dažādu preču un pakalpojumu veikaliem!
+  url: https://domina-shopping.lv/en/
 ---
-
-## Website
-[Domina Shopping - Plašs, moderns iepirkšanās centrs ar vairāk nekā 170 dažādu preču un pakalpojumu veikaliem!](https://domina-shopping.lv/lv/)
 
 ## Dog Friendly
 - Dogs are allowed inside and in most retail stores.[^1]

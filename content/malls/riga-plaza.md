@@ -6,10 +6,10 @@ cuisine:
 - european
 - pizza
 - asian
+links:
+- title: Rīga Plaza
+  url: https://www.rigaplaza.lv
 ---
-
-## Website
-[Rīga Plaza](https://www.rigaplaza.lv)
 
 ## Dog Friendly
 - Dogs are allowed inside and in most retail stores. 

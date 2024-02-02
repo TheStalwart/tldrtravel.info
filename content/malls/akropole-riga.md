@@ -9,10 +9,10 @@ cuisine:
 - european
 - pizza
 - asian
+links:
+- title: Iepirkšanās un izklaides centrs AKROPOLE
+  url: https://www.akropoleriga.lv
 ---
-
-## Website
-[Iepirkšanās un izklaides centrs AKROPOLE](https://www.akropoleriga.lv)
 
 ## Unique features
 - Hockey rink with ice skate rental
