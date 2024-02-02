@@ -5,5 +5,5 @@
     {{- range $dataEntry := .Params.cuisine -}}
         {{- $markdownEntries = $markdownEntries | append (printf "- %s" (i18n (printf "cuisine.%s" $dataEntry))) -}}
     {{- end -}}
-    {{ delimit $markdownEntries "\n" | .RenderString }}
+    {{ delimit (sort $markdownEntries) "\n" | .RenderString }}
 {{- end -}}
