@@ -8,6 +8,16 @@ cuisine:
 - european
 - pizza
 - asian
+products:
+- groceries
+- electronics
+- healthcare
+- tobacco
+- alcohol
+- pet
+- camping
+- clothes
+- sports
 ---
 
 
