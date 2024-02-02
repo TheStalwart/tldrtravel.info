@@ -23,3 +23,25 @@ cuisine:
     other: Pizza
   asian:
     other: Asian
+
+products:
+  groceries:
+    other: Groceries
+  electronics:
+    other: Electronics
+  healthcare:
+    other: Healthcare
+  tobacco:
+    other: Tobacco
+  alcohol:
+    other: Alcohol
+  pet:
+    other: Pet care
+  camping:
+    other: Camping equipment
+  clothes:
+    other: Affordable clothes
+  automotive:
+    other: Automotive
+  sports:
+    other: Sports equipment

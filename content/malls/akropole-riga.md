@@ -12,6 +12,15 @@ cuisine:
 links:
 - title: Iepirkšanās un izklaides centrs AKROPOLE
   url: https://www.akropoleriga.lv
+products:
+- groceries
+- electronics
+- healthcare
+- tobacco
+- alcohol
+- pet
+- clothes
+- sports
 ---
 
 ## Unique features
@@ -30,11 +39,6 @@ links:
 - Soft couches
     - Yes 220V 
     - Yes USB-A
-
-## Store categories
-- groceries: maxima
-- affordable clothing: sports-direct
-- camping equipment???
 
 ## Wi-Fi
 - unlimited, no captive portal
