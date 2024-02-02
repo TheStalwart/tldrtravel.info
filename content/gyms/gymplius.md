@@ -1,16 +1,13 @@
 ---
 title: Gym+
+description: Truly 24/7 gym chain in [](/countries/lithuania).
 open24x7: true
 countries:
 - lithuania
+links:
+- title: GymPlius Sporto Klubas 24/7
+  url: https://gymplius.lt
 ---
-
-# Gym+
-
-Truly 24/7 gym chain in [](/countries/lithuania).
-
-## Website
-[GymPlius Sporto Klubas 24/7](https://gymplius.lt)
 
 ## Features
 - 24/7 registration at self-service terminal

@@ -1,18 +1,18 @@
 ---
 title: MyFitness
+description: Premium gym chain in [](/countries/estonia) and [](/countries/latvia).
 open24x7: false
 countries:
 - estonia
 - latvia
+links:
+- title: MyFitness spordiklubi
+  url: https://www.myfitness.ee
+  prefix: "Estonia:"
+- title: MyFitness - vieta, kur sportiskie mērķi tiek sasniegti!
+  url: https://www.myfitness.lv
+  prefix: "Latvia:"
 ---
-
-# MyFitness
-
-Premium gym chain in [](/countries/estonia) and [](/countries/latvia).
-
-## Websites
-- Estonia: [MyFitness spordiklubi](https://www.myfitness.ee)
-- Latvia: [MyFitness - vieta, kur sportiskie mērķi tiek sasniegti!](https://www.myfitness.lv)
 
 ## Features
 - One-time visit price: 

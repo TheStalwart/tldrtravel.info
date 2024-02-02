@@ -1,20 +1,22 @@
 ---
 title: Lemon Gym
+description: Truly 24/7 low cost gym chain in Baltic states.
 open24x7: true
 countries:
 - estonia
 - latvia
 - lithuania
+links:
+- title: Lemon Gym - spordiklubi Tartus ja Tallinas
+  url: https://www.lemongym.ee
+  prefix: "Estonia:"
+- title: Lemon Gym - sporta klubi Rīgā 24/7
+  url: https://www.lemongym.lv
+  prefix: "Latvia:"
+- title: Lemon Gym - sporto klubai 24/7 Vilniuje ir kituose miestuose
+  url: https://www.lemongym.lt
+  prefix: "Lithuania:"
 ---
-
-# Lemon Gym
-
-Truly 24/7 low cost gym chain in Baltic states.
-
-## Websites
-- Estonia: [Lemon Gym - spordiklubi Tartus ja Tallinas](https://www.lemongym.ee)
-- Latvia: [Lemon Gym - sporta klubi Rīgā 24/7](https://www.lemongym.lv)
-- Lithuania: [Lemon Gym - sporto klubai 24/7 Vilniuje ir kituose miestuose](https://www.lemongym.lt)
 
 ## Features
 - 24/7 online registration

@@ -1,16 +1,13 @@
 ---
 title: Gym! Latvija
+description: Truly 24/7 low cost gym chain in [](/countries/latvia).
 open24x7: true
 countries:
 - latvia
+links:
+- title: Gym! For Every Body | 19€/mēnesī | 24/7 | Rīgā
+  url: https://www.gymlatvija.lv
 ---
-
-# Gym! Latvija
-
-Truly 24/7 low cost gym chain in [](/countries/latvia).
-
-## Website
-[Gym! For Every Body | 19€/mēnesī | 24/7 | Rīgā](https://www.gymlatvija.lv)
 
 ## Features
 - 24/7 online registration
