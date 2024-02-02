@@ -1,0 +1,14 @@
+{{- $links := slice -}}
+
+{{- range $dataEntry := .Params.links -}}
+    {{- $prefix := "" -}}
+    {{- if $dataEntry.prefix -}}
+        {{- $prefix = printf "%s " $dataEntry.prefix -}}
+    {{- end -}}
+    {{- $links = $links | append (printf "- %s[%s](%s)" $prefix $dataEntry.title $dataEntry.url) -}}
+{{- end -}}
+
+{{- if $links -}}
+    {{ "## Links" | .RenderString }}
+    {{ delimit $links "\n" | .RenderString }}
+{{- end -}}
