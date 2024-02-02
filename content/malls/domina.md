@@ -17,6 +17,11 @@ parking:
   comment: almost always full, including disabled spots
   overnight: false
   timeLimit: 180
+cuisine:
+- westernFastFood
+- european
+- pizza
+- asian
 ---
 
 ## Website
@@ -36,12 +41,6 @@ parking:
 - Soft benches with backrest
     - 220V
     - comment: near Skypark
-
-## Food court
-- Western fast food
-- European cuisine
-- Pizza
-- Asian
 
 ## Wi-Fi
 - absolutely tragic, no mall-wide network, only random spots in specific magic locations and with captive portals

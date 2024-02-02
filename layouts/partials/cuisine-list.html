@@ -1,0 +1,9 @@
+{{- if .Params.cuisine -}}
+    {{ "## Cuisine" | .RenderString }}
+
+    {{- $markdownEntries := slice -}}
+    {{- range $dataEntry := .Params.cuisine -}}
+        {{- $markdownEntries = $markdownEntries | append (printf "- %s" (i18n (printf "cuisine.%s" $dataEntry))) -}}
+    {{- end -}}
+    {{ delimit $markdownEntries "\n" | .RenderString }}
+{{- end -}}

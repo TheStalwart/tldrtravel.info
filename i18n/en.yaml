@@ -13,3 +13,13 @@ parking:
     other: Overnight
   timeLimit:
     other: Time limit
+
+cuisine:
+  westernFastFood:
+    other: Western fast food
+  european:
+    other: European
+  pizza:
+    other: Pizza
+  asian:
+    other: Asian

@@ -1,6 +1,11 @@
 ---
 title: Riga Plaza
 dogFriendly: true
+cuisine:
+- westernFastFood
+- european
+- pizza
+- asian
 ---
 
 ## Website
@@ -28,12 +33,6 @@ dogFriendly: true
     - Yes mobile phone cables provided by venue
 - Hard benches 1st floor
     - No power whatsoever
-
-## Food court
-- Variety 3/3
-    - Western fast food
-    - Eastern cuisine
-    - European cuisine
 
 ## Parking
 - Multistory: 210cm height limit

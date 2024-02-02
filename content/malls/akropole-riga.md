@@ -4,6 +4,11 @@ dogFriendly: false
 parking:
 - type: lot
   evCharger: true
+cuisine:
+- westernFastFood
+- european
+- pizza
+- asian
 ---
 
 ## Website
@@ -25,12 +30,6 @@ parking:
 - Soft couches
     - Yes 220V 
     - Yes USB-A
-
-## Food court
-- Western fast food
-- Asian cuisine
-- Pizza
-- European
 
 ## Store categories
 - groceries: maxima
