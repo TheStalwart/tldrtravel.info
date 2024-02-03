@@ -34,6 +34,14 @@
 
 {{- $poiLinks = $poiLinks | append (printf "- [Automuseums.info](http://www.automuseums.info/museums/%s)" (humanize .File.BaseFileName)) -}}
 
+{{- range $dataEntry := .Params.poiLinks -}}
+    {{- $prefix := "" -}}
+    {{- if $dataEntry.prefix -}}
+        {{- $prefix = printf "%s " $dataEntry.prefix -}}
+    {{- end -}}
+    {{- $poiLinks = $poiLinks | append (printf "- %s[%s](%s)" $prefix $dataEntry.title $dataEntry.url) -}}
+{{- end -}}
+
 {{- if $poiLinks -}}
     {{ "## Points of interest" | .RenderString }}
     {{ delimit (sort $poiLinks) "\n" | .RenderString }}

@@ -2,6 +2,9 @@
 title: Italy
 flagEmoji: 🇮🇹
 tripAdvisorID: g187768
+poiLinks:
+- title: Auto/moto museums of Italy
+  url: https://asimusei.it
 ---
 
 {{% transportation-list %}}
