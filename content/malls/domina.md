@@ -28,6 +28,15 @@ links:
 wifi:
     available: false
     comment: no mall-wide network, random spots around coffee shops have some slow networks with captive portals
+products:
+- groceries
+- electronics
+- healthcare
+- tobacco
+- alcohol
+- pet
+- clothes
+- sports
 ---
 
 ## Chill & Charge

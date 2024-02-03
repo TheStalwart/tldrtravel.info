@@ -12,6 +12,14 @@ links:
 wifi:
     unlimited: true
     captivePortal: true
+products:
+- groceries
+- electronics
+- healthcare
+- tobacco
+- alcohol
+- pet
+- sports
 ---
 
 ## Chill & Charge
