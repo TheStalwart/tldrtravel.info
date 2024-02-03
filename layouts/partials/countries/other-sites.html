@@ -16,7 +16,7 @@
 
 {{- if $links -}}
     {{ "## Useful info" | .RenderString }}
-    {{ delimit $links "\n" | .RenderString }}
+    {{ delimit (sort $links) "\n" | .RenderString }}
 {{- end -}}
 
 
@@ -36,5 +36,5 @@
 
 {{- if $poiLinks -}}
     {{ "## Points of interest" | .RenderString }}
-    {{ delimit $poiLinks "\n" | .RenderString }}
+    {{ delimit (sort $poiLinks) "\n" | .RenderString }}
 {{- end -}}
