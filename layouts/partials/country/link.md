@@ -1,1 +1,0 @@
-[{{ .Params.flagEmoji }}{{ .Params.Title }}]({{ .RelPermalink }})
