@@ -12,6 +12,16 @@
 
 {{- $links = $links | append (printf "- [Trans Euro Trail](https://transeurotrail.org/%s)" .File.BaseFileName) -}}
 
+{{- $links = $links | append (printf "- [Wikipedia](https://en.wikipedia.org/wiki/%s)" .File.BaseFileName) -}}
+
+{{- if $links -}}
+    {{ "## Useful info" | .RenderString }}
+    {{ delimit $links "\n" | .RenderString }}
+{{- end -}}
+
+
+{{- $poiLinks := slice -}}
+
 {{- /*
     Find "Explore %CountryName%" page on TripAdvisor.com
     e.g. https://www.tripadvisor.com/Tourism-g274960-Latvia-Vacations.html
@@ -19,12 +29,12 @@
     into tripAdvisorID field of country page front matter
 */ -}}
 {{- if .Params.tripAdvisorID -}}
-    {{- $links = $links | append (printf "- [Tripadvisor](https://www.tripadvisor.com/Tourism-%s.html)" .Params.tripAdvisorID) -}}
+    {{- $poiLinks = $poiLinks | append (printf "- [Tripadvisor](https://www.tripadvisor.com/Tourism-%s.html)" .Params.tripAdvisorID) -}}
 {{- end -}}
 
-{{- $links = $links | append (printf "- [Wikipedia](https://en.wikipedia.org/wiki/%s)" .File.BaseFileName) -}}
+{{- $poiLinks = $poiLinks | append (printf "- [Automuseums.info](http://www.automuseums.info/museums/%s)" (humanize .File.BaseFileName)) -}}
 
-{{- if $links -}}
-    {{ "## Other sites" | .RenderString }}
-    {{ delimit $links "\n" | .RenderString }}
+{{- if $poiLinks -}}
+    {{ "## Points of interest" | .RenderString }}
+    {{ delimit $poiLinks "\n" | .RenderString }}
 {{- end -}}
