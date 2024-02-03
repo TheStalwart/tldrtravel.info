@@ -1,6 +1,8 @@
 ---
 title: Akropole Rīga
-dogFriendly: false
+dogFriendly: 
+    dogsAllowed: false
+    comment: i saw visitors with small dogs inside
 parking:
 - type: lot
   evCharger: true
@@ -28,10 +30,6 @@ wifi:
 
 ## Unique features
 - Hockey rink with ice skate rental
-
-## Dog Friendly
-- Dogs prohibited but i see visitors with small dogs inside
-- Pet store available
 
 ## Chill & Charge
 - Lounge chairs

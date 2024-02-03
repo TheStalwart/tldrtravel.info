@@ -1,0 +1,20 @@
+
+{{- /* Hugo lowercases all dictionary keys internally */ -}}
+{{- /* but isset is using case-sensitive comparison! */ -}}
+{{- if isset .Params "dogfriendly" -}}
+    {{ printf "## Dog friendly" | .RenderString }}
+
+    {{- $emojiString := ""  -}}
+    {{- $commentString := ""  -}}
+    
+    {{- if reflect.IsMap .Params.dogFriendly -}}
+        {{- $emojiString = partial "bool-emoji" .Params.dogFriendly.dogsAllowed -}}
+        {{- with .Params.dogFriendly.comment -}}
+            {{- $commentString = printf " (%s)" . -}}
+        {{- end -}}        
+    {{- else -}}
+        {{- $emojiString = partial "bool-emoji" .Params.dogFriendly -}}
+    {{- end -}}
+
+    {{- printf "<p>Dogs allowed: %s%s</p>" $emojiString $commentString | safeHTML -}}
+{{- end -}}

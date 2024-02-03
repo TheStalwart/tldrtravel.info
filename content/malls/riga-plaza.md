@@ -14,10 +14,6 @@ wifi:
     captivePortal: true
 ---
 
-## Dog Friendly
-- Dogs are allowed inside and in most retail stores. 
-- Pet store available.
-
 ## Chill & Charge
 - Green soft couches 2nd floor
     - No 220V
