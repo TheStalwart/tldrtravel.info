@@ -2,6 +2,9 @@
 title: Latvia
 flagEmoji: 🇱🇻
 tripAdvisorID: g274960
+poiLinks:
+- title: Urban development map of Riga
+  url: https://citify.eu/en/riga/
 ---
 
 ## Emergencies

@@ -2,6 +2,13 @@
 title: Lithuania
 flagEmoji: 🇱🇹
 tripAdvisorID: g274947
+poiLinks:
+- title: Urban development map of Vilnius
+  url: https://citify.eu/en/vilnius/
+- title: Urban development map of Kaunas
+  url: https://citify.eu/en/kaunas/
+- title: Urban development map of Klaipėda
+  url: https://citify.eu/en/klaipeda/
 ---
 
 {{% transportation-list %}}
