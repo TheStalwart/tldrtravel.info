@@ -2,6 +2,9 @@
 title: Norway
 flagEmoji: 🇳🇴
 tripAdvisorID: g190455
+links:
+- title: Visit Norway | Official travel guide to Norway
+  url: https://www.visitnorway.com
 ---
 
 {{% transportation-list %}}
