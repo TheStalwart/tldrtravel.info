@@ -44,3 +44,6 @@ products:
 ## Parking
 - Multistory: 210cm height limit
 - Parking lot: yes
+
+## Gyms
+- {{% gym-link "myfitness" %}}
