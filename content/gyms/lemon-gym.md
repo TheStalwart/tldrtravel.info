@@ -34,5 +34,7 @@ links:
 ## Wi-Fi
 - Teika
     - unlimited, no captive portal
+- Pļavnieki
+    - unlimited, no captive portal
 
 {{% country-list %}}
