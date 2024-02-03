@@ -46,6 +46,9 @@ parking:
   evCharger: true
   timeLimit: 240
   overnight: false
+wifi:
+    unlimited: true
+    captivePortal: false
 ---
 
 ## Chill & Charge
@@ -57,6 +60,3 @@ parking:
   - USB-A
 - Soft benches with backrest
   - No power
-
-## Wi-Fi
-- unlimited, no captive portal

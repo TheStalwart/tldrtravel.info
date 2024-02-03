@@ -1,0 +1,28 @@
+{{- if .Params.wifi -}}
+    {{ "## Wi-Fi" | .RenderString }}
+    
+    {{- $prefixString := ""  -}}
+    {{- $emojiString := ""  -}}
+    {{- $commentString := ""  -}}
+    {{- if eq .Params.wifi.available false -}}
+        {{- $prefixString = i18n "wifi.available" -}}
+        {{- $emojiString = partial "bool-emoji" .Params.wifi.available -}}
+    {{- else -}}
+        {{- $prefixString = i18n "wifi.unlimited" -}}
+
+        {{- if .Params.wifi.captivePortal -}}
+            {{- $emojiString = "⚠️" -}}
+        {{- else -}}
+            {{- $emojiString = partial "bool-emoji" .Params.wifi.unlimited -}}
+        {{- end -}}
+    {{- end -}}
+
+    {{- if .Params.wifi.comment -}}
+        {{- $commentString = printf " (%s)" .Params.wifi.comment -}}
+    {{- else if .Params.wifi.captivePortal -}}
+        {{- $commentString = printf " (%s)" (i18n "wifi.captivePortal" | lower ) -}}
+    {{- end -}}
+
+    {{- printf "<p>%s: %s%s</p>" $prefixString $emojiString $commentString | safeHTML -}}
+    
+{{- end -}}

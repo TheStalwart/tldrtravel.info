@@ -9,6 +9,9 @@ cuisine:
 links:
 - title: Rīga Plaza
   url: https://www.rigaplaza.lv
+wifi:
+    unlimited: true
+    captivePortal: true
 ---
 
 ## Dog Friendly
@@ -37,6 +40,3 @@ links:
 ## Parking
 - Multistory: 210cm height limit
 - Parking lot: yes
-
-## Wi-Fi
-- unlimited, captive portal

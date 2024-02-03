@@ -25,6 +25,9 @@ cuisine:
 links:
 - title: Domina Shopping - Plašs, moderns iepirkšanās centrs ar vairāk nekā 170 dažādu preču un pakalpojumu veikaliem!
   url: https://domina-shopping.lv/en/
+wifi:
+    available: false
+    comment: no mall-wide network, random spots around coffee shops have some slow networks with captive portals
 ---
 
 ## Dog Friendly
@@ -41,9 +44,6 @@ links:
 - Soft benches with backrest
     - 220V
     - comment: near Skypark
-
-## Wi-Fi
-- absolutely tragic, no mall-wide network, only random spots in specific magic locations and with captive portals
 
 ## Gyms
 - {{% gym-link "myfitness" %}}

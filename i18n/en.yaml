@@ -47,3 +47,11 @@ products:
     other: Automotive
   sports:
     other: Sports equipment
+
+wifi:
+  available:
+    other: Available
+  unlimited:
+    other: Unlimited
+  captivePortal:
+    other: Captive portal

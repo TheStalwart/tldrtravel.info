@@ -21,6 +21,9 @@ products:
 - pet
 - clothes
 - sports
+wifi:
+    unlimited: true
+    captivePortal: false
 ---
 
 ## Unique features
@@ -39,9 +42,6 @@ products:
 - Soft couches
     - Yes 220V 
     - Yes USB-A
-
-## Wi-Fi
-- unlimited, no captive portal
 
 ## Gyms
 - {{% gym-link "lemon-gym" %}}
