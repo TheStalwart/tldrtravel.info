@@ -5,6 +5,8 @@ parking:
     other: Street parking
   multistorey:
     other: Multi-storey parking
+  underground:
+    other: Underground
   evCharger:
     other: EV charger
   heightLimit:
