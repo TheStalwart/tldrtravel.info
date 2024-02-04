@@ -10,13 +10,11 @@
         <tr>
             <td><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a></td>
             <td>
-                {{ if eq .Params.dogFriendly true }}
-                    ✅
-                {{ else if eq .Params.dogFriendly false }}
-                    ❌
-                {{ else if ne .Params.dogFriendly nil }}
-                    {{ .Params.dogFriendly }}
-                {{ end }}
+                {{- if reflect.IsMap .Params.dogFriendly -}}
+                    {{- partial "bool-emoji" .Params.dogFriendly.dogsAllowed -}}   
+                {{- else -}}
+                    {{- partial "bool-emoji" .Params.dogFriendly -}}
+                {{- end -}}
             </td>
         </tr>
         {{ end }}
