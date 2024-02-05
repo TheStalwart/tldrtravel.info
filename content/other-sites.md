@@ -14,6 +14,9 @@ weight: 20
 ## POI lookup
 - [Trip and Treat](https://www.tripandtreat.com) - Plan next trip without hustle with AI help
 
+## Festivals
+- [Upcoming European Anime Convention Schedule | AnimeCons.com](https://animecons.com/events/schedule.php?loc=eu)
+
 ## Accommodation
 - [Airbnb](https://www.airbnb.com)
 - [Booking.com](https://www.booking.com)
