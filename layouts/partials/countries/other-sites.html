@@ -46,6 +46,14 @@
 
 {{- $poiLinks = $poiLinks | append (printf "- [Automuseums.info](http://www.automuseums.info/museums/%s)" (humanize .File.BaseFileName)) -}}
 
+{{- /*
+    Otherwise, this website is uninspiring,
+    but lists of festivals per country are super useful.
+*/ -}}
+{{- if ne .Params.rickSteves false -}}
+    {{- $poiLinks = $poiLinks | append (printf "- [Holidays and Festivals in %s | Rick Steves&#39; Europe](https://www.ricksteves.com/europe/%s/festivals)" .Title .File.BaseFileName) -}}
+{{- end -}}
+
 {{- range $dataEntry := .Params.poiLinks -}}
     {{- $prefix := "" -}}
     {{- if $dataEntry.prefix -}}

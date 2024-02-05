@@ -2,6 +2,7 @@
 title: Lithuania
 flagEmoji: 🇱🇹
 tripAdvisorID: g274947
+rickSteves: false
 poiLinks:
 - title: Urban development map of Vilnius
   url: https://citify.eu/en/vilnius/

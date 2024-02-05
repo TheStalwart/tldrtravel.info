@@ -2,6 +2,7 @@
 title: Latvia
 flagEmoji: 🇱🇻
 tripAdvisorID: g274960
+rickSteves: false
 links:
 - title: Experience Riga, the capital of Latvia | LiveRiga
   url: https://www.liveriga.com/en/
