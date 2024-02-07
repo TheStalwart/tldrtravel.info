@@ -6,6 +6,8 @@ dogFriendly:
 parking:
 - type: lot
   evCharger: true
+  overnight: false
+  timeLimit: 0
 cuisine:
 - westernFastFood
 - european

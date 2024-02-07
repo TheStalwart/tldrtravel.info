@@ -13,8 +13,12 @@
         {{- if $dataEntry.heightLimit -}}
             {{- $markdownEntry = printf "%s%s" $markdownEntry (printf "\n  - %s: %s" (i18n "parking.heightLimit") (partial "format-value-cm" $dataEntry.heightLimit)) -}}
         {{- end -}}
-        {{- if $dataEntry.timeLimit -}}
-            {{- $markdownEntry = printf "%s%s" $markdownEntry (printf "\n  - %s: %s" (i18n "parking.timeLimit") (partial "format-value-minutes" $dataEntry.timeLimit)) -}}
+        {{- if isset $dataEntry "timeLimit" -}}
+            {{- if eq $dataEntry.timeLimit 0 -}}
+                {{- $markdownEntry = printf "%s%s" $markdownEntry (printf "\n  - %s" (i18n "parking.noTimeLimit")) -}}
+            {{- else -}}
+                {{- $markdownEntry = printf "%s%s" $markdownEntry (printf "\n  - %s: %s" (i18n "parking.timeLimit") (partial "format-value-minutes" $dataEntry.timeLimit)) -}}
+            {{- end -}}
         {{- end -}}
         {{- if ne $dataEntry.overnight nil -}}
             {{- $markdownEntry = printf "%s%s" $markdownEntry (printf "\n  - %s: %s" (i18n "parking.overnight") (partial "bool-emoji" $dataEntry.overnight)) -}}
