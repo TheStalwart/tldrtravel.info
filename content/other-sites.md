@@ -14,7 +14,8 @@ weight: 20
 ## POI lookup
 - [Trip and Treat](https://www.tripandtreat.com) - Plan next trip without hustle with AI help
 
-## Festivals
+## Festivals, hobby meetups
+- [Local gaming communities &#183; RetroMultiplayer](https://retromultiplayer.com/communities/)
 - [Upcoming European Anime Convention Schedule | AnimeCons.com](https://animecons.com/events/schedule.php?loc=eu)
 
 ## Accommodation
