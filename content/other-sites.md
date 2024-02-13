@@ -22,3 +22,14 @@ weight: 20
 - [Airbnb](https://www.airbnb.com)
 - [Booking.com](https://www.booking.com)
 - [Couchsurfing](https://www.couchsurfing.com)
+
+## International transportation
+- ✈️&#8239;Airplanes
+    - [Skyscanner | Find the cheapest flights fast: save time, save money!](https://www.skyscanner.net/)
+- 🚌&#8239;Buses
+    - [ECOLINES | Bus tickets for international routes](https://ecolines.net/international/en)
+    - [FlixBus: Convenient and affordable bus travel](https://global.flixbus.com/)
+    - [Lux Express: Travel Europe by bus and buy bus tickets online](https://luxexpress.eu/en/)
+- 🚢&#8239;Ferries
+    - [DFDS | European Cruises and Ferry Crossings | Passenger Ferries](https://www.dfds.com/en)
+    - [Stena Line | Ferries to UK, Ireland, Holland and Northern Europe](https://www.stenalinetravel.com/)
