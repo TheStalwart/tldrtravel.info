@@ -10,6 +10,7 @@ weight: 20
 - [PlugShare](https://www.plugshare.com) - electric vehicle charger map
 - [VUUMLY](https://vuumly.com/demo/) - shared vehicle aggregator and map
 - [Hoodmaps](https://hoodmaps.com/)
+- [Windy](https://www.windy.com) - advanced weather forecast map
 
 ## POI lookup
 - [Trip and Treat](https://www.tripandtreat.com) - Plan next trip without hustle with AI help
