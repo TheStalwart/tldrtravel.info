@@ -24,17 +24,17 @@ links:
 - 24/7 sale of locker locks in vending machines
 - Free trial
 - Variety of non-predatory subscription plans
+- Free Wi-fi with no captive portal (in most clubs)
 - Free parking (in most clubs)
+    - In some clubs, registering car numberplate is required:
+        - 🇱🇻 Jugla
+        - 🇱🇻 Purvciems
+    - In some clubs, parking often has no free spots
+        - 🇱🇻 Imanta
 - Sauna (in select clubs)
 
 ## Issues
 - Subscriptions are per-country by default, but support staff states they can arrange access to other country's gyms for a limited time on per-request basis
 - No free drinking water
-
-## Wi-Fi
-- Teika
-    - unlimited, no captive portal
-- Pļavnieki
-    - unlimited, no captive portal
 
 {{% country-list %}}
