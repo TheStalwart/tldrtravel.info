@@ -3,7 +3,7 @@ title: Akropole Alfa
 links:
 - title: Iepirkšanās un izklaides centrs &quot;AKROPOLE&quot;
   url: https://www.akropolealfa.lv
-dogFriendly: false
+dogFriendly: true # https://www.akropolealfa.lv/lv/alfa/majdzivniekiem-draudzigi
 cuisine:
 - westernFastFood
 - european

@@ -1,8 +1,6 @@
 ---
 title: Akropole Rīga
-dogFriendly: 
-    dogsAllowed: false
-    comment: i saw visitors with small dogs inside
+dogFriendly: true # https://www.akropoleriga.lv/lv/riga/majdzivniekiem-draudzigi
 parking:
 - type: lot
   evCharger: true
