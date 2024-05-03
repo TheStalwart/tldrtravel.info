@@ -9,9 +9,9 @@ vehicles:
     emoto:
         model: "NIU NQi GT"
         comment: "limited to 50km/h"
-    ebicycle:
-        model: "Ninebot Urban A200"
-        comment: "limited to 25km/h, pedal assist only"
+    # ebicycle: # Removed in 2024
+    #     model: "Ninebot Urban A200"
+    #     comment: "limited to 25km/h, pedal assist only"
 countries:
 - latvia
 ---
