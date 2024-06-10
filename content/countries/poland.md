@@ -13,6 +13,10 @@ links:
 ## Alcohol sale
 Per-city. In Krakow alcohol is sold until 24:00
 
+## Hardware stores
+- OBI
+- Leroy Merlin
+
 {{% transportation-list %}}
 
 {{% delivery-list %}}
