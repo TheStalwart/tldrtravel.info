@@ -1,8 +1,16 @@
 {{- $links := slice -}}
 
-{{- $links = $links | append (printf "- [CountryReports](https://www.countryreports.org/country/%s/fact.htm)" .File.BaseFileName) -}}
+{{- if .Params.countryReportsID -}}
+    {{- $links = $links | append (printf "- [CountryReports](https://www.countryreports.org/country/%s/fact.htm)" .Params.countryReportsID) -}}
+{{- else if ne .Params.countryReportsID false -}}
+    {{- $links = $links | append (printf "- [CountryReports](https://www.countryreports.org/country/%s/fact.htm)" .File.BaseFileName) -}}
+{{- end -}}
 
-{{- $links = $links | append (printf "- [Coworker](https://www.coworker.com/%s)" .File.BaseFileName) -}}
+{{- if .Params.coworkerID -}}
+    {{- $links = $links | append (printf "- [Coworker](https://www.coworker.com/%s)" .Params.coworkerID) -}}
+{{- else if ne .Params.coworkerID false -}}
+    {{- $links = $links | append (printf "- [Coworker](https://www.coworker.com/%s)" .File.BaseFileName) -}}
+{{- end -}}
 
 {{- /*  Cheap monthly subscriptions are no longer available,                                            */ -}}
 {{- /*  lifetime access costs 100$                                                                      */ -}}
@@ -10,11 +18,17 @@
 {{- /*  https://www.reddit.com/r/digitalnomad/comments/f18hny/is_the_nomadlist_subscription_worth_it/   */ -}}
 {{- /*  $links = $links | append (printf "- [Nomad List](https://nomadlist.com/%s)" .File.BaseFileName) */ -}}
 
-{{- $links = $links | append (printf "- [Trans Euro Trail](https://transeurotrail.org/%s)" .File.BaseFileName) -}}
+{{- if ne .Params.transEuroTrailID false -}}
+    {{- $links = $links | append (printf "- [Trans Euro Trail](https://transeurotrail.org/%s)" .File.BaseFileName) -}}
+{{- end -}}
 
 {{- $links = $links | append (printf "- [Wikipedia](https://en.wikipedia.org/wiki/%s)" .File.BaseFileName) -}}
 
-{{- $links = $links | append (printf "- [EuroVelo](https://en.eurovelo.com/%s)" .File.BaseFileName) -}}
+{{- if .Params.euroVeloID -}}
+    {{- $links = $links | append (printf "- [EuroVelo](https://en.eurovelo.com/%s)" .Params.euroVeloID) -}}
+{{- else if ne .Params.euroVeloID false -}}
+    {{- $links = $links | append (printf "- [EuroVelo](https://en.eurovelo.com/%s)" .File.BaseFileName) -}}
+{{- end -}}
 
 {{- $links = $links | append (printf "- [Wikitravel](https://wikitravel.org/en/%s)" (humanize .File.BaseFileName)) -}}
 
@@ -50,7 +64,9 @@
     Otherwise, this website is uninspiring,
     but lists of festivals per country are super useful.
 */ -}}
-{{- if ne .Params.rickSteves false -}}
+{{- if .Params.rickStevesID -}}
+    {{- $poiLinks = $poiLinks | append (printf "- [Holidays and Festivals in %s | Rick Steves&#39; Europe](https://www.ricksteves.com/europe/%s/festivals)" .Title .Params.rickStevesID) -}}
+{{- else if ne .Params.rickStevesID false -}}
     {{- $poiLinks = $poiLinks | append (printf "- [Holidays and Festivals in %s | Rick Steves&#39; Europe](https://www.ricksteves.com/europe/%s/festivals)" .Title .File.BaseFileName) -}}
 {{- end -}}
 
