@@ -18,6 +18,12 @@ Have [eHealthPoint](https://eveselibaspunkts.lv/en/App) app installed on your ph
 
 {{% delivery-list %}}
 
+## Parking and public transport payment app
+- [Mobilly](https://mobilly.lv/) - must have app to pay for most paid parking, buy tickets for public transport and pay for entrance to Jūrmala
+
+## Driving
+For cars and motorcycles, to enter Jūrmala you must pay a fee of 3 EUR. The easiest way is to use [Mobilly](https://mobilly.lv/) app, but there are also some old-school ticket machines on the city border.
+
 ## Motorcycling
 - It's legal to ride the following with a car license (B category):
 	- <=125cc motorcycles 
