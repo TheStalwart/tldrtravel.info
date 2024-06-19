@@ -32,6 +32,10 @@
 
 {{- $links = $links | append (printf "- [Wikitravel](https://wikitravel.org/en/%s)" (humanize .File.BaseFileName)) -}}
 
+{{- if ne .Params.greenZonesID false -}}
+    {{- $links = $links | append (printf "- [Green-Zones.eu – %s](https://www.green-zones.eu/en/low-emission-zones/%s)" .Title .File.BaseFileName) -}}
+{{- end -}}
+
 {{- range $dataEntry := .Params.links -}}
     {{- $prefix := "" -}}
     {{- if $dataEntry.prefix -}}
