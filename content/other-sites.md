@@ -11,6 +11,7 @@ weight: 20
 - [VUUMLY](https://vuumly.com/demo/) - shared vehicle aggregator and map
 - [Hoodmaps](https://hoodmaps.com/)
 - [Windy](https://www.windy.com) - advanced weather forecast map
+- [Green-Zones app](https://www.green-zones.eu/en/app) - look up low emission zones accross Europe
 
 ## POI lookup
 - [Trip and Treat](https://www.tripandtreat.com) - Plan next trip without hustle with AI help
