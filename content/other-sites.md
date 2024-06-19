@@ -18,6 +18,7 @@ weight: 20
 ## Festivals, hobby meetups
 - [Local gaming communities &#183; RetroMultiplayer](https://retromultiplayer.com/communities/)
 - [Upcoming European Anime Convention Schedule | AnimeCons.com](https://animecons.com/events/schedule.php?loc=eu)
+- [Upcoming European Convention Schedule | FanCons.com](https://fancons.com/events/schedule.php?loc=eu)
 
 ## Accommodation
 - [Airbnb](https://www.airbnb.com)
