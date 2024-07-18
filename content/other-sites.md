@@ -14,7 +14,7 @@ weight: 20
 - [Green-Zones app](https://www.green-zones.eu/en/app) - look up low emission zones accross Europe
 
 ## Trip planning
-- [Trip and Treat](https://www.tripandtreat.com) - Plan next trip without hustle with AI help
+- [Trip and Treat](https://www.tripandtreat.com) - plan next trip without hustle with AI help
 - [waze2gpx](https://github.com/TheStalwart/waze2gpx) - export trip history from Waze in open format
 
 ## Festivals, hobby meetups
