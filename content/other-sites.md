@@ -15,7 +15,7 @@ weight: 20
 
 ## Trip planning
 - [Trip and Treat](https://www.tripandtreat.com) - plan next trip without hustle with AI help
-- [waze2gpx](https://github.com/TheStalwart/waze2gpx) - export trip history from Waze in open format
+- [waze2gpx](https://thestalwart.github.io/waze2gpx/) - export trip history from Waze in open format
 
 ## Festivals, hobby meetups
 - [Local gaming communities &#183; RetroMultiplayer](https://retromultiplayer.com/communities/)
