@@ -30,6 +30,7 @@ weight: 20
 - [Apple Maps](https://www.apple.com/maps/) - best pedestrian navigation for urban environments
 - [GPS Visualizer](https://www.gpsvisualizer.com/) - format converters and tools for GPX and KML files
 - [gpx.studio](https://gpx.studio/) - online GPX file editor
+- [OsmAnd](https://osmand.net/) - mobile [OpenStreetMap](https://www.openstreetmap.org/) app with GPX file support
 
 ## Festivals, hobby meetups
 - [Local gaming communities &#183; RetroMultiplayer](https://retromultiplayer.com/communities/)
