@@ -37,6 +37,9 @@ For cars and motorcycles, to enter Jūrmala you must pay a fee of 3 EUR. The eas
 
 Had great experience renting a motorcycle from [L-auto](https://l-auto.lv/lv) - all kinds of motorcycles and also protective gear is available for reasonable price.
 
+- [RAM Mounts](https://rammount.com/) in stock in [Garmin salonveikals](https://garminshop.lv/lv/kur-nopirkt/)
+- [QuadLock](https://www.quadlockcase.eu/) in stock in [4speed](https://4speed.lv/lv/contacts)
+
 ## Alcohol sale
 - 8:00-22:00[^1]
 - Buyer must be 18 years old[^4]
