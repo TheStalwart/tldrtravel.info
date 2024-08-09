@@ -12,6 +12,7 @@ weight: 20
 - [Hoodmaps](https://hoodmaps.com/)
 - [Windy](https://www.windy.com) - advanced weather forecast map
 - [Green-Zones app](https://www.green-zones.eu/en/app) - look up low emission zones accross Europe
+- [TruckBAN.eu](https://truckban.eu/) - truck ban calendar and average fuel prices for european countries
 
 ## Trip planning
 - [Trip and Treat](https://www.tripandtreat.com) - plan next trip without hustle with AI help
