@@ -14,6 +14,9 @@ weight: 20
 - [Green-Zones app](https://www.green-zones.eu/en/app) - look up low emission zones accross Europe
 - [TruckBAN.eu](https://truckban.eu/) - truck ban calendar and average fuel prices for european countries
 
+## Points of Interest
+- [The International Aviation Museum Guide](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D14nb7XSdTw61sS4gR8sJdJXHC2Qdl9zZL%26usp%3Dsharing%26fbclid%3DIwZXh0bgNhZW0CMTAAAR2O8u3yDIIApN3752IdOqkTgqElFYBs8hM8dI9N7Vq9tzZmJIsKZyLqVu0_aem_DxQ0VSN3xEz7-pN1BHbsow&h=AT3k4_slO5yJ-Qu7zPkFawiuJfxyJ1xUUgL0jAyhH0lk1P6P4FP4QBwPDrYalwmgDqGxxxk46ELjNRwcnC0LZkZBK1Anx4iOxZNASaH7BlbTIbKg0oulQyfy5il8LMM1J5lo) ([Facebook Group](https://www.facebook.com/share/g/DQi1bapasRKyyN2t/))
+
 ## Trip planning
 - [Trip and Treat](https://www.tripandtreat.com) - plan next trip without hustle with AI help
 
