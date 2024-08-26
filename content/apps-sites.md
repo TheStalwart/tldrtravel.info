@@ -23,6 +23,8 @@ weight: 20
     - [Trans Euro Trail](https://transeurotrail.org/) - Europe
 - 🚲&#8239;Bicycling
     - [EuroVelo](https://en.eurovelo.com/) - Europe
+- 🚶&#8239;Hiking
+    - [AllTrails: Trail Guides &amp; Maps for Hiking, Camping, and Running](https://www.alltrails.com/)
 
 ## Trip planning
 - [Trip and Treat](https://www.tripandtreat.com) - plan next trip without hustle with AI help

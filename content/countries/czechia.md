@@ -5,6 +5,7 @@ countryReportsID: CzechRepublic
 coworkerID: czech-republic
 euroVeloID: czech-republic
 rickStevesID: czech-republic
+allTrailsID: czech-republic
 transEuroTrailID: false
 tripAdvisorID: g274684
 ---

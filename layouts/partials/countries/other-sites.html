@@ -22,6 +22,12 @@
     {{- $links = $links | append (printf "- [Trans Euro Trail](https://transeurotrail.org/%s)" .File.BaseFileName) -}}
 {{- end -}}
 
+{{- if .Params.allTrailsID -}}
+    {{- $links = $links | append (printf "- [AllTrails: Trail Guides &amp; Maps for Hiking, Camping, and Running](https://www.alltrails.com/%s)" .Params.allTrailsID) -}}
+{{- else if ne .Params.euroVeloID false -}}
+    {{- $links = $links | append (printf "- [AllTrails: Trail Guides &amp; Maps for Hiking, Camping, and Running](https://www.alltrails.com/%s)" .File.BaseFileName) -}}
+{{- end -}}
+
 {{- $links = $links | append (printf "- [Wikipedia](https://en.wikipedia.org/wiki/%s)" .File.BaseFileName) -}}
 
 {{- if .Params.euroVeloID -}}
