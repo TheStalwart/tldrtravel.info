@@ -1,8 +1,19 @@
 {
-	"folders": [
-		{
-			"path": "."
-		}
-	],
-	"settings": {}
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.trimTrailingWhitespace": true,
+    "files.eol": "\n",
+    "editor.formatOnSave": true,
+    "[jsonc]": {
+      "editor.tabSize": 2,
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[markdown]": {
+      "editor.tabSize": 2
+    }
+  }
 }
