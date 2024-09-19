@@ -14,9 +14,11 @@ links:
 {{% gym-list %}}
 
 ## Driving
-Toll roads require vignette: https://www.austria.info/en/service-and-facts/getting-there-around/by-car/vignette 
+
+Toll roads require vignette: https://www.austria.info/en/service-and-facts/getting-there-around/by-car/vignette
 
 ## Motorcycling
+
 Toll roads require vignette: https://www.austria.info/en/service-and-facts/getting-there-around/by-car/vignette
 
 Do not park motorcycles on sidewalks in Austria! In Vienna specifically - parking rules are weird and complicated, always double-check signs, zones and exceptions for 3-wheeled bikes.[^1]
