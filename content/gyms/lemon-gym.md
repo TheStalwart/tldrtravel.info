@@ -20,7 +20,7 @@ links:
 
 ## Features
 - 24/7 online registration
-- 24/7 access via fingerprint scanner on turnstile
+- 24/7 access via mobile app on turnstile ([branch-specific instructions](https://www.lemongym.lv/wp-content/uploads/2024/10/LEMON-GYM-instrukcija-ka-ieklut-kluba.pdf))
 - 24/7 sale of locker locks in vending machines
 - Free trial
 - Variety of non-predatory subscription plans
