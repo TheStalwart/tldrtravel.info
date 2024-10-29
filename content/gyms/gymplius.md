@@ -10,6 +10,7 @@ links:
 ---
 
 ## Features
+
 - 24/7 registration at self-service terminal
 - 24/7 access
 - 24/7 sale of locker locks in vending machines
@@ -19,9 +20,11 @@ links:
 - Sauna (in select clubs, 09:00-21:00)
 
 ## Issues
+
 - Besides 1-day membership, minimum subscription is 1-month
 
 ## Extra notes
+
 Gym+ chain is owned by {{% gym-link "myfitness" %}}[^1]
 
 {{% country-list %}}
