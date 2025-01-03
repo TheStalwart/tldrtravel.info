@@ -11,9 +11,9 @@
         {{ range $.Page.Pages }}
         <tr>
             <td><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a></td>
-            <td>{{ if in .Params.unions "eu" }}✅{{ else }}❌{{ end }}</td>
-            <td>{{ if in .Params.unions "schengen" }}✅{{ else }}❌{{ end }}</td>
-            <td>{{ if in .Params.unions "nato" }}✅{{ else }}❌{{ end }}</td>
+            <td>{{ if in .Params.unions "eu" }}✅{{ else }}❌{{ end }}<!-- https://en.wikipedia.org/wiki/Member_state_of_the_European_Union --></td>
+            <td>{{ if in .Params.unions "schengen" }}✅{{ else }}❌{{ end }}<!-- https://en.wikipedia.org/wiki/Schengen_Area --></td>
+            <td>{{ if in .Params.unions "nato" }}✅{{ else }}❌{{ end }}<!-- https://en.wikipedia.org/wiki/Member_states_of_NATO --></td>
         </tr>
         {{ end }}
     </tbody>
