@@ -10,6 +10,7 @@ links:
 ---
 
 ## Features
+
 - 24/7 online registration
 - 24/7 access via QR code in mobile app
 - 24/7 sale of locker locks in vending machines
@@ -17,9 +18,11 @@ links:
 - Free parking (in most clubs)
 
 ## Issues
+
 - Shortest contract offered is 12 months
 
 ## Extra notes
+
 Gym! Latvija chain is owned by {{% gym-link "myfitness" %}}[^1]
 
 {{% country-list %}}

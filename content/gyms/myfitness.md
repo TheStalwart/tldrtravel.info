@@ -15,9 +15,10 @@ links:
 ---
 
 ## Features
-- One-time visit price: 
-    - trial: 3 EUR
-    - regular: 13-15 EUR
+
+- One-time visit price:
+  - trial: 3 EUR
+  - regular: 13-15 EUR
 - Free parking (in most clubs)
 - Free locker lock with every new contract (questionable value!)
 - Very clean
@@ -25,6 +26,7 @@ links:
 - Spa (in select clubs)
 
 ## Issues
+
 - No 24/7 access
 - No free trial
 - Cash only accepted in select clubs
@@ -33,6 +35,7 @@ links:
 - Subscriptions are per-country, having other country's subscription only grants a discount
 
 ## Extra notes
+
 - Low cost 24/7 offering by the same holding is called {{% gym-link "gym-latvija" %}}[^1]
 - Lithuanian {{% gym-link "gymplius" %}} chain is owned by MyFitness[^2], but offers and pricing is quite different.
 
