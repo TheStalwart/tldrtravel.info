@@ -21,6 +21,7 @@ poiLinks:
 {{% gym-list %}}
 
 ## Driving
+
 Do not expect gas stations to sell snacks and have toilets. Unlike anywhere else in the world, most of them are either fully automated or have manual cashiers but only sell fuel.
 
 Make sure to check for ZTL and low emission zones when driving.
@@ -28,12 +29,15 @@ Make sure to check for ZTL and low emission zones when driving.
 Make sure to enter toll roads through "Biglietto" gates and don't lose a ticket, otherwise you'll be paying maximum possible price for the toll road, and not just a section you were driving through. Read [this article](https://mamalovesitaly.com/autostrade-italian-toll-roads/) before attempting to enter a toll road, the UI/UX is not great.
 
 ## Motorcycling
+
 ECE 22-05 certified helmet is a strict requirement when riding in Italy. [Homologation - Shoei® Europe](https://www.shoei-europe.com/service/homologation/).
 
 Motorcycles below 150cc are forbidden on motorways and dual carriageways (expressways).
 
 ## Classifieds
+
 - [Subito](https://subito.it)
 
 ## Milan
+
 Milan public transport app to buy tickets online: [ATM Milano](https://www.atm.it/en/ViaggiaConNoi/Pages/ATMMobile.aspx)

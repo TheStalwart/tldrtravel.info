@@ -12,12 +12,15 @@ links:
 ---
 
 ## Parking app
+
 - [mPay](https://www.mpay.pl) - sticker or note stating "I'm paying with mPay" is recommended
 
 ## Alcohol sale
+
 Per-city. In Krakow alcohol is sold until 24:00
 
 ## Hardware stores
+
 - [OBI](https://www.obi.pl/)
 - [Leroy Merlin](https://www.leroymerlin.pl/sklepy.html)
 
