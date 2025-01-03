@@ -2,6 +2,10 @@
 title: Sweden
 flagEmoji: 🇸🇪
 tripAdvisorID: g189806
+unions:
+- eu
+- schengen
+- nato
 ---
 
 {{% transportation-list %}}

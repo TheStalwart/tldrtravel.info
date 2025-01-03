@@ -2,6 +2,9 @@
 title: Norway
 flagEmoji: 🇳🇴
 tripAdvisorID: g190455
+unions:
+- schengen
+- nato
 links:
 - title: Visit Norway | Official travel guide to Norway
   url: https://www.visitnorway.com

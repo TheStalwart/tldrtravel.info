@@ -8,6 +8,10 @@ rickStevesID: czech-republic
 allTrailsID: czech-republic
 transEuroTrailID: false
 tripAdvisorID: g274684
+unions:
+- eu
+- schengen
+- nato
 ---
 
 {{% transportation-list %}}

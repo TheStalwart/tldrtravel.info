@@ -4,6 +4,8 @@ flagEmoji: 🇹🇷
 tripAdvisorID: g293969
 rickStevesID: turkey
 greenZonesID: false
+unions:
+- nato
 ---
 
 {{% transportation-list %}}

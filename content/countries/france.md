@@ -2,6 +2,10 @@
 title: France
 flagEmoji: 🇫🇷
 tripAdvisorID: g187070
+unions:
+- eu
+- schengen
+- nato
 ---
 
 {{% transportation-list %}}

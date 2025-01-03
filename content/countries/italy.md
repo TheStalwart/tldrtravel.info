@@ -2,6 +2,10 @@
 title: Italy
 flagEmoji: 🇮🇹
 tripAdvisorID: g187768
+unions:
+- eu
+- schengen
+- nato
 links:
 - title: "Discover Italy: Official Tourism Website - Italia.it"
   url: https://www.italia.it/en

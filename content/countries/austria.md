@@ -2,6 +2,9 @@
 title: Austria
 flagEmoji: 🇦🇹
 tripAdvisorID: g190410
+unions:
+- eu
+- schengen
 links:
 - title: Holidays in Austria | Your Official Travel Guide
   url: https://www.austria.info/en

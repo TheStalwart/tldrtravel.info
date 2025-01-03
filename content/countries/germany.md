@@ -2,6 +2,10 @@
 title: Germany
 flagEmoji: 🇩🇪
 tripAdvisorID: g187275
+unions:
+- eu
+- schengen
+- nato
 links:
 - title: "Germany: Discover the best attractions - Germany Travel"
   url: https://www.germany.travel/en/home.html

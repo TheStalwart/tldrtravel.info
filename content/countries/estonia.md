@@ -3,6 +3,10 @@ title: Estonia
 flagEmoji: 🇪🇪
 tripAdvisorID: g274952
 greenZonesID: false
+unions:
+- eu
+- schengen
+- nato
 links:
 - title: Official travel guide to Estonia | Visit Estonia
   url: https://www.visitestonia.com/en

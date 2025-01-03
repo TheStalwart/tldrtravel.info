@@ -2,6 +2,10 @@
 title: Poland
 flagEmoji: 🇵🇱
 tripAdvisorID: g274723
+unions:
+- eu
+- schengen
+- nato
 links:
 - title: Poland Travel
   url: https://www.poland.travel/en/

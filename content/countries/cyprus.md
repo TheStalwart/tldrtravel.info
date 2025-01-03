@@ -5,6 +5,8 @@ rickStevesID: false
 tripAdvisorID: g190372
 greenZonesID: false
 transEuroTrailID: false
+unions:
+- eu
 ---
 
 {{% transportation-list %}}

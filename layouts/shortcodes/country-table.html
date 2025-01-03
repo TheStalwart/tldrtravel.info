@@ -1,0 +1,20 @@
+<table class="sortable-theme-minimal" data-sortable>
+    <thead>
+        <tr>
+            <th>Country</th>
+            <th>EU</th>
+            <th>Schengen</th>
+            <th>NATO</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{ range $.Page.Pages }}
+        <tr>
+            <td><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a></td>
+            <td>{{ if in .Params.unions "eu" }}✅{{ else }}❌{{ end }}</td>
+            <td>{{ if in .Params.unions "schengen" }}✅{{ else }}❌{{ end }}</td>
+            <td>{{ if in .Params.unions "nato" }}✅{{ else }}❌{{ end }}</td>
+        </tr>
+        {{ end }}
+    </tbody>
+</table>

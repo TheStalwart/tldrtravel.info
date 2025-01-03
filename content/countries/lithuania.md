@@ -4,6 +4,10 @@ flagEmoji: 🇱🇹
 tripAdvisorID: g274947
 rickStevesID: false
 greenZonesID: false
+unions:
+- eu
+- schengen
+- nato
 poiLinks:
 - title: Urban development map of Vilnius
   url: https://citify.eu/en/vilnius/
