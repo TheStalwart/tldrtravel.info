@@ -5,7 +5,7 @@
     {{- $countryPage := $.Page.GetPage $countryPagePath -}}
     {{- if $countryPage -}}
         {{- $supportedCountriesListed = add $supportedCountriesListed 1 -}}
-        {{ "\n" }}- [{{- partial "countries/title" $countryPage | safeHTML -}}]({{- $countryPage.RelPermalink -}})
+        {{ "\n" }}- []({{- $countryPage.RelPermalink -}})
     {{- end -}}
 {{- end -}}
 
