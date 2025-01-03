@@ -2,8 +2,6 @@
 title: Cash
 ---
 
-# Cash
-
 It's good to always have some amount of cash for tipping and as a backup.
 
 ## Currencies

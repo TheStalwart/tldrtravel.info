@@ -15,10 +15,10 @@ countries:
 - lithuania
 ---
 
-# CityBee
 Car sharing in Baltic states[^2]
 
 ## Download
+
 [About Us - CityBee](https://citybee.lv/en/citybee/)
 
 {{% vehicle-list %}}
@@ -26,6 +26,7 @@ Car sharing in Baltic states[^2]
 {{% payment-list %}}
 
 ## Extra notes
+
 - Car sharing is available to 18 year olds with brand new driver's license[^1]
 
 {{% country-list %}}

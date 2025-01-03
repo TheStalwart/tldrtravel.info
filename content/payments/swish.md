@@ -4,8 +4,6 @@ countries:
 - sweden
 ---
 
-# Swish
-
 Some vendors in [](/countries/sweden), like street food trucks, only accept payments through Swish app.
 
 ## Download

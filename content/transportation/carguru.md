@@ -12,10 +12,10 @@ countries:
 - latvia
 ---
 
-# Carguru
-Car sharing in [](/countries/latvia) 
+Car sharing in [](/countries/latvia)
 
 ## Download
+
 [CARGURU](https://carguru.lv)
 
 {{% vehicle-list %}}
@@ -23,9 +23,11 @@ Car sharing in [](/countries/latvia)
 {{% payment-list %}}
 
 ## Extra notes
+
 - To rent a car, driver must be 21 year old and possessing a valid category B driver’s license held for a minimum of 2 years[^1]
 
 ## Issues
+
 - Service uses a [dark pattern](https://www.darkpattern.games/pattern/16/premium-currency.html) of in-app currency "₲–Coins" that can only be topped-up in 5 EUR increments
 
 {{% country-list %}}

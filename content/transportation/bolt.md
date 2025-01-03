@@ -47,17 +47,18 @@ countries: # This definition only includes european countries: https://bolt.eu/e
 countryListURL: "https://bolt.eu/en/cities/"
 ---
 
-# Bolt
 Must-have app for urban transportation in most of the Europe.
 
 ## Download
-[Downloading the Bolt app | Bolt](https://bolt.eu/en-lv/support/articles/115003024753/) 
+
+[Downloading the Bolt app | Bolt](https://bolt.eu/en-lv/support/articles/115003024753/)
 
 {{% vehicle-list %}}
 
 {{% payment-list %}}
 
 ## Extra notes
+
 - To rent a car, driver must be over 20-years of age and have held a valid driving licence for at least 1 year[^1]
 - [Cabrios](https://en.wikipedia.org/wiki/Convertible) available in select cities during summer
 

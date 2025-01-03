@@ -22,10 +22,10 @@ countries:
 countryListURL: "https://www.free-now.com/uk/cities/"
 ---
 
-# FREENOW
 Alternative to {{% transportation-link "bolt" %}} for transportation, often cheaper.
 
 ## Download
+
 [Ride - Download App | FREENOW (free-now.com)](https://www.free-now.com/uk/ride/download-app/)
 
 {{% vehicle-list %}}
@@ -33,6 +33,7 @@ Alternative to {{% transportation-link "bolt" %}} for transportation, often chea
 {{% payment-list %}}
 
 ## Issues
+
 Not possible to plan a trip outside of current geolocation
 
 {{% country-list %}}

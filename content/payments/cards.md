@@ -2,8 +2,6 @@
 title: Cards
 ---
 
-# Cards
-
 Visa/Mastercard Debit/Credit card is a must have for traveling.
 
 ## Suggestions

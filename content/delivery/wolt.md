@@ -29,13 +29,14 @@ countries: # https://wolt.com/
 countryListURL: "https://wolt.com/"
 ---
 
-# Wolt
 The most diverse inventory of deliverable products in [](/countries/latvia).
 
 ## Download
+
 [Wolt Delivery: Food and more](https://wolt.com/)
 
 ## Products available
+
 - Food
 - Flowers
 - Electronics
@@ -46,6 +47,7 @@ The most diverse inventory of deliverable products in [](/countries/latvia).
 - ...much more
 
 ## Extra notes
+
 Some restaurants only work with {{% delivery-link "bolt-food" %}}, so if you're missing a specific place in search results - try the green app.
 
 {{% country-list %}}

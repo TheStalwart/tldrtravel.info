@@ -13,9 +13,8 @@ countries:
 - latvia
 ---
 
-# Tuul
-
 ## Download
+
 [Home - Tuul e-scooter](https://tuul.xyz/en/)
 
 {{% vehicle-list %}}
