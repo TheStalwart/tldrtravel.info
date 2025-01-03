@@ -8,6 +8,9 @@
     "files.trimTrailingWhitespace": true,
     "files.eol": "\n",
     "editor.formatOnSave": true,
+    "[html]": {
+      "editor.formatOnSave": false // VSCode formatter mangles Go templates
+    },
     "[jsonc]": {
       "editor.tabSize": 2,
       "editor.defaultFormatter": "esbenp.prettier-vscode"
