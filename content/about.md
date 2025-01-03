@@ -3,8 +3,6 @@ title: About
 weight: 10
 ---
 
-# About
-
 A dump of concise and organized information for urban survival. Focus on food, shelter, transportation, and staying out of jail.
 
 Not a source of mainstream tourist attractions, but a more sober companion for [Tripadvisor](https://www.tripadvisor.com/).

@@ -3,8 +3,6 @@ title: Apps and sites
 weight: 20
 ---
 
-# Apps and sites
-
 ## Urban survival
 
 - [Mains electricity by country](https://en.wikipedia.org/wiki/Mains_electricity_by_country)
