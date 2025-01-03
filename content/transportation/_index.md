@@ -4,8 +4,6 @@ bookCollapseSection: true
 weight: 90
 ---
 
-# Transportation
-
 ## Vehicles
 
 {{< transportation-vehicle-table >}}
