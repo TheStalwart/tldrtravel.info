@@ -37,6 +37,7 @@ weight: 20
 - [OpenStreetMap](https://www.openstreetmap.org/) - free map tiles, usable in one way or another with most mapping/navigation software
 - [Waze](https://www.waze.com/company) - excellent car and motorcycle navigation app for phones
 - [waze2gpx](https://thestalwart.github.io/waze2gpx/) - export [Waze](https://www.waze.com/company) trip history from to GPX, GeoJSON and KML formats
+- [Kurviger](https://kurviger.com/en/features) - customizable routing tailored for motorcyclists
 - [Google My Maps](https://www.google.com/maps/d/) - create maps with waypoints and routes, supports import of GPX and KML files
 - [Google Earth](https://www.google.com/earth/about/versions/) - one of the best KML editors available, but no street maps, only satellite imagery
 - [Maps to GPX](https://mapstogpx.com/) - export routes planned in [Google Maps](https://www.google.com/maps) to GPX file
