@@ -16,7 +16,7 @@ countries:
 - latvia
 ---
 
-Electric moped and e-bicycle sharing service in [Riga, Latvia](/countries/latvia/#riga).
+Electric moped sharing service in [Riga, Latvia](/countries/latvia/#riga).
 
 Every moped has two helmets in top box - size M and L, it's legal and comfortable to ride these scooters 2-up.
 
