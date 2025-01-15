@@ -16,7 +16,7 @@ countries:
 - latvia
 ---
 
-Electric moped and e-bicycle sharing service in [Riga, Latvia](/countries/latvia#riga).
+Electric moped and e-bicycle sharing service in [Riga, Latvia](/countries/latvia/#riga).
 
 Every moped has two helmets in top box - size M and L, it's legal and comfortable to ride these scooters 2-up.
 
@@ -28,7 +28,7 @@ Every moped has two helmets in top box - size M and L, it's legal and comfortabl
 
 ## Notes
 
-In [](/countries/latvia#motorcycling), it's legal to ride motorcycles (including mopeds) on public transport lanes, and legally park them on sidewalks (except pedestrian streets) for free.
+In [](/countries/latvia/#motorcycling), it's legal to ride motorcycles (including mopeds) on public transport lanes, and legally park them on sidewalks (except pedestrian streets) for free.
 
 {{% payment-list %}}
 

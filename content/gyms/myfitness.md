@@ -1,6 +1,6 @@
 ---
 title: MyFitness
-description: Premium gym chain in [](/countries/estonia) and [](/countries/latvia).
+description: Premium gym chain in [](/countries/estonia/) and [](/countries/latvia/).
 open24x7: false
 countries:
 - estonia

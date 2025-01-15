@@ -1,6 +1,6 @@
 ---
 title: Gym+
-description: Truly 24/7 gym chain in [](/countries/lithuania).
+description: Truly 24/7 gym chain in [](/countries/lithuania/).
 open24x7: true
 countries:
 - lithuania

@@ -39,8 +39,8 @@ For cars and motorcycles, to enter Jūrmala you must pay a fee of 3 EUR. The eas
   - [3-wheeled motorcycles](https://en.wikipedia.org/wiki/Piaggio_MP3) irregardless of engine capacity, if rider is at least 21 years old.
 - It's legal to ride motorcycles on public transport lanes
 - It's legal to park 2-wheeled motorcycles on sidewalks (except pedestrian streets) for free
-- The only protective gear legally required is helmet. Helmet certification is not required, unlike in [](/countries/italy#motorcycling)
-- There are no major exceptions for low-cc mopeds except legal age requirement. Unlike in [](/countries/france#motorcycling), you must have a driver's license, helmet and insurance to ride 49cc scooters!
+- The only protective gear legally required is helmet. Helmet certification is not required, unlike in [](/countries/italy/#motorcycling)
+- There are no major exceptions for low-cc mopeds except legal age requirement. Unlike in [](/countries/france/#motorcycling), you must have a driver's license, helmet and insurance to ride 49cc scooters!
 - Read [Road Traffic Regulations](https://likumi.lv/ta/en/en/id/274865-road-traffic-regulations) and [Road Traffic Law](https://likumi.lv/ta/en/en/id/45467-road-traffic-law) for more details
 
 Had great experience renting a motorcycle from [L-auto](https://l-auto.lv/lv) - all kinds of motorcycles and also protective gear is available for reasonable price.

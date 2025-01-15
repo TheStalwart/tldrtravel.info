@@ -12,7 +12,7 @@ countries:
 - latvia
 ---
 
-Car sharing in [](/countries/latvia)
+Car sharing in [](/countries/latvia/)
 
 ## Download
 

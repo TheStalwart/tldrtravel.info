@@ -1,6 +1,6 @@
 ---
 title: Gym! Latvija
-description: Truly 24/7 low cost gym chain in [](/countries/latvia).
+description: Truly 24/7 low cost gym chain in [](/countries/latvia/).
 open24x7: true
 countries:
 - latvia

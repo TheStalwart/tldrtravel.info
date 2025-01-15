@@ -29,7 +29,7 @@ countries: # https://wolt.com/
 countryListURL: "https://wolt.com/"
 ---
 
-The most diverse inventory of deliverable products in [](/countries/latvia).
+The most diverse inventory of deliverable products in [](/countries/latvia/).
 
 ## Download
 
