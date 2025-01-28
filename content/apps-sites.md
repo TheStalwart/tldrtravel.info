@@ -27,10 +27,6 @@ weight: 20
 - 🚶&#8239;Hiking
   - [AllTrails: Trail Guides &amp; Maps for Hiking, Camping, and Running](https://www.alltrails.com/)
 
-## Trip planning
-
-- [Trip and Treat](https://www.tripandtreat.com) - plan next trip without hustle with AI help
-
 ## Maps and navigation
 
 - [Google Maps](https://www.google.com/maps) - best maps for most casual users
