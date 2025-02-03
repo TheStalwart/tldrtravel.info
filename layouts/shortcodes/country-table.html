@@ -5,6 +5,7 @@
             <th>EU</th>
             <th>Schengen</th>
             <th>NATO</th>
+            <th>Wild camping</th>
         </tr>
     </thead>
     <tbody>
@@ -14,6 +15,7 @@
             <td>{{ if in .Params.unions "eu" }}✅{{ else }}❌{{ end }}<!-- https://en.wikipedia.org/wiki/Member_state_of_the_European_Union --></td>
             <td>{{ if in .Params.unions "schengen" }}✅{{ else }}❌{{ end }}<!-- https://en.wikipedia.org/wiki/Schengen_Area --></td>
             <td>{{ if in .Params.unions "nato" }}✅{{ else }}❌{{ end }}<!-- https://en.wikipedia.org/wiki/Member_states_of_NATO --></td>
+            {{ partial "td-bool-string.html" .Params.wildCampingLegal }}
         </tr>
         {{ end }}
     </tbody>

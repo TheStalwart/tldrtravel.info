@@ -2,6 +2,7 @@
 title: Germany
 flagEmoji: 🇩🇪
 tripAdvisorID: g187275
+wildCampingLegal: false
 unions:
 - eu
 - schengen

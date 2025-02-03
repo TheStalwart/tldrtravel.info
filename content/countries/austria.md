@@ -2,6 +2,7 @@
 title: Austria
 flagEmoji: 🇦🇹
 tripAdvisorID: g190410
+wildCampingLegal: false
 unions:
 - eu
 - schengen

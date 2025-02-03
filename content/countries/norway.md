@@ -2,6 +2,7 @@
 title: Norway
 flagEmoji: 🇳🇴
 tripAdvisorID: g190455
+wildCampingLegal: true
 unions:
 - schengen
 - nato

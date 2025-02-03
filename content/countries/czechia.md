@@ -8,6 +8,7 @@ rickStevesID: czech-republic
 allTrailsID: czech-republic
 transEuroTrailID: false
 tripAdvisorID: g274684
+wildCampingLegal: false
 unions:
 - eu
 - schengen

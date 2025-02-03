@@ -3,6 +3,7 @@ title: Estonia
 flagEmoji: 🇪🇪
 tripAdvisorID: g274952
 greenZonesID: false
+wildCampingLegal: true
 unions:
 - eu
 - schengen

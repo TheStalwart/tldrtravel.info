@@ -2,6 +2,7 @@
 title: Poland
 flagEmoji: 🇵🇱
 tripAdvisorID: g274723
+wildCampingLegal: true
 unions:
 - eu
 - schengen

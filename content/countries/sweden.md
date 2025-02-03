@@ -2,6 +2,7 @@
 title: Sweden
 flagEmoji: 🇸🇪
 tripAdvisorID: g189806
+wildCampingLegal: true
 unions:
 - eu
 - schengen

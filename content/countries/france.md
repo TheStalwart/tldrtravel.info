@@ -2,6 +2,7 @@
 title: France
 flagEmoji: 🇫🇷
 tripAdvisorID: g187070
+wildCampingLegal: false
 unions:
 - eu
 - schengen

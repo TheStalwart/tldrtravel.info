@@ -2,6 +2,7 @@
 title: Italy
 flagEmoji: 🇮🇹
 tripAdvisorID: g187768
+wildCampingLegal: false
 unions:
 - eu
 - schengen

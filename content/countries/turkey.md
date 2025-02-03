@@ -4,6 +4,7 @@ flagEmoji: 🇹🇷
 tripAdvisorID: g293969
 rickStevesID: turkey
 greenZonesID: false
+wildCampingLegal: true
 unions:
 - nato
 ---

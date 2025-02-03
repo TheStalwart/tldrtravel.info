@@ -4,6 +4,7 @@ flagEmoji: 🇱🇹
 tripAdvisorID: g274947
 rickStevesID: false
 greenZonesID: false
+wildCampingLegal: true
 unions:
 - eu
 - schengen

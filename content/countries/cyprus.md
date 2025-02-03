@@ -5,6 +5,7 @@ rickStevesID: false
 tripAdvisorID: g190372
 greenZonesID: false
 transEuroTrailID: false
+wildCampingLegal: false
 unions:
 - eu
 ---
