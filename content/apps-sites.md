@@ -45,6 +45,13 @@ weight: 20
 - [gpx.studio](https://gpx.studio/) - online GPX file editor
 - [OsmAnd](https://osmand.net/) - mobile [OpenStreetMap](https://www.openstreetmap.org/) app with GPX file support
 
+## Campsite apps
+
+- [iOverlander](https://ioverlander.com/) - lots of wild camping spots reviewed, has feature filters, app works offline, near useless without paid subscription, which is absurdly expensive
+- [park4night](https://park4night.com/en) - lots of wild camping spots reviewed, has feature filters, app works offline, near useless without paid subscription, but price is reasonable
+- [searchforsites](https://www.searchforsites.co.uk/) - works offline, has feature filters, provides data in KML/CSV/OV2 format, mobile app requires subscription, but price is reasonable
+- [Truckfly](https://www.truckfly.com/en/) - database of truck stops, free, has feature filters
+
 ## Festivals, hobby meetups
 
 - [Local gaming communities &#183; RetroMultiplayer](https://retromultiplayer.com/communities/)
