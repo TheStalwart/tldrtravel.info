@@ -18,6 +18,12 @@
 {{- /*  https://www.reddit.com/r/digitalnomad/comments/f18hny/is_the_nomadlist_subscription_worth_it/   */ -}}
 {{- /*  $links = $links | append (printf "- [Nomad List](https://nomadlist.com/%s)" .File.BaseFileName) */ -}}
 
+{{- if .Params.tollsEu -}}
+    {{- $links = $links | append (printf "- [Tolls.eu](https://www.tolls.eu/european-countries#%s)" .File.BaseFileName) -}}
+{{- else if ne .Params.tollsEu false -}}
+    {{- $links = $links | append (printf "- [Tolls.eu](https://www.tolls.eu/%s)" .File.BaseFileName) -}}
+{{- end -}}
+
 {{- if ne .Params.transEuroTrailID false -}}
     {{- $links = $links | append (printf "- [Trans Euro Trail](https://transeurotrail.org/%s)" .File.BaseFileName) -}}
 {{- end -}}

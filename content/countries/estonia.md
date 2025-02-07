@@ -4,6 +4,7 @@ flagEmoji: 🇪🇪
 tripAdvisorID: g274952
 greenZonesID: false
 wildCampingLegal: true
+tollsEu: partial
 unions:
 - eu
 - schengen

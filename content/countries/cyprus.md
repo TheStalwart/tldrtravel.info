@@ -6,6 +6,7 @@ tripAdvisorID: g190372
 greenZonesID: false
 transEuroTrailID: false
 wildCampingLegal: false
+tollsEu: partial
 unions:
 - eu
 ---
