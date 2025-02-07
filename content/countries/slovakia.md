@@ -8,6 +8,9 @@ unions:
 - eu
 - schengen
 - nato
+links:
+- title: Official Slovak National Tourism Portal
+  url: https://slovakia.travel/en
 ---
 
 {{% transportation-list %}}
