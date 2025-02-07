@@ -12,3 +12,4 @@ enableGitInfo = true
   BookTheme = 'auto'
   BookSection = '/'
   BookRepo = 'https://github.com/TheStalwart/tldrtravel.info'
+  BookToC = false # due to reliance on partials, ToC is incomplete and looks broken
