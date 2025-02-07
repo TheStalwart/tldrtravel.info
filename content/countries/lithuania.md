@@ -22,6 +22,10 @@ poiLinks:
 
 {{% delivery-list %}}
 
+## Driving
+
+Motorcycles and light passenger vehicles don't need vignette. Commercial vehicles (N1, N2, N3) and buses (M2, M3) [need vignette](https://pirkti.keliumokestis.lt/pages/tollRates.xhtml) for [all major highways](https://keliumokestis.lt/pages/tollRoad.xhtml).
+
 ## Alcohol sale
 
 - Monday-Saturday: 10:00-20:00
