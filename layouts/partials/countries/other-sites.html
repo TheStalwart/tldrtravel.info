@@ -1,5 +1,9 @@
 {{- $links := slice -}}
 
+{{- if .Params.adventureCountryTracks -}}
+    {{- $links = $links | append (printf "- [Adventure Country Tracks](https://adventurecountrytracks.com/%s)" .File.BaseFileName) -}}
+{{- end -}}
+
 {{- if .Params.countryReportsID -}}
     {{- $links = $links | append (printf "- [CountryReports](https://www.countryreports.org/country/%s/fact.htm)" .Params.countryReportsID) -}}
 {{- else if ne .Params.countryReportsID false -}}
