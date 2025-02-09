@@ -1,5 +1,6 @@
-## Transportation
 {{- $transportationInCurrentCountry := (where (where .Site.Pages "Section" "transportation" ) ".Params.countries" "intersect" (slice .Page.File.BaseFileName ) ) -}}
+{{- if gt $transportationInCurrentCountry.Len 0 -}}
+## Transportation
 {{- range $key, $value := .Site.Data.vehicles -}}
     {{- $services := slice -}}
     {{- range $transportationInCurrentCountry -}}
@@ -9,13 +10,14 @@
     {{- end -}}
     {{- if gt (len $services) 0 -}}
         {{ "\n" }}- {{ $value.emoji }} {{ $value.title }}
-        {{- range $index, $service := $services }} 
+        {{- range $index, $service := $services }}
             {{- if eq $index 0 }}: {{ else }}, {{ end }}[{{ $service.Title }}]({{ $service.RelPermalink }})
         {{- end -}}
     {{- end -}}
 {{- end -}}
+{{- end -}}
 
-{{/* 
+{{/*
     Bolt does not provide e-bicycles in Latvia,
     but in other countries they do.
     This shortcode will probably need some adjustment

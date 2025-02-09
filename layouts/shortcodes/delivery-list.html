@@ -1,4 +1,7 @@
+{{- $deliveryApps :=  (where (where .Site.Pages "Section" "delivery" ) ".Params.countries" "intersect" (slice $.Page.File.BaseFileName ) ) -}}
+{{- if gt $deliveryApps.Len 0 -}}
 ## Delivery
-{{ range (where (where .Site.Pages "Section" "delivery" ) ".Params.countries" "intersect" (slice $.Page.File.BaseFileName ) ) }}
+{{ range $deliveryApps }}
 - [{{ .Title }}]({{ .RelPermalink }})
+{{- end -}}
 {{- end -}}
