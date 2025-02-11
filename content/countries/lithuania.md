@@ -32,3 +32,7 @@ Motorcycles and light passenger vehicles don't need vignette. Commercial vehicle
 - Sunday: 10:00-15:00
 
 {{% gym-list %}}
+
+## Classifieds
+
+- [Skelbiu.lt](https://skelbiu.lt/)
