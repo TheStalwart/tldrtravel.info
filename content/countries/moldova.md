@@ -6,6 +6,7 @@ euroVeloID: false
 greenZonesID: false
 transEuroTrailID: false
 rickStevesID: false
+wildCampingLegal: true
 ---
 
 {{% transportation-list %}}
