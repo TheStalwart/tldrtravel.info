@@ -11,8 +11,6 @@ links:
   url: https://www.visitnorway.com
 ---
 
-{{% transportation-list %}}
-
 ## Alcohol sale
 
 - <=4.75%:

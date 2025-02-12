@@ -11,8 +11,6 @@ unions:
 - eu
 ---
 
-{{% transportation-list %}}
-
 ## Politics
 
 Make sure to understand the difference between northern and southern region administration! They have different laws and currencies.

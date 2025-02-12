@@ -10,8 +10,6 @@ unions:
 - nato
 ---
 
-{{% transportation-list %}}
-
 ## Driving
 
 There are several bridge tolls, as well as congestions taxes in Stockholm and Gothenburg. Vehicles registered abroad will be taxed automatically, and bill sent to vehicle owner. More info available on [The Swedish Transport Agency website](https://transportstyrelsen.se/en/road/vehicles/taxes-and-fees/road-tolls/).

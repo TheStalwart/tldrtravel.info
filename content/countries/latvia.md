@@ -23,8 +23,6 @@ poiLinks:
 
 Have [eHealthPoint](https://eveselibaspunkts.lv/en/App) app installed on your phone. It allows user to make an emergency call to 113 by simultaneously transmitting caller location data (GPS coordinates) and basic information of caller to Emergency medical service dispatchers.
 
-{{% transportation-list %}}
-
 ## Parking and public transport payment app
 
 - [Mobilly](https://mobilly.lv/) - must have app to pay for most paid parking, buy tickets for public transport and pay for entrance to Jūrmala

@@ -15,8 +15,6 @@ links:
   url: https://romaniatourism.com/
 ---
 
-{{% transportation-list %}}
-
 ## Driving
 
 Cars and trucks must [buy a vignette](https://www.roviniete.ro/en/rovinieta) to access motorways and state roads.

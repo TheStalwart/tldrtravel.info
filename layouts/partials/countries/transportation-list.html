@@ -1,0 +1,21 @@
+{{- $transportationInCurrentCountry := (where (where .Site.Pages "Section" "transportation" ) ".Params.countries" "intersect" (slice .Page.File.BaseFileName ) ) -}}
+
+{{- if gt $transportationInCurrentCountry.Len 0 -}}
+    {{ "## Transportation" | .RenderString }}
+
+    {{- $vehicleListEntries := slice -}}
+    {{- range $key, $value := .Site.Data.vehicles -}}
+        {{- $services := slice -}}
+        {{- range $transportationInCurrentCountry -}}
+            {{- if index .Params.vehicles $key -}}{{/* if defined and not false */}}
+                {{- $services = $services | append (printf "[%s](%s)" .Title .RelPermalink) -}}
+            {{- end -}}
+        {{- end -}}
+
+        {{- if gt (len $services) 0 -}}
+            {{- $entry := printf "- %s %s: %s" $value.emoji $value.title (delimit $services ", ") -}}
+            {{- $vehicleListEntries = $vehicleListEntries | append $entry -}}
+        {{- end -}}
+    {{- end -}}
+    {{ delimit $vehicleListEntries "\n" | .RenderString }}
+{{- end -}}

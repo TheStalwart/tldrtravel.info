@@ -28,5 +28,3 @@ Per-city. In Krakow alcohol is sold until 24:00
 
 - [OBI](https://www.obi.pl/)
 - [Leroy Merlin](https://www.leroymerlin.pl/sklepy.html)
-
-{{% transportation-list %}}

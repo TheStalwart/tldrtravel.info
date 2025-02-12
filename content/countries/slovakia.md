@@ -13,8 +13,6 @@ links:
   url: https://slovakia.travel/en
 ---
 
-{{% transportation-list %}}
-
 ## Driving
 
 All vehicles with at least four wheels must [buy a vignette](https://eznamka.sk/en/) to access [major motorways](https://eznamka.sk/en/specified-road-sections/network).
