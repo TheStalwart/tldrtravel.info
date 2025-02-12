@@ -11,8 +11,6 @@ unions:
 
 {{% transportation-list %}}
 
-{{% delivery-list %}}
-
 ## Driving
 
 There are low-emission zones that forbid older diesels from entering and [require stickers](https://www.drive-france.com/crit-air-sticker/) on all cars and motorcycles.

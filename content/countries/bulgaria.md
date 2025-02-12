@@ -12,8 +12,6 @@ unions:
 
 {{% transportation-list %}}
 
-{{% delivery-list %}}
-
 ## Driving
 
 A valid vignette is required for cars and trucks to access motorways and most lower-class roads. Buy it at [National Toll Administration](https://www.bgtoll.bg/en/).

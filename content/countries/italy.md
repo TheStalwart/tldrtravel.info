@@ -18,8 +18,6 @@ poiLinks:
 
 {{% transportation-list %}}
 
-{{% delivery-list %}}
-
 ## Driving
 
 Do not expect gas stations to sell snacks and have toilets. Unlike anywhere else in the world, most of them are either fully automated or have manual cashiers but only sell fuel.

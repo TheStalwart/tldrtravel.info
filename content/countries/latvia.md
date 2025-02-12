@@ -25,8 +25,6 @@ Have [eHealthPoint](https://eveselibaspunkts.lv/en/App) app installed on your ph
 
 {{% transportation-list %}}
 
-{{% delivery-list %}}
-
 ## Parking and public transport payment app
 
 - [Mobilly](https://mobilly.lv/) - must have app to pay for most paid parking, buy tickets for public transport and pay for entrance to Jūrmala

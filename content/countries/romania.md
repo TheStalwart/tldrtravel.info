@@ -17,8 +17,6 @@ links:
 
 {{% transportation-list %}}
 
-{{% delivery-list %}}
-
 ## Driving
 
 Cars and trucks must [buy a vignette](https://www.roviniete.ro/en/rovinieta) to access motorways and state roads.

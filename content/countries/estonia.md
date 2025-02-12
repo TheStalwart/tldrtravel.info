@@ -21,8 +21,6 @@ poiLinks:
 
 {{% transportation-list %}}
 
-{{% delivery-list %}}
-
 ## Driving
 
 Vehicles of total weight <3500kg do not need to buy any vignettes. Information for >3500kg vehicles is available on [teetasu.ee](https://teetasu.ee/en).

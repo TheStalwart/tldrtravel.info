@@ -13,8 +13,6 @@ links:
 
 {{% transportation-list %}}
 
-{{% delivery-list %}}
-
 ## Alcohol sale
 
 - <=4.75%:

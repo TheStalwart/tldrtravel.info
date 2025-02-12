@@ -1,0 +1,11 @@
+{{- $deliveryApps :=  (where (where .Site.Pages "Section" "delivery" ) ".Params.countries" "intersect" (slice $.Page.File.BaseFileName ) ) -}}
+
+{{- if gt $deliveryApps.Len 0 -}}
+    {{ "## Delivery" | .RenderString }}
+
+    {{- $markdownLinks := slice -}}
+    {{ range $deliveryApps }}
+        {{- $markdownLinks = $markdownLinks | append (printf "- [%s](%s)" .Title .RelPermalink) -}}
+    {{- end -}}
+    {{ delimit (sort $markdownLinks) "\n" | .RenderString }}
+{{- end -}}
