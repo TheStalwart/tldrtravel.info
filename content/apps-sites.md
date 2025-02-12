@@ -12,6 +12,7 @@ weight: 20
 - [Windy](https://www.windy.com) - advanced weather forecast map
 - [Green-Zones app](https://www.green-zones.eu/en/app) - look up low emission zones accross Europe
 - [TruckBAN.eu](https://truckban.eu/) - truck ban calendar and average fuel prices for european countries
+- [Wild Camping in Europe](https://wobblyride.com/2024/04/08/wild-camping-in-europe-where-legal/) - a well researched list of laws regarding wild camping in Europe
 
 ## Points of Interest
 
