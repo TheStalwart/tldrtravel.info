@@ -15,8 +15,6 @@ links:
 
 {{% delivery-list %}}
 
-{{% gym-list %}}
-
 ## Alcohol sale
 
 - <=4.75%:

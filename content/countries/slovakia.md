@@ -24,5 +24,3 @@ All vehicles with at least four wheels must [buy a vignette](https://eznamka.sk/
 ## Motorcycling
 
 Motorcycles and trikes are exempt from vignette requirement. No need to register or purchase any vignettes.
-
-{{% gym-list %}}

@@ -4,8 +4,11 @@
     <a href="{{ .RelPermalink }}">{{ partial "countries/title.html" . | safeHTML }}</a>
   </h1>
   {{ partial "docs/post-meta" . }}
-  
+
   {{ partial "countries/other-sites.html" . }}
+
+  {{ partial "countries/gym-list.html" . }}
+
   {{- .Content -}}
 </article>
 {{ end }}

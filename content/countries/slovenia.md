@@ -17,5 +17,3 @@ unions:
 ## Driving
 
 Vignette for motorcycles and cars is mandatory in Slovenia on most motorways and expressways, [purchase online](https://evinjeta.dars.si/en).
-
-{{% gym-list %}}

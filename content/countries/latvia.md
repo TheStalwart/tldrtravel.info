@@ -78,8 +78,6 @@ Had great experience renting a motorcycle from [L-auto](https://l-auto.lv/lv) - 
   - vaping product _user_ must be 20 years old
   - flavored vaping products will be illegal to sell, only tobacco flavor will be legal
 
-{{% gym-list %}}
-
 ## Classifieds
 
 - [SS.LV](https://ss.lv)

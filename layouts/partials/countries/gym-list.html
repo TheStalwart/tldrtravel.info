@@ -1,0 +1,11 @@
+{{- $gyms := where (where .Site.Pages "Section" "gyms" ) ".Params.countries" "intersect" (slice $.Page.File.BaseFileName ) -}}
+
+{{- if gt $gyms.Len 0 -}}
+    {{ "## Gyms" | .RenderString }}
+
+    {{- $markdownLinks := slice -}}
+    {{ range $gyms }}
+        {{- $markdownLinks = $markdownLinks | append (printf "- [%s](%s)" .Title .RelPermalink) -}}
+    {{- end -}}
+    {{ delimit (sort $markdownLinks) "\n" | .RenderString }}
+{{- end -}}

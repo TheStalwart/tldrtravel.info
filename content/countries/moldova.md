@@ -20,5 +20,3 @@ All cars registered outside Moldova are subject to an electronic vignette, which
 ## Motorcycling
 
 Motorcycles do not require vignette.
-
-{{% gym-list %}}

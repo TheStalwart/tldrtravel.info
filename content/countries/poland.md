@@ -32,5 +32,3 @@ Per-city. In Krakow alcohol is sold until 24:00
 {{% transportation-list %}}
 
 {{% delivery-list %}}
-
-{{% gym-list %}}

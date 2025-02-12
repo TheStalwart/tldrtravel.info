@@ -15,8 +15,6 @@ links:
 
 {{% delivery-list %}}
 
-{{% gym-list %}}
-
 ## Driving
 
 Toll roads require vignette. [Digital vignette is available](https://www.austria.info/en/service-and-facts/getting-there-around/by-car/vignette).

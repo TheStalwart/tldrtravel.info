@@ -26,5 +26,3 @@ Cars and trucks must [buy a vignette](https://www.roviniete.ro/en/rovinieta) to 
 ## Motorcycling
 
 Motorcycles are exempt from vignette requirement.
-
-{{% gym-list %}}
