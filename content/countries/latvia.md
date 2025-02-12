@@ -15,6 +15,8 @@ links:
 poiLinks:
 - title: Urban development map of Riga
   url: https://citify.eu/en/riga/
+- title: Green Railways - Walking and cycling on former railway lines
+  url: https://greenrailways.eu/
 ---
 
 ## Emergencies
