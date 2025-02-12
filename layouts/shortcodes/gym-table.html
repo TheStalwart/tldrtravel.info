@@ -3,6 +3,7 @@
         <tr>
             <th>Chain</th>
             <th>24/7</th>
+            <th>Countries</th>
         </tr>
     </thead>
     <tbody>
@@ -10,6 +11,13 @@
         <tr>
             <td><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a></td>
             <td>{{ if .Params.open24x7 }}✅{{ else }}❌{{ end }}</td>
+            <td>
+                {{- range $element := .Params.countries -}}
+                    {{- $countryPagePath := printf "/countries/%s" $element -}}
+                    {{- $countryPage := $.Page.GetPage $countryPagePath -}}
+                    <a href="{{- $countryPage.RelPermalink -}}">{{- $countryPage.Params.flagEmoji -}}</a>
+                {{ end -}}
+            </td>
         </tr>
         {{ end }}
     </tbody>
