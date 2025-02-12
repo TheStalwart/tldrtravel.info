@@ -65,6 +65,11 @@ weight: 20
 - [Booking.com](https://www.booking.com)
 - [Couchsurfing](https://www.couchsurfing.com)
 
+## eSIM providers
+
+- [Holafly](https://esim.holafly.com/) - global unlimited data plans, expensive but predictable pricing
+- [Yesim](https://yesim.app/) - value-minded [global Pay As You Go plan](https://yesim.app/international-esim/), as well as [region-specific prepaid plans](https://yesim.app/regions/)
+
 ## International transportation
 
 - ✈️&#8239;Airplanes
