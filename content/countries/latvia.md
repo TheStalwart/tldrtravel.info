@@ -37,7 +37,7 @@ Otherwise, vehicles of total weight <3000kg do not need to buy any vignettes. In
 
 - It's legal to ride the following with a car license (B category):
   - <=125cc motorcycles
-  - [3-wheeled motorcycles](https://en.wikipedia.org/wiki/Piaggio_MP3) irregardless of engine capacity, if rider is at least 21 years old.
+  - [3-wheeled motorcycles](https://en.wikipedia.org/wiki/Piaggio_MP3) regardless of engine capacity, if rider is at least 21 years old.
 - It's legal to ride motorcycles on public transport lanes
 - It's legal to park 2-wheeled motorcycles on sidewalks (except pedestrian streets) for free
 - The only protective gear legally required is helmet. Helmet certification is not required, unlike in [](/countries/italy/#motorcycling)
