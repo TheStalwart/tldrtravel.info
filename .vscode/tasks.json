@@ -1,15 +1,21 @@
 {
-  "version": "2.0.0",
-  "tasks": [
-    {
-      "type": "hugo",
-      "task": "server",
-      "group": {
-        "kind": "build",
-        "isDefault": true
-      },
-      "problemMatcher": [],
-      "label": "hugo: Serve site"
-    }
-  ]
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run Hugo Server",
+            "type": "shell",
+            "command": "hugo",
+            "args": [
+                "server",
+                "--bind",
+                "0.0.0.0"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": [],
+            "detail": "Run the Hugo development server"
+        }
+    ]
 }
