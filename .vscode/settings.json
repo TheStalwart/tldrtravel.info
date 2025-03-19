@@ -15,6 +15,6 @@
         "editor.detectIndentation": false
     },
     "[markdown]": {
-        "editor.tabSize": 2
+        "editor.tabSize": 2 // markdownlint expects 2-space indentation
     }
 }
