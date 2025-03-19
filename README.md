@@ -27,3 +27,4 @@ Production instance: <https://tldrtravel.info>
 - Don't forget to update git submodules: `git submodule update --init`
 - Make sure to install _extended_ build of Hugo: gohugoio/hugoDocs#1152
 - Use bind parameter to test on mobile devices: `hugo server --bind 0.0.0.0`
+  - `Ctrl+Shift+B` in VSCode will run this command
