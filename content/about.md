@@ -16,6 +16,7 @@ Website is open-source, feedback and contributions are welcome on [GitHub](https
 - No sponsored content.
 - Strive for [accessibility for neurodivergent](https://www.wypartnership.co.uk/application/files/3716/4735/6437/making-information-accessible-for-neurodivergent-people-final-v2-20.04.21.pdf).
 - External links should be deep as much as possible.
+- External links should lead to english version if available.
 
 ## Design Policy
 
