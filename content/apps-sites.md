@@ -41,7 +41,8 @@ weight: 20
 - [Google Earth](https://www.google.com/earth/about/versions/) - one of the best KML editors available, but no street maps, only satellite imagery
 - [Maps to GPX](https://mapstogpx.com/) - export routes planned in [Google Maps](https://www.google.com/maps) to GPX file
 - [Garmin BaseCamp](https://www.garmin.com/en-US/software/basecamp/) - waypoint and route editor, uses proprietary database but supports import and export of GPX, KML files
-- [Freizeitkarte](https://www.freizeitkarte-osm.de/garmin/en/index.html) - [OpenStreetMap](https://www.openstreetmap.org/) tiles in Garmin format
+  - [Freizeitkarte](https://www.freizeitkarte-osm.de/garmin/en/index.html) - [OpenStreetMap](https://www.openstreetmap.org/) tiles in Garmin format, per-country
+  - [Openfietsmap](https://www.openfietsmap.nl/downloads/europe) - [OpenStreetMap](https://www.openstreetmap.org/) tiles in Garmin format, entire Europe
 - [GPXSee](https://www.gpxsee.org/) - lightweight viewer of GPX, GeoJSON and KML files, for Windows and Mac, uses OpenStreetMap tiles
 - [Apple Maps](https://www.apple.com/maps/) - best pedestrian navigation for urban environments
 - [GPS Visualizer](https://www.gpsvisualizer.com/) - format converters and tools for GPX and KML files
