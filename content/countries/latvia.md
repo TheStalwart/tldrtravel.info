@@ -29,7 +29,7 @@ Have [eHealthPoint](https://eveselibaspunkts.lv/en/App) app installed on your ph
 
 ## Driving
 
-For cars and motorcycles, [to enter Jūrmala you must pay a fee](https://visitjurmala.lv/en/buy-an-entry-pass) of 3 EUR. The easiest way is to use [Mobilly](https://mobilly.lv/) app or [EuroPark](https://www.europark.lv/en/europark-app/jurmala-entry-pass) app, but there are also some old-school ticket machines on the city border.
+For cars and motorcycles, [to enter Jūrmala you must pay a fee](https://visitjurmala.lv/en/buy-an-entry-pass) of 3 EUR. The easiest way is to use {{% payment-link "mobilly" %}} app or {{% payment-link "europark" %}} app, but there are also some old-school ticket machines on the city border.
 
 Otherwise, vehicles of total weight <3000kg do not need to buy any vignettes. Information for >3000kg vehicles is available on [lvvignette.eu](https://www.lvvignette.eu/about).
 

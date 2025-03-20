@@ -14,7 +14,7 @@ links:
 
 ## Parking app
 
-- [mPay](https://www.mpay.pl) - sticker or note stating "I'm paying with mPay" is recommended
+- {{% payment-link "mpay" %}} - sticker or note stating "I'm paying with mPay" is recommended
 
 ## Driving
 
