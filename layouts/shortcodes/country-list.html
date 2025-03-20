@@ -1,14 +1,17 @@
 ## Countries supported
-{{- $supportedCountriesListed := 0 -}}
+{{- $supportedCountriesListed := slice -}}
 {{- range $element := $.Page.Params.countries -}}
     {{- $countryPagePath := printf "/countries/%s" $element -}}
     {{- $countryPage := $.Page.GetPage $countryPagePath -}}
     {{- if $countryPage -}}
-        {{- $supportedCountriesListed = add $supportedCountriesListed 1 -}}
+        {{- $supportedCountriesListed = $supportedCountriesListed | append $element -}}
         {{ "\n" }}- []({{- $countryPage.RelPermalink -}})
     {{- end -}}
 {{- end -}}
 
 {{ if gt $.Page.Params.countries $supportedCountriesListed }}
 - ...many {{ if $.Page.Params.countryListURL }}[more]({{ $.Page.Params.countryListURL }}){{ else }}more{{ end }}
+    {{- if hugo.IsDevelopment }}
+        ({{ delimit (apply (apply ($.Page.Params.countries | complement $supportedCountriesListed) "humanize" ".") "title" ".") ", " }})
+    {{ end }}
 {{ end }}
