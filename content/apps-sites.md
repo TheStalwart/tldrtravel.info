@@ -30,13 +30,10 @@ weight: 20
 - 🚶&#8239;Hiking
   - [AllTrails: Trail Guides &amp; Maps for Hiking, Camping, and Running](https://www.alltrails.com/)
 
-## Maps and navigation
+## Maps and route planning
 
-- [Google Maps](https://www.google.com/maps) - best maps for most casual users
 - [OpenStreetMap](https://www.openstreetmap.org/) - free map tiles, usable in one way or another with most mapping/navigation software
-- [Waze](https://www.waze.com/company) - excellent car and motorcycle navigation app for phones
 - [waze2gpx](https://thestalwart.github.io/waze2gpx/) - export [Waze](https://www.waze.com/company) trip history from to GPX, GeoJSON and KML formats
-- [Kurviger](https://kurviger.com/en/features) - customizable routing tailored for motorcyclists
 - [Google My Maps](https://www.google.com/maps/d/) - create maps with waypoints and routes, supports import of GPX and KML files
 - [Google Earth](https://www.google.com/earth/about/versions/) - one of the best KML editors available, but no street maps, only satellite imagery
 - [Maps to GPX](https://mapstogpx.com/) - export routes planned in [Google Maps](https://www.google.com/maps) to GPX file
@@ -44,10 +41,16 @@ weight: 20
   - [Freizeitkarte](https://www.freizeitkarte-osm.de/garmin/en/index.html) - [OpenStreetMap](https://www.openstreetmap.org/) tiles in Garmin format, per-country
   - [Openfietsmap](https://www.openfietsmap.nl/downloads/europe) - [OpenStreetMap](https://www.openstreetmap.org/) tiles in Garmin format, entire Europe
 - [GPXSee](https://www.gpxsee.org/) - lightweight viewer of GPX, GeoJSON and KML files, for Windows and Mac, uses OpenStreetMap tiles
-- [Apple Maps](https://www.apple.com/maps/) - best pedestrian navigation for urban environments
 - [GPS Visualizer](https://www.gpsvisualizer.com/) - format converters and tools for GPX and KML files
 - [gpx.studio](https://gpx.studio/) - online GPX file editor
+
+## Turn-by-turn navigation
+
+- [Apple Maps](https://www.apple.com/maps/) - best pedestrian navigation for urban environments
+- [Google Maps](https://www.google.com/maps) - best maps for most casual users
+- [Kurviger](https://kurviger.com/en/features) - customizable routing tailored for motorcyclists
 - [OsmAnd](https://osmand.net/) - mobile [OpenStreetMap](https://www.openstreetmap.org/) app with GPX file support
+- [Waze](https://www.waze.com/company) - excellent car and motorcycle navigation app for phones
 
 ## Campsite apps
 
