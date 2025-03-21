@@ -18,6 +18,7 @@ payments:
 
 ## Download
 
+- [HANDYPARKEN.at Website](https://www.handyparken.at/)
 - [Android version in Play Store](https://play.google.com/store/apps/details?id=at.mobilkom.android.handyparken&hl=en-US)
 - [iOS version in App Store](https://apps.apple.com/us/app/handy-parken/id377723280)
 
