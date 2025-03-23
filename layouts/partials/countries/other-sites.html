@@ -23,6 +23,7 @@
 {{- /*  $links = $links | append (printf "- [Nomad List](https://nomadlist.com/%s)" .File.BaseFileName) */ -}}
 
 {{- if .Params.tollsEu -}}
+    {{- /* countries that don't have a dedicated page are still listed on "European Countries" page */ -}}
     {{- $links = $links | append (printf "- [Tolls.eu](https://www.tolls.eu/european-countries#%s)" .File.BaseFileName) -}}
 {{- else if ne .Params.tollsEu false -}}
     {{- $links = $links | append (printf "- [Tolls.eu](https://www.tolls.eu/%s)" .File.BaseFileName) -}}
