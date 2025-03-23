@@ -1,0 +1,11 @@
+{{- $paymentAppsInCurrentCountry := (where (where .Site.Pages "Section" "payments" ) ".Params.countries" "intersect" (slice .Page.File.BaseFileName ) ) -}}
+
+{{- if gt $paymentAppsInCurrentCountry.Len 0 -}}
+    {{ "## Payments" | .RenderString }}
+
+    {{- $markdownLinks := slice -}}
+    {{ range $paymentAppsInCurrentCountry }}
+        {{- $markdownLinks = $markdownLinks | append (printf "- [%s](%s)" .Title .RelPermalink) -}}
+    {{- end -}}
+    {{ delimit (sort $markdownLinks) "\n" | .RenderString }}
+{{- end -}}
