@@ -1,0 +1,22 @@
+<table class="sortable-theme-minimal" data-sortable>
+    <thead>
+        <tr>
+            <th>App</th>
+            <th>Countries</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{ range $.Page.Pages }}
+        <tr>
+            <td><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a></td>
+            <td>
+                {{- range $element := .Params.countries -}}
+                    {{- $countryPagePath := printf "/countries/%s" $element -}}
+                    {{- $countryPage := $.Page.GetPage $countryPagePath -}}
+                    <a href="{{- $countryPage.RelPermalink -}}">{{- $countryPage.Params.flagEmoji -}}</a>
+                {{ end -}}
+            </td>
+        </tr>
+        {{ end }}
+    </tbody>
+</table>
