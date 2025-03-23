@@ -1,0 +1,26 @@
+{{- $supportedCountriesListed := slice -}}
+{{- range $element := $.Page.Params.countries -}}
+    {{- $countryPagePath := printf "/countries/%s" $element -}}
+    {{- $countryPage := $.Page.GetPage $countryPagePath -}}
+    {{- if $countryPage -}}
+        {{- $supportedCountriesListed = $supportedCountriesListed | append $element -}}
+    {{- end -}}
+{{- end -}}
+
+{{- if gt ($supportedCountriesListed | len) 0 -}}
+    {{ "## Countries supported" | .RenderString }}
+
+    {{- $markdownLinks := slice -}}
+    {{ range $supportedCountriesListed }}
+        {{- $markdownLinks = $markdownLinks | append (printf "- [](/countries/%s)" .) -}}
+    {{- end -}}
+    {{- $markdownLinks = sort $markdownLinks -}}
+    {{- if gt $.Page.Params.countries $supportedCountriesListed -}}
+        {{- $moreText := cond ($.Page.Params.countryListURL) (printf "[more](%s)" $.Page.Params.countryListURL) "more"  -}}
+        {{- if hugo.IsDevelopment -}}
+            {{- $moreText = printf "%s (%s)" $moreText (delimit (apply (apply ($.Page.Params.countries | complement $supportedCountriesListed) "humanize" ".") "title" ".") ", ") -}}
+        {{- end -}}
+        {{- $markdownLinks = $markdownLinks | append (printf "- ...many %s" $moreText) -}}
+    {{- end -}}
+    {{ delimit $markdownLinks "\n" | .RenderString }}
+{{- end -}}
