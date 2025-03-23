@@ -38,5 +38,3 @@ links:
 
 - Subscriptions are per-country by default, but support staff states they can arrange access to other country's gyms for a limited time on per-request basis
 - No free drinking water
-
-{{% country-list %}}

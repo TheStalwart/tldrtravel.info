@@ -27,6 +27,4 @@ links:
 
 Gym+ chain is owned by {{% gym-link "myfitness" %}}[^1]
 
-{{% country-list %}}
-
 [^1]: [My Fitness AS acquires 100% of the second largest fitness chain in Lithuania - MyFitness LV](https://www.myfitness.lv/en/fitness-acquires-100-second-largest-fitness-chain-lithuania/)

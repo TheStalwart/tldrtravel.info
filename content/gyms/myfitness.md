@@ -39,7 +39,5 @@ links:
 - Low cost 24/7 offering by the same holding is called {{% gym-link "gym-latvija" %}}[^1]
 - Lithuanian {{% gym-link "gymplius" %}} chain is owned by MyFitness[^2], but offers and pricing is quite different.
 
-{{% country-list %}}
-
 [^1]: [Diennakts sporta klubu tīkls Gym! atklāj otru klubu Rīgā :: Dienas Bizness](https://www.db.lv/zinas/diennakts-sporta-klubu-tikls-gym-atklaj-otru-klubu-riga-503710)
 [^2]: [My Fitness AS acquires 100% of the second largest fitness chain in Lithuania - MyFitness LV](https://www.myfitness.lv/en/fitness-acquires-100-second-largest-fitness-chain-lithuania/)
