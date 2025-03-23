@@ -3,7 +3,7 @@ title: Croatia
 flagEmoji: 🇭🇷
 tripAdvisorID: g294453
 greenZonesID: false
-adventureCountryTracks: true
+adventureCountryTracks: croatia
 wildCampingLegal: false
 unions:
 - eu

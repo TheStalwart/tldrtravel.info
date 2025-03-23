@@ -2,6 +2,7 @@
 title: France
 flagEmoji: 🇫🇷
 tripAdvisorID: g187070
+adventureCountryTracks: pyrenees-2-3
 wildCampingLegal: false
 unions:
 - eu

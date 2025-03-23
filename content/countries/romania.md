@@ -3,7 +3,7 @@ title: Romania
 flagEmoji: 🇷🇴
 tripAdvisorID: g294457
 greenZonesID: false
-adventureCountryTracks: true
+adventureCountryTracks: romania
 rickStevesID: false
 wildCampingLegal: true
 unions:

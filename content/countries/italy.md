@@ -2,7 +2,7 @@
 title: Italy
 flagEmoji: 🇮🇹
 tripAdvisorID: g187768
-adventureCountryTracks: true
+adventureCountryTracks: italy
 wildCampingLegal: false
 unions:
 - eu
