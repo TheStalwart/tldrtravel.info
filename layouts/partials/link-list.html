@@ -5,7 +5,11 @@
     {{- if $dataEntry.prefix -}}
         {{- $prefix = printf "%s " $dataEntry.prefix -}}
     {{- end -}}
-    {{- $links = $links | append (printf "- %s[%s](%s)" $prefix $dataEntry.title $dataEntry.url) -}}
+    {{- $suffix := "" -}}
+    {{- if $dataEntry.suffix -}}
+        {{- $suffix = printf " %s" $dataEntry.suffix -}}
+    {{- end -}}
+    {{- $links = $links | append (printf "- %s[%s](%s)%s" $prefix $dataEntry.title $dataEntry.url $suffix) -}}
 {{- end -}}
 
 {{- if $links -}}
