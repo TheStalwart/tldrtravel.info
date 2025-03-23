@@ -12,7 +12,7 @@
 
     {{- $markdownLinks := slice -}}
     {{ range $supportedCountriesListed }}
-        {{- $markdownLinks = $markdownLinks | append (printf "- [](/countries/%s)" .) -}}
+        {{- $markdownLinks = $markdownLinks | append (printf "- [](/countries/%s/)" .) -}}
     {{- end -}}
     {{- $markdownLinks = sort $markdownLinks -}}
     {{- if gt $.Page.Params.countries $supportedCountriesListed -}}
