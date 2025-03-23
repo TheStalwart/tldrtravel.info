@@ -2,6 +2,9 @@
 title: Mobilly
 countries:
 - latvia
+links:
+- title: Mobilly Website
+  url: https://mobilly.lv/en/
 ---
 
 The must-have payment app in [](/countries/latvia/).
@@ -12,9 +15,3 @@ The must-have payment app in [](/countries/latvia/).
 - EV charging
 - public transport
 - entrance to Jūrmala, [](/countries/latvia/)
-
-## Download
-
-[Mobilly](https://mobilly.lv/en/)
-
-{{% country-list %}}

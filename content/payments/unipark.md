@@ -6,6 +6,9 @@ payments:
   applePay: true
   cards: true
   googlePay: true
+links:
+- title: UNIPARK Website
+  url: https://unipark.lt/en/unipark-mobile-app/
 ---
 
 ## Supported services
@@ -20,9 +23,3 @@ payments:
 - Apple Pay
 - Bank card
 - Google Pay
-
-## Download
-
-[UNIPARK app](https://unipark.lt/en/unipark-mobile-app/)
-
-{{% country-list %}}

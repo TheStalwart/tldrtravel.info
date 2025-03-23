@@ -7,6 +7,11 @@ countries:
 - belgium
 payments:
   cards: true
+links:
+- title: Android version in Play Store
+  url: https://play.google.com/store/apps/details?id=com.autlo.android&hl=en-US
+- title: iOS version in App Store
+  url: https://apps.apple.com/us/app/autlo/id996898549
 ---
 
 ## Supported services
@@ -20,10 +25,3 @@ To log in, the app requires phone number verification, sometimes SMS with verifi
 ## Payment methods
 
 Bank cards only. Apple Pay and Google Pay are not supported.
-
-## Download
-
-- [Android version in Play Store](https://play.google.com/store/apps/details?id=com.autlo.android&hl=en-US)
-- [iOS version in App Store](https://apps.apple.com/us/app/autlo/id996898549)
-
-{{% country-list %}}
