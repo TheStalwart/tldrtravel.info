@@ -1,5 +1,6 @@
 ---
 title: Wolt
+description: The most diverse inventory of deliverable products.
 countries: # https://wolt.com/
 - austria
 - azerbaijan
@@ -27,13 +28,10 @@ countries: # https://wolt.com/
 - slovenia
 - sweden
 countryListURL: "https://wolt.com/"
+links:
+- title: "Wolt Delivery: Food and more"
+  url: https://wolt.com/
 ---
-
-The most diverse inventory of deliverable products in [](/countries/latvia/).
-
-## Download
-
-[Wolt Delivery: Food and more](https://wolt.com/)
 
 ## Products available
 
@@ -49,5 +47,3 @@ The most diverse inventory of deliverable products in [](/countries/latvia/).
 ## Extra notes
 
 Some restaurants only work with {{% delivery-link "bolt-food" %}}, so if you're missing a specific place in search results - try the green app.
-
-{{% country-list %}}
