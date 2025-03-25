@@ -1,0 +1,34 @@
+{{- $trailsLinks := slice -}}
+
+{{- if .Params.adventureCountryTracks -}}
+    {{- $trailsLinks = $trailsLinks | append (printf "- [Adventure Country Tracks](https://adventurecountrytracks.com/%s)" .Params.adventureCountryTracks) -}}
+{{- end -}}
+
+{{- if ne .Params.transEuroTrailID false -}}
+    {{- $trailsLinks = $trailsLinks | append (printf "- [Trans Euro Trail](https://transeurotrail.org/%s)" .File.BaseFileName) -}}
+{{- end -}}
+
+{{- if .Params.allTrailsID -}}
+    {{- $trailsLinks = $trailsLinks | append (printf "- [AllTrails: Trail Guides &amp; Maps for Hiking, Camping, and Running](https://www.alltrails.com/%s)" .Params.allTrailsID) -}}
+{{- else if ne .Params.euroVeloID false -}}
+    {{- $trailsLinks = $trailsLinks | append (printf "- [AllTrails: Trail Guides &amp; Maps for Hiking, Camping, and Running](https://www.alltrails.com/%s)" .File.BaseFileName) -}}
+{{- end -}}
+
+{{- if .Params.euroVeloID -}}
+    {{- $trailsLinks = $trailsLinks | append (printf "- [EuroVelo](https://en.eurovelo.com/%s)" .Params.euroVeloID) -}}
+{{- else if ne .Params.euroVeloID false -}}
+    {{- $trailsLinks = $trailsLinks | append (printf "- [EuroVelo](https://en.eurovelo.com/%s)" .File.BaseFileName) -}}
+{{- end -}}
+
+{{- range $dataEntry := .Params.trailsLinks -}}
+    {{- $prefix := "" -}}
+    {{- if $dataEntry.prefix -}}
+        {{- $prefix = printf "%s " $dataEntry.prefix -}}
+    {{- end -}}
+    {{- $trailsLinks = $trailsLinks | append (printf "- %s[%s](%s)" $prefix $dataEntry.title $dataEntry.url) -}}
+{{- end -}}
+
+{{- if $trailsLinks -}}
+    {{ "## Trails" | .RenderString }}
+    {{ delimit (sort $trailsLinks) "\n" | .RenderString }}
+{{- end -}}

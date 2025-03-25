@@ -1,9 +1,5 @@
 {{- $links := slice -}}
 
-{{- if .Params.adventureCountryTracks -}}
-    {{- $links = $links | append (printf "- [Adventure Country Tracks](https://adventurecountrytracks.com/%s)" .Params.adventureCountryTracks) -}}
-{{- end -}}
-
 {{- if .Params.countryReportsID -}}
     {{- $links = $links | append (printf "- [CountryReports](https://www.countryreports.org/country/%s/fact.htm)" .Params.countryReportsID) -}}
 {{- else if ne .Params.countryReportsID false -}}
@@ -29,23 +25,7 @@
     {{- $links = $links | append (printf "- [Tolls.eu](https://www.tolls.eu/%s)" .File.BaseFileName) -}}
 {{- end -}}
 
-{{- if ne .Params.transEuroTrailID false -}}
-    {{- $links = $links | append (printf "- [Trans Euro Trail](https://transeurotrail.org/%s)" .File.BaseFileName) -}}
-{{- end -}}
-
-{{- if .Params.allTrailsID -}}
-    {{- $links = $links | append (printf "- [AllTrails: Trail Guides &amp; Maps for Hiking, Camping, and Running](https://www.alltrails.com/%s)" .Params.allTrailsID) -}}
-{{- else if ne .Params.euroVeloID false -}}
-    {{- $links = $links | append (printf "- [AllTrails: Trail Guides &amp; Maps for Hiking, Camping, and Running](https://www.alltrails.com/%s)" .File.BaseFileName) -}}
-{{- end -}}
-
 {{- $links = $links | append (printf "- [Wikipedia](https://en.wikipedia.org/wiki/%s)" .File.BaseFileName) -}}
-
-{{- if .Params.euroVeloID -}}
-    {{- $links = $links | append (printf "- [EuroVelo](https://en.eurovelo.com/%s)" .Params.euroVeloID) -}}
-{{- else if ne .Params.euroVeloID false -}}
-    {{- $links = $links | append (printf "- [EuroVelo](https://en.eurovelo.com/%s)" .File.BaseFileName) -}}
-{{- end -}}
 
 {{- $links = $links | append (printf "- [Wikitravel](https://wikitravel.org/en/%s)" (humanize .File.BaseFileName)) -}}
 
