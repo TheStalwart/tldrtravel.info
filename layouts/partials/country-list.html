@@ -16,7 +16,10 @@
     {{- end -}}
     {{- $markdownLinks = sort $markdownLinks -}}
     {{- if gt $.Page.Params.countries $supportedCountriesListed -}}
-        {{- $moreText := cond ($.Page.Params.countryListURL) (printf "[more](%s)" $.Page.Params.countryListURL) "more"  -}}
+        {{- $moreText := "more" -}}
+        {{- if $.Page.Params.countryListURL -}}
+            {{- $moreText = printf "[more](%s)" $.Page.Params.countryListURL -}}
+        {{- end -}}
         {{- if hugo.IsDevelopment -}}
             {{- $moreText = printf "%s (%s)" $moreText (delimit (apply (apply ($.Page.Params.countries | complement $supportedCountriesListed) "humanize" ".") "title" ".") ", ") -}}
         {{- end -}}
