@@ -43,6 +43,7 @@ Otherwise, vehicles of total weight <3000kg do not need to buy any vignettes. In
 - It's legal to park 2-wheeled motorcycles on sidewalks (except pedestrian streets) for free
 - The only protective gear legally required is helmet. Helmet certification is not required, unlike in [](/countries/italy/#motorcycling)
 - There are no major exceptions for low-cc mopeds except legal age requirement. Unlike in [](/countries/france/#motorcycling), you must have a driver's license, helmet and insurance to ride 49cc scooters!
+- If your health check document includes A-category but your driver's license does not - you can ride A-category motorcycles if someone with a full license is riding along. This is similar to driving a car on learner's license if qualified driver is in the same car.
 - Read [Road Traffic Regulations](https://likumi.lv/ta/en/en/id/274865-road-traffic-regulations) and [Road Traffic Law](https://likumi.lv/ta/en/en/id/45467-road-traffic-law) for more details
 
 Had great experience renting a motorcycle from [L-auto](https://l-auto.lv/lv) - all kinds of motorcycles and also protective gear is available for reasonable price.
