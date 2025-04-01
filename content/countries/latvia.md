@@ -49,7 +49,9 @@ Otherwise, vehicles of total weight <3000kg do not need to buy any vignettes. In
 Had great experience renting a motorcycle from [L-auto](https://l-auto.lv/lv) - all kinds of motorcycles and also protective gear is available for reasonable price.
 
 - [RAM Mounts](https://rammount.com/) in stock in [Garmin salonveikals](https://garminshop.lv/lv/kur-nopirkt/)
-- [QuadLock](https://www.quadlockcase.eu/) in stock in [4speed](https://4speed.lv/lv/contacts)
+- [QuadLock](https://www.quadlockcase.eu/) in stock in:
+  - [4speed](https://4speed.lv/lv/contacts)
+  - [Yamaha Motosalons](https://maps.app.goo.gl/vEoRMNrbaJXZaredA)
 
 ## Alcohol sale
 
