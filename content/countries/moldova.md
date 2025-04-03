@@ -4,7 +4,6 @@ flagEmoji: 🇲🇩
 tripAdvisorID: g294455
 euroVeloID: false
 greenZonesID: false
-transEuroTrailID: false
 rickStevesID: false
 wildCampingLegal: true
 ---
