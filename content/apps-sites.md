@@ -50,7 +50,7 @@ weight: 20
 - [Kurviger](https://kurviger.com/en/features) - customizable routing tailored for motorcyclists
 - [OsmAnd](https://osmand.net/) - mobile [OpenStreetMap](https://www.openstreetmap.org/) app with GPX file support
 - [Waze](https://www.waze.com/company) - excellent car and motorcycle navigation app for phones
-  - [waze2gpx](https://thestalwart.github.io/waze2gpx/) - export [Waze](https://www.waze.com/company) trip history from to GPX, GeoJSON and KML formats
+  - [waze2gpx](https://thestalwart.github.io/waze2gpx/) - export [Waze](https://www.waze.com/company) trip history to GPX, GeoJSON and KML formats
 
 ## Campsite apps
 
