@@ -33,10 +33,8 @@ weight: 20
 ## Maps and route planning
 
 - [OpenStreetMap](https://www.openstreetmap.org/) - free map tiles, usable in one way or another with most mapping/navigation software
-- [waze2gpx](https://thestalwart.github.io/waze2gpx/) - export [Waze](https://www.waze.com/company) trip history from to GPX, GeoJSON and KML formats
 - [Google My Maps](https://www.google.com/maps/d/) - create maps with waypoints and routes, supports import of GPX and KML files
 - [Google Earth](https://www.google.com/earth/about/versions/) - one of the best KML editors available, but no street maps, only satellite imagery
-- [Maps to GPX](https://mapstogpx.com/) - export routes planned in [Google Maps](https://www.google.com/maps) to GPX file
 - [Garmin BaseCamp](https://www.garmin.com/en-US/software/basecamp/) - waypoint and route editor, uses proprietary database but supports import and export of GPX, KML files
   - [Freizeitkarte](https://www.freizeitkarte-osm.de/garmin/en/index.html) - [OpenStreetMap](https://www.openstreetmap.org/) tiles in Garmin format, per-country
   - [Openfietsmap](https://www.openfietsmap.nl/downloads/europe) - [OpenStreetMap](https://www.openstreetmap.org/) tiles in Garmin format, entire Europe
@@ -48,9 +46,11 @@ weight: 20
 
 - [Apple Maps](https://www.apple.com/maps/) - best pedestrian navigation for urban environments
 - [Google Maps](https://www.google.com/maps) - best maps for most casual users
+  - [Maps to GPX](https://mapstogpx.com/) - export routes planned in [Google Maps](https://www.google.com/maps) to GPX file
 - [Kurviger](https://kurviger.com/en/features) - customizable routing tailored for motorcyclists
 - [OsmAnd](https://osmand.net/) - mobile [OpenStreetMap](https://www.openstreetmap.org/) app with GPX file support
 - [Waze](https://www.waze.com/company) - excellent car and motorcycle navigation app for phones
+  - [waze2gpx](https://thestalwart.github.io/waze2gpx/) - export [Waze](https://www.waze.com/company) trip history from to GPX, GeoJSON and KML formats
 
 ## Campsite apps
 
