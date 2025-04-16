@@ -24,6 +24,8 @@ countryListURL: "https://www.free-now.com/uk/cities/"
 
 Alternative to {{% transportation-link "bolt" %}} for transportation, often cheaper.
 
+In 2025 the company was [acquired by Lyft](https://www.lyft.com/blog/posts/lyft-expands-in-europe-diversifies-by-acquiring-freenow).
+
 ## Download
 
 [Ride - Download App | FREENOW (free-now.com)](https://www.free-now.com/uk/ride/download-app/)
