@@ -83,6 +83,14 @@ Had great experience renting a motorcycle from [L-auto](https://l-auto.lv/lv) - 
 - [SS.LV](https://ss.lv)
 - [Andele Mandele](https://www.andelemandele.lv)
 
+## Hardware stores
+
+- [Būvniecības ABC](https://buvniecibas-abc.lv/en/contact-us)
+- [cenuklubs.lv](https://cenuklubs.lv/kontakti)
+- [Depo](https://depo.lv/)
+- [Krūza](https://www.kruza.lv/kontakti/)
+- [Kurši](https://www.kursi.lv/veikalu-kontakti)
+
 [^1]: [Likumi.lv: Par alkoholisko dzērienu mazumtirdzniecības laika un vietas ierobežojumiem](https://likumi.lv/ta/id/272336-par-alkoholisko-dzerienu-mazumtirdzniecibas-laika-un-vietas-ierobezojumiem)
 [^2]: [Latvijā tiks aizliegti aromatizēti karsējamās tabakas izstrādājumi; likums stājas spēkā 23. oktobrī](https://nra.lv/latvija/429894-latvija-tiks-aizliegti-aromatizeti-karsejamas-tabakas-izstradajumi-likums-stajas-speka-23-oktobri.htm)
 [^3]: [Ar 2025. gadu tabakas izstrādājumus drīkstēs pirkt no 20 gadu vecuma, e-cigaretes – bez garšas](https://www.lsm.lv/raksts/zinas/latvija/11.01.2024-ar-2025-gadu-tabakas-izstradajumus-drikstes-pirkt-no-20-gadu-vecuma-e-cigaretes-bez-garsas.a538510/)
