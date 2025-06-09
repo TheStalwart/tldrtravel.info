@@ -1,6 +1,7 @@
 ---
 title: Czechia
 flagEmoji: 🇨🇿
+currency: CZK
 countryReportsID: CzechRepublic
 coworkerID: czech-republic
 euroVeloID: czech-republic

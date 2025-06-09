@@ -1,6 +1,7 @@
 ---
 title: Slovenia
 flagEmoji: 🇸🇮
+currency: EUR
 tripAdvisorID: g274862
 greenZonesID: false
 wildCampingLegal: false

@@ -1,6 +1,7 @@
 ---
 title: Italy
 flagEmoji: 🇮🇹
+currency: EUR
 tripAdvisorID: g187768
 adventureCountryTracks: italy
 wildCampingLegal: false

@@ -1,6 +1,7 @@
 ---
 title: Latvia
 flagEmoji: 🇱🇻
+currency: EUR
 tripAdvisorID: g274960
 rickStevesID: false
 greenZonesID: false

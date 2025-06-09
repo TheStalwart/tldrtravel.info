@@ -1,6 +1,7 @@
 ---
 title: Poland
 flagEmoji: 🇵🇱
+currency: PLN
 tripAdvisorID: g274723
 wildCampingLegal: true
 unions:

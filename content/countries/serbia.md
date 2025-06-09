@@ -1,6 +1,7 @@
 ---
 title: Serbia
 flagEmoji: 🇷🇸
+currency: RSD
 tripAdvisorID: g294471
 rickStevesID: false
 greenZonesID: false

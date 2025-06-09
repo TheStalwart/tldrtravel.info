@@ -1,6 +1,7 @@
 ---
 title: Norway
 flagEmoji: 🇳🇴
+currency: NOK
 tripAdvisorID: g190455
 wildCampingLegal: true
 unions:

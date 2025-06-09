@@ -1,6 +1,7 @@
 ---
 title: Romania
 flagEmoji: 🇷🇴
+currency: RON
 tripAdvisorID: g294457
 greenZonesID: false
 adventureCountryTracks: romania

@@ -1,6 +1,7 @@
 ---
 title: Cyprus
 flagEmoji: 🇨🇾
+currency: EUR
 rickStevesID: false
 tripAdvisorID: g190372
 greenZonesID: false

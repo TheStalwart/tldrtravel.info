@@ -1,7 +1,11 @@
 {{- $paymentAppsInCurrentCountry := (where (where .Site.Pages "Section" "payments" ) ".Params.countries" "intersect" (slice .Page.File.BaseFileName ) ) -}}
 
+{{ "## Payments" | .RenderString }}
+
+{{ printf "Currency: %s" .Params.currency | .RenderString }}
+
 {{- if gt $paymentAppsInCurrentCountry.Len 0 -}}
-    {{ "## Payments" | .RenderString }}
+    {{ "### Apps" | .RenderString }}
 
     {{- $markdownLinks := slice -}}
     {{ range $paymentAppsInCurrentCountry }}

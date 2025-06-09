@@ -1,6 +1,7 @@
 ---
 title: Finland
 flagEmoji: 🇫🇮
+currency: EUR
 tripAdvisorID: g189896
 tollsEu: partial
 wildCampingLegal: true

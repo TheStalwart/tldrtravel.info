@@ -1,6 +1,7 @@
 ---
 title: Lithuania
 flagEmoji: 🇱🇹
+currency: EUR
 tripAdvisorID: g274947
 rickStevesID: false
 greenZonesID: false

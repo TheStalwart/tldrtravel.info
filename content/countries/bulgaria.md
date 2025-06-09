@@ -1,6 +1,7 @@
 ---
 title: Bulgaria
 flagEmoji: 🇧🇬
+currency: BGN # switch to EUR expected in 2026 https://www.ecb.europa.eu/press/pr/date/2025/html/ecb.pr250604~26651b6294.en.html
 tripAdvisorID: g294451
 greenZonesID: false
 wildCampingLegal: true

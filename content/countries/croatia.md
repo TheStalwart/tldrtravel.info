@@ -1,6 +1,7 @@
 ---
 title: Croatia
 flagEmoji: 🇭🇷
+currency: EUR
 tripAdvisorID: g294453
 greenZonesID: false
 adventureCountryTracks: croatia

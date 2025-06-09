@@ -1,6 +1,7 @@
 ---
 title: Sweden
 flagEmoji: 🇸🇪
+currency: SEK
 tripAdvisorID: g189806
 wildCampingLegal: true
 tollsEu: partial

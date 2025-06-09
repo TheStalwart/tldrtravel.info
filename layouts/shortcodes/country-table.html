@@ -6,6 +6,7 @@
             <th>Schengen</th>
             <th>NATO</th>
             <th>Wild camping</th>
+            <th>Currency</th>
         </tr>
     </thead>
     <tbody>
@@ -16,6 +17,7 @@
             <td>{{ if in .Params.unions "schengen" }}✅{{ else }}❌{{ end }}<!-- https://en.wikipedia.org/wiki/Schengen_Area --></td>
             <td>{{ if in .Params.unions "nato" }}✅{{ else }}❌{{ end }}<!-- https://en.wikipedia.org/wiki/Member_states_of_NATO --></td>
             {{ partial "td-bool-string.html" .Params.wildCampingLegal }}
+            <td>{{ .Params.currency }}</td>
         </tr>
         {{ end }}
     </tbody>

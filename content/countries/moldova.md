@@ -1,6 +1,7 @@
 ---
 title: Moldova
 flagEmoji: 🇲🇩
+currency: MDL
 tripAdvisorID: g294455
 euroVeloID: false
 greenZonesID: false

@@ -1,6 +1,7 @@
 ---
 title: Turkey
 flagEmoji: 🇹🇷
+currency: TRY
 tripAdvisorID: g293969
 rickStevesID: turkey
 greenZonesID: false

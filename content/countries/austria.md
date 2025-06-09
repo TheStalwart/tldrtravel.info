@@ -1,6 +1,7 @@
 ---
 title: Austria
 flagEmoji: 🇦🇹
+currency: EUR
 tripAdvisorID: g190410
 wildCampingLegal: false
 unions:

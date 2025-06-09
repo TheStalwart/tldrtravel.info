@@ -1,6 +1,7 @@
 ---
 title: Germany
 flagEmoji: 🇩🇪
+currency: EUR
 tripAdvisorID: g187275
 wildCampingLegal: false
 unions:

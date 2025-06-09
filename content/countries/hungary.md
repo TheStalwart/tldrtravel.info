@@ -1,6 +1,7 @@
 ---
 title: Hungary
 flagEmoji: 🇭🇺
+currency: HUF
 tripAdvisorID: g274881
 wildCampingLegal: false
 unions:

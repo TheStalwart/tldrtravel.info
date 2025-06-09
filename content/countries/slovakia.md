@@ -1,6 +1,7 @@
 ---
 title: Slovakia
 flagEmoji: 🇸🇰
+currency: EUR
 tripAdvisorID: g274922
 greenZonesID: false
 wildCampingLegal: false

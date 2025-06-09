@@ -1,6 +1,7 @@
 ---
 title: Belgium
 flagEmoji: 🇧🇪
+currency: EUR
 tripAdvisorID: g188634
 tollsEu: partial
 wildCampingLegal: false
