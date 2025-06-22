@@ -25,3 +25,7 @@ poiLinks:
 ## Driving
 
 Vehicles of total weight <3500kg do not need to buy any vignettes. Information for >3500kg vehicles is available on [teetasu.ee](https://teetasu.ee/en).
+
+## Public transport
+
+[Public transport in Tallinn](https://visittallinn.ee/eng/visitor/plan/transport/public-transport).
