@@ -27,6 +27,15 @@ There is a Low Emission Zone in Kaunas. Entry fee can be paid using {{% payment-
 
 For cars and motorcycles, [to enter Neringa Municipality you must pay a fee](https://unipark.lt/en/entrance-to-nida/). The easiest way is to use {{% payment-link "unipark" %}} app.
 
+## Motorcycling
+
+There are two types of public transport lanes in Lithuania.
+
+- "A" - riding motorcycles is ❌prohibited
+- "A+" with a motorcycle icon - riding motorcycles is ✅legal
+
+Parking motorcycles on sidewalks is ❌prohibited.
+
 ## Alcohol sale
 
 - Monday-Saturday: 10:00-20:00
