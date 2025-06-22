@@ -15,6 +15,8 @@ links:
   url: https://www.visitestonia.com/en
 - title: Visit Tallinn official city guide - Visit Tallinn
   url: https://www.visittallinn.ee
+- title: Visit Saaremaa
+  url: https://www.visitsaaremaa.ee/en/
 poiLinks:
 - title: Urban development map of Tallinn
   url: https://citify.eu/en/tallinn/
