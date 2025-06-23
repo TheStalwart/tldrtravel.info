@@ -1,0 +1,44 @@
+EUR:
+  emoji: 🇪🇺
+  title: Euro
+  symbol: €
+CZK:
+  emoji: 🇨🇿
+  title: Czech koruna
+  symbol: Kč
+BGN:
+  emoji: 🇧🇬
+  title: Bulgarian lev
+  symbol: лв
+HUF:
+  emoji: 🇭🇺
+  title: Hungarian forint
+  symbol: Ft
+MDL:
+  emoji: 🇲🇩
+  title: Moldovan leu
+  symbol: L
+NOK:
+  emoji: 🇳🇴
+  title: Norwegian krone
+  symbol: kr
+PLN:
+  emoji: 🇵🇱
+  title: Polish złoty
+  symbol: zł
+RON:
+  emoji: 🇷🇴
+  title: Romanian leu
+  symbol: lei
+RSD:
+  emoji: 🇷🇸
+  title: Serbian dinar
+  symbol: дин
+SEK:
+  emoji: 🇸🇪
+  title: Swedish krona
+  symbol: kr
+TRY:
+  emoji: 🇹🇷
+  title: Turkish lira
+  symbol: ₺

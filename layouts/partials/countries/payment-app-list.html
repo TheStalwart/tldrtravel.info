@@ -2,7 +2,7 @@
 
 {{ "## Payments" | .RenderString }}
 
-{{ printf "Currency: %s" .Params.currency | .RenderString }}
+{{ partial "currency-p.html" (dict "site" .Site "currency" .Params.currency) }}
 
 {{- if gt $paymentAppsInCurrentCountry.Len 0 -}}
     {{ "### Apps" | .RenderString }}
