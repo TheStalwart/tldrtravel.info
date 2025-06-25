@@ -15,4 +15,4 @@ links:
 
 ## Driving
 
-Make sure your car meets modern emission standards and is equipped with a sticker. Eco-stickers must be [ordered in advance](https://www.green-zones.eu/en/products), you can't just buy them at the gas station like a vignette.
+Make sure your car meets modern emission standards and is equipped with a sticker. Without the sticker, even if your car meets latest eco-standarts, entrance to the large cities is illegal. Like in [](/countries/france/#driving), eco-stickers must be [ordered in advance](https://www.green-zones.eu/en/products), you can't just buy them at the gas station like a vignette.
