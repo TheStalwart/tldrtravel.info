@@ -13,7 +13,10 @@ unions:
 
 ## Driving
 
-There are low-emission zones that forbid older diesels from entering and [require stickers](https://www.drive-france.com/crit-air-sticker/) on all cars and motorcycles.
+There are low-emission zones that forbid older diesels from entering and [require stickers](https://www.drive-france.com/crit-air-sticker/) on all cars and motorcycles. Like in [](/countries/germany/#driving), you must order the sticker in advance, you can't just buy them at the gas station like a vignette
+
+- [The official website for the Crit'Air sticker](https://www.certificat-air.gouv.fr/)
+- [Guide to applying for the French emissions sticker](https://www.frenchemissionssticker.com/guide-to-applying-for-the-french-emissions-sticker/)
 
 ## Motorcycling
 
