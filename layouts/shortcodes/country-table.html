@@ -16,6 +16,9 @@
             <td>{{ if in .Params.unions "eu" }}✅{{ else }}❌{{ end }}<!-- https://en.wikipedia.org/wiki/Member_state_of_the_European_Union --></td>
             <td>{{ if in .Params.unions "schengen" }}✅{{ else }}❌{{ end }}<!-- https://en.wikipedia.org/wiki/Schengen_Area --></td>
             <td>{{ if in .Params.unions "nato" }}✅{{ else }}❌{{ end }}<!-- https://en.wikipedia.org/wiki/Member_states_of_NATO --></td>
+            {{- if ne .Params.wildCampingLegal true false -}}
+                {{- errorf ".Params.wildCampingLegal for %s must be either true or false" .File.Path -}}
+            {{- end -}}
             {{ partial "td-bool-string.html" .Params.wildCampingLegal }}
             <td>{{ partial "currency-tag.html" (dict "site" .Site "currency" .Params.currency) }}</td>
         </tr>
