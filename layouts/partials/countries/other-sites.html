@@ -57,6 +57,8 @@
 */ -}}
 {{- if .Params.tripAdvisorID -}}
     {{- $poiLinks = $poiLinks | append (printf "- [Tripadvisor](https://www.tripadvisor.com/Tourism-%s.html)" .Params.tripAdvisorID) -}}
+{{- else -}}
+    {{ errorf ".Params.tripAdvisorID for %s is not defined" .File.Path }}
 {{- end -}}
 
 {{- $poiLinks = $poiLinks | append (printf "- [Automuseums.info](http://www.automuseums.info/museums/%s)" (humanize .File.BaseFileName)) -}}
