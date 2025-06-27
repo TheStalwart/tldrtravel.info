@@ -1,4 +1,4 @@
-<!-- 
+<!--
   Partial to generate page name from Title or File name.
   Accepts Page as context
 -->
@@ -12,6 +12,14 @@
   {{ $title = path.Base .File.Dir | humanize | title }}
 {{ else if and .IsPage .File }}
   {{ $title = .File.BaseFileName | humanize | title }}
+{{ end }}
+
+{{ if not .Params.title }}
+	{{ errorf ".Params.title for %s is not defined" .File.Path }}
+{{ end }}
+
+{{ if not .Params.flagEmoji }}
+	{{ errorf ".Params.flagEmoji for %s is not defined" .File.Path }}
 {{ end }}
 
 {{ return (printf "%s&#8239;%s" .Params.flagEmoji $title) }}
