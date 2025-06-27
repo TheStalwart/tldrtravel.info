@@ -1,1 +1,7 @@
-<span title="{{- index (index .site.Data.currencies .currency) "title" -}}">{{- index (index .site.Data.currencies .currency) "emoji" }} {{ .currency }} ({{- index (index .site.Data.currencies .currency) "symbol" -}})</span>
+{{- $currencyData := index .site.Data.currencies .currency -}}
+
+{{- if not $currencyData -}}
+	{{- errorf "%s is not defined in data/currencies.yaml" .currency -}}
+{{- end -}}
+
+<span title="{{- index $currencyData "title" -}}">{{- index $currencyData "emoji" }} {{ .currency }} ({{- index $currencyData "symbol" -}})</span>
