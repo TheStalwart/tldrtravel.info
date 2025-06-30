@@ -38,9 +38,12 @@ Parking motorcycles on sidewalks is ❌prohibited.
 
 ## Alcohol sale
 
+- Age requirement: 20 years old [^1]
 - Monday-Saturday: 10:00-20:00
 - Sunday: 10:00-15:00
 
 ## Classifieds
 
 - [Skelbiu.lt](https://skelbiu.lt/)
+
+[^1]: [I-857 Lietuvos Respublikos alkoholio kontrolės įstatymas](https://www.e-tar.lt/portal/lt/legalAct/TAR.9E5C5C16B6E6/asr)
