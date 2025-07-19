@@ -7,6 +7,9 @@ euroVeloID: false
 greenZonesID: false
 rickStevesID: false
 wildCampingLegal: true
+links:
+- title: Moldova Travel
+  url: https://moldova.travel/en/
 ---
 
 ## Driving
