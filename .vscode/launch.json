@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run Hugo Server (integrated terminal)",
+            "type": "node",
+            "request": "launch",
+            "runtimeExecutable": "hugo",
+            "runtimeArgs": [
+                "server",
+                "--bind",
+                "0.0.0.0"
+            ],
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+        },
+    ],
+}
