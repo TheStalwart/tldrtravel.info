@@ -1,7 +1,7 @@
 ---
 title: Bulgaria
 flagEmoji: 🇧🇬
-currency: BGN # switch to EUR expected in 2026 https://www.ecb.europa.eu/press/pr/date/2025/html/ecb.pr250604~26651b6294.en.html
+currency: EUR # since Jan 1st 2026: https://www.euronews.com/my-europe/2026/01/01/bulgaria-switches-to-the-euro-amid-mixed-reactions-from-its-citizens
 tripAdvisorID: g294451
 greenZonesID: false
 wildCampingLegal: true
