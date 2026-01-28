@@ -56,7 +56,8 @@ Had great experience renting a motorcycle from [L-auto](https://l-auto.lv/lv) - 
 
 ## Alcohol sale
 
-- 8:00-22:00 [^1]
+- Monday-Saturday: 10:00-20:00
+- Sunday: 10:00-18:00 [^1]
 - Buyer must be 18 years old [^3]
 - Buyers younger than 25 years old must present ID to the retailer
 
@@ -86,6 +87,6 @@ Had great experience renting a motorcycle from [L-auto](https://l-auto.lv/lv) - 
 - [Krūza](https://www.kruza.lv/kontakti/)
 - [Kurši](https://www.kursi.lv/veikalu-kontakti)
 
-[^1]: [Likumi.lv: Par alkoholisko dzērienu mazumtirdzniecības laika un vietas ierobežojumiem](https://likumi.lv/ta/id/272336-par-alkoholisko-dzerienu-mazumtirdzniecibas-laika-un-vietas-ierobezojumiem)
+[^1]: [Stājas spēkā likuma grozījumi par alkoholisko dzērienu aprites ierobežojumiem no 1. augusta - LV portāls](https://lvportals.lv/skaidrojumi/372512-stajas-speka-likuma-grozijumi-par-alkoholisko-dzerienu-aprites-ierobezojumiem-no-1-augusta-2025)
 [^2]: [Latvijā tiks aizliegti aromatizēti karsējamās tabakas izstrādājumi; likums stājas spēkā 23. oktobrī](https://nra.lv/latvija/429894-latvija-tiks-aizliegti-aromatizeti-karsejamas-tabakas-izstradajumi-likums-stajas-speka-23-oktobri.htm)
 [^3]: [Handling of Alcoholic Beverages Law](https://likumi.lv/ta/en/en/id/88009-handling-of-alcoholic-beverages-law)
