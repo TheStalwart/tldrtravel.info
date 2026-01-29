@@ -23,8 +23,6 @@ links:
   url: https://www.linkedin.com/company/citybee-car-sharing
 ---
 
-{{% vehicle-list %}}
-
 ## Extra notes
 
 - Car sharing is available to 18 year olds with brand new driver's license[^1]

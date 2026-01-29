@@ -53,8 +53,6 @@ links:
   url: https://bolt.eu/en-lv/support/articles/115003024753/
 ---
 
-{{% vehicle-list %}}
-
 ## Extra notes
 
 - To rent a car, driver must be over 20-years of age and have held a valid driving licence for at least 1 year[^1]

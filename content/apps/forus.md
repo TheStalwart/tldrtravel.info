@@ -24,5 +24,3 @@ links:
 
 - Apple Pay is not supported
 - Google Pay is not supported
-
-{{% vehicle-list %}}

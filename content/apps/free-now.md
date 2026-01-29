@@ -32,8 +32,6 @@ links:
   url: https://www.free-now.com/uk/ride/download-app/
 ---
 
-{{% vehicle-list %}}
-
 ## Issues
 
 Not possible to plan a trip outside of current geolocation

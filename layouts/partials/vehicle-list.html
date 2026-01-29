@@ -1,0 +1,29 @@
+{{- if .Params.vehicles -}}
+    {{ "## Vehicles available" | .RenderString }}
+
+    {{- $markdownEntries := slice -}}
+
+    {{- range $key, $value := .Params.vehicles -}}
+        {{- if ne $value false -}}
+            {{- with index $.Site.Data.vehicles $key -}}
+                {{- $markdownEntry := printf "- %s %s" .emoji .title -}}
+
+                {{- if eq (printf "%T" $value) "maps.Params" -}}
+                    {{- if $value.model -}}
+                        {{- $modelString := $value.model -}}
+
+                        {{- if $value.comment -}}
+                            {{- $modelString = printf "%s - %s" $modelString $value.comment -}}
+                        {{- end -}}
+
+                        {{- $markdownEntry = printf "%s (%s)" $markdownEntry $modelString -}}
+                    {{- end -}}
+                {{- end -}}
+
+                {{- $markdownEntries = $markdownEntries | append $markdownEntry -}}
+            {{- end -}}
+        {{- end -}}
+    {{- end -}}
+
+    {{ delimit $markdownEntries "\n" | .RenderString }}
+{{- end -}}

@@ -26,8 +26,6 @@ links:
   url: https://skoksharing.com/
 ---
 
-{{% vehicle-list %}}
-
 ## Notes
 
 In [](/countries/latvia/#motorcycling), it's legal to ride motorcycles (including mopeds) on public transport lanes, and legally park them on sidewalks (except pedestrian streets) for free.
