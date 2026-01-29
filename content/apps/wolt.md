@@ -41,8 +41,6 @@ links:
   url: https://wolt.com/
 ---
 
-{{% payment-list %}}
-
 ## Products available
 
 - Food

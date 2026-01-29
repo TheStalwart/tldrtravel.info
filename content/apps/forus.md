@@ -26,5 +26,3 @@ links:
 - Google Pay is not supported
 
 {{% vehicle-list %}}
-
-{{% payment-list %}}

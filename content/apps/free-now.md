@@ -34,8 +34,6 @@ links:
 
 {{% vehicle-list %}}
 
-{{% payment-list %}}
-
 ## Issues
 
 Not possible to plan a trip outside of current geolocation

@@ -20,8 +20,6 @@ links:
 
 {{% vehicle-list %}}
 
-{{% payment-list %}}
-
 ## Extra notes
 
 - To rent a car, driver must be 21 year old and possessing a valid category B driver’s license held for a minimum of 2 years[^1]

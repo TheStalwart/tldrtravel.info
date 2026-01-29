@@ -47,8 +47,6 @@ links:
   url: https://bolt.eu/food/
 ---
 
-{{% payment-list %}}
-
 ## Products available
 
 - Food

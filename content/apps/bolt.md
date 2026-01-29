@@ -55,8 +55,6 @@ links:
 
 {{% vehicle-list %}}
 
-{{% payment-list %}}
-
 ## Extra notes
 
 - To rent a car, driver must be over 20-years of age and have held a valid driving licence for at least 1 year[^1]

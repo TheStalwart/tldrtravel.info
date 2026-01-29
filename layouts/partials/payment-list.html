@@ -1,0 +1,26 @@
+{{- if .Params.payments -}}
+    {{ "## Payment methods" | .RenderString }}
+
+    {{- $markdownEntries := slice -}}
+
+    {{- range $key, $value := .Params.payments -}}
+        {{- if $value -}}
+            {{- $pagePath := printf "/payments/%s/" $key -}}
+            {{- $page := $.Page.GetPage $pagePath -}}
+            {{- $markdownEntry := "" -}}
+            {{- if $page -}}
+                {{- $markdownEntry = printf "- [%s](%s)" $page.Title $page.RelPermalink -}}
+            {{- else -}}
+                {{- with index $.Site.Data.payments $key -}}
+                    {{- $markdownEntry = printf "- %s" .title -}}
+                {{- end -}}
+            {{- end -}}
+            {{- if eq $value "🚕" -}}
+                {{- $markdownEntry = printf "%s %s" $markdownEntry "(taxi only)" -}}
+            {{- end -}}
+            {{- $markdownEntries = $markdownEntries | append $markdownEntry -}}
+        {{- end -}}
+    {{- end -}}
+
+    {{ delimit $markdownEntries "\n" | .RenderString }}
+{{- end -}}

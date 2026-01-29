@@ -29,8 +29,6 @@ links:
 
 {{% vehicle-list %}}
 
-{{% payment-list %}}
-
 ## Issues
 
 I could not verify my latvian (+371) phone number but the app seems to work without phone number verification.
