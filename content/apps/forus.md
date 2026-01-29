@@ -6,7 +6,7 @@ categories:
 payments:
     applePay: false
     cards: true
-    cash: 🚕
+    cash: 🚕 # Taxi only
     googlePay: false
     payPal: false
 vehicles:
