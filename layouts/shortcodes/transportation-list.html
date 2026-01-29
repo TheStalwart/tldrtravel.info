@@ -1,4 +1,5 @@
-{{- $transportationInCurrentCountry := (where (where .Site.Pages "Section" "transportation" ) ".Params.countries" "intersect" (slice .Page.File.BaseFileName ) ) -}}
+{{- $transportationApps := (where (where .Site.Pages "Section" "apps" ) ".Params.categories" "intersect" (slice "transportation" ) ) -}}
+{{- $transportationInCurrentCountry := (where $transportationApps ".Params.countries" "intersect" (slice .Page.File.BaseFileName ) ) -}}
 {{- if gt $transportationInCurrentCountry.Len 0 -}}
 ## Transportation
 {{- range $key, $value := .Site.Data.vehicles -}}

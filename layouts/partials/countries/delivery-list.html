@@ -1,10 +1,11 @@
-{{- $deliveryApps :=  (where (where .Site.Pages "Section" "delivery" ) ".Params.countries" "intersect" (slice $.Page.File.BaseFileName ) ) -}}
+{{- $deliveryApps :=  (where (where .Site.Pages "Section" "apps" ) ".Params.categories" "intersect" (slice "delivery" ) ) -}}
+{{- $deliveryAppsOperatingInCurrentCountry :=  (where $deliveryApps ".Params.countries" "intersect" (slice $.Page.File.BaseFileName ) ) -}}
 
-{{- if gt $deliveryApps.Len 0 -}}
+{{- if gt $deliveryAppsOperatingInCurrentCountry.Len 0 -}}
     {{ "## Delivery" | .RenderString }}
 
     {{- $markdownLinks := slice -}}
-    {{ range $deliveryApps }}
+    {{ range $deliveryAppsOperatingInCurrentCountry }}
         {{- $markdownLinks = $markdownLinks | append (printf "- [%s](%s)" .Title .RelPermalink) -}}
     {{- end -}}
     {{ delimit (sort $markdownLinks) "\n" | .RenderString }}

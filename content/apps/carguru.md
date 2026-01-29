@@ -1,5 +1,8 @@
 ---
 title: Carguru
+description: Car sharing in [](/countries/latvia/)
+categories:
+- transportation
 payments:
     applePay: false
     cards: true
@@ -10,13 +13,10 @@ vehicles:
     car: true
 countries:
 - latvia
+links:
+- title: CARGURU
+  urL: https://carguru.lv
 ---
-
-Car sharing in [](/countries/latvia/)
-
-## Download
-
-[CARGURU](https://carguru.lv)
 
 {{% vehicle-list %}}
 
@@ -29,7 +29,5 @@ Car sharing in [](/countries/latvia/)
 ## Issues
 
 - Service uses a [dark pattern](https://www.darkpattern.games/pattern/16/premium-currency.html) of in-app currency "₲–Coins" that can only be topped-up in 5 EUR increments
-
-{{% country-list %}}
 
 [^1]: [Agreement and conditions - CARGURU](https://carguru.lv/docs/legal/b2cterms-en.pdf)

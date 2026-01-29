@@ -1,9 +1,12 @@
 ---
 title: Bolt
+description: Must-have app for urban transportation in most of the Europe.
+categories:
+- transportation
 payments:
     applePay: true
     cards: true
-    cash: 🚕
+    cash: 🚕 # Taxi only
     googlePay: true
     payPal: false
 vehicles:
@@ -45,13 +48,10 @@ countries: # This definition only includes european countries: https://bolt.eu/e
 - uk
 - ukraine
 countryListURL: "https://bolt.eu/en/cities/"
+links:
+- title: Downloading the Bolt app | Bolt
+  url: https://bolt.eu/en-lv/support/articles/115003024753/
 ---
-
-Must-have app for urban transportation in most of the Europe.
-
-## Download
-
-[Downloading the Bolt app | Bolt](https://bolt.eu/en-lv/support/articles/115003024753/)
 
 {{% vehicle-list %}}
 
@@ -61,7 +61,5 @@ Must-have app for urban transportation in most of the Europe.
 
 - To rent a car, driver must be over 20-years of age and have held a valid driving licence for at least 1 year[^1]
 - [Cabrios](https://en.wikipedia.org/wiki/Convertible) available in select cities during summer
-
-{{% country-list %}}
 
 [^1]: [How to rent a car with Bolt Drive](https://bolt.eu/en-lv/drive/)

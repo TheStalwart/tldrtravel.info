@@ -1,3 +1,3 @@
-{{- $pagePath := printf "/delivery/%s" (.Get 0) -}}
+{{- $pagePath := printf "/apps/%s" (.Get 0) -}}
 {{- $page := $.Page.GetPage $pagePath -}}
 [{{ $page.Title }}]({{ $page.RelPermalink }})

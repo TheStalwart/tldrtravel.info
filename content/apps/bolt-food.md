@@ -1,6 +1,14 @@
 ---
 title: Bolt Food
 description: Most restaurants work with both Bolt Food and {{% delivery-link "wolt" %}}, but if you need a non-edible product like memory card or a phone charger - {{% delivery-link "wolt" %}} is a better choice.
+categories:
+- delivery
+payments:
+    applePay: true
+    cards: true
+    cash: true
+    googlePay: true
+    payPal: false
 countries: # This definition only includes european countries: https://bolt.eu/en/cities/
 - austria
 - azerbaijan
@@ -38,6 +46,8 @@ links:
 - title: "Bolt Food: Delivery & Takeaway | Restaurants, Groceries and More"
   url: https://bolt.eu/food/
 ---
+
+{{% payment-list %}}
 
 ## Products available
 

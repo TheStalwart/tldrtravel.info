@@ -1,6 +1,14 @@
 ---
 title: Wolt
 description: The most diverse inventory of deliverable products.
+categories:
+- delivery
+payments:
+    applePay: true
+    cards: true
+    cash: false
+    googlePay: true
+    payPal: false
 countries: # https://wolt.com/
 - austria
 - azerbaijan
@@ -32,6 +40,8 @@ links:
 - title: "Wolt Delivery: Food and more"
   url: https://wolt.com/
 ---
+
+{{% payment-list %}}
 
 ## Products available
 
