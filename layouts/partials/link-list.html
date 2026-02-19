@@ -12,7 +12,18 @@
     {{- $links = $links | append (printf "- %s[%s](%s)%s" $prefix $dataEntry.title $dataEntry.url $suffix) -}}
 {{- end -}}
 
-{{- if $links -}}
+
+{{- $appStoreButtons := slice -}}
+{{- if .Params.appStoreIDs.googlePlay -}}
+    {{- $appStoreButtons = $appStoreButtons | append (printf "<a target=\"_blank\" href=\"https://play.google.com/store/apps/details?id=%s\"><img src=\"/app_store_buttons/GetItOnGooglePlay_Badge_Web_color_English.svg\" class=\"app-store-button\"></a>" .Params.appStoreIDs.googlePlay) -}}
+{{- end -}}
+{{- if .Params.appStoreIDs.iOS -}}
+    {{- $appStoreButtons = $appStoreButtons | append (printf "<a target=\"_blank\" href=\"https://apps.apple.com/us/app/skok/%s?ls=1\"><img src=\"/app_store_buttons/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg\" class=\"app-store-button\"></a>" .Params.appStoreIDs.iOS) -}}
+{{- end -}}
+
+
+{{- if or (gt (len $links) 0) (gt (len $appStoreButtons) 0) -}}
     {{ "## Links" | .RenderString }}
     {{ delimit $links "\n" | .RenderString }}
+    {{ delimit $appStoreButtons " " | safeHTML }}
 {{- end -}}

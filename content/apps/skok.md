@@ -24,6 +24,9 @@ countries:
 links:
 - title: Skok Sharing - Skok
   url: https://skoksharing.com/
+appStoreIDs:
+  googlePlay: com.skoksharing.app
+  iOS: id1480384239
 ---
 
 ## Notes
