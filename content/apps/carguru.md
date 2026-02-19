@@ -15,7 +15,7 @@ countries:
 - latvia
 links:
 - title: CARGURU
-  urL: https://carguru.lv
+  url: https://carguru.lv
 ---
 
 ## Extra notes
