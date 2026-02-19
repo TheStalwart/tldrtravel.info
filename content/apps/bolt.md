@@ -51,6 +51,9 @@ countryListURL: "https://bolt.eu/en/cities/"
 links:
 - title: Downloading the Bolt app | Bolt
   url: https://bolt.eu/en-lv/support/articles/115003024753/
+appStoreIDs:
+  googlePlay: ee.mtakso.client
+  iOS: id675033630
 ---
 
 ## Extra notes

@@ -45,6 +45,9 @@ countryListURL: "https://bolt.eu/en/cities/"
 links:
 - title: "Bolt Food: Delivery & Takeaway | Restaurants, Groceries and More"
   url: https://bolt.eu/food/
+appStoreIDs:
+  googlePlay: com.bolt.deliveryclient
+  iOS: id1451492388
 ---
 
 ## Products available

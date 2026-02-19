@@ -21,6 +21,9 @@ links:
   url: https://citybee.lv/en/citybee/
 - title: "CityBee: Overview | LinkedIn"
   url: https://www.linkedin.com/company/citybee-car-sharing
+appStoreIDs:
+  googlePlay: com.primeleasing.citybee
+  iOS: id966537355
 ---
 
 ## Extra notes

@@ -18,6 +18,9 @@ countries:
 links:
 - title: Forus Taxi
   url: https://forus.eu/en/
+appStoreIDs:
+  googlePlay: com.taxigo.ee
+  iOS: id935061987
 ---
 
 ## Issues

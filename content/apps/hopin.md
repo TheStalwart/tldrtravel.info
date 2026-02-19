@@ -25,6 +25,9 @@ countryListURL: "https://hopintaxi.com/en/"
 links:
 - title: Download HOPIN app
   url: https://hopintaxi.com/en/
+appStoreIDs:
+  googlePlay: sk.hopin.taxiapp
+  iOS: id733348334
 ---
 
 ## Issues

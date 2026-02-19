@@ -39,6 +39,9 @@ countryListURL: "https://wolt.com/"
 links:
 - title: "Wolt Delivery: Food and more"
   url: https://wolt.com/
+appStoreIDs:
+  googlePlay: com.wolt.android
+  iOS: id943905271
 ---
 
 ## Products available

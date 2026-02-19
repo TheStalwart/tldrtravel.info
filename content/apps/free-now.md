@@ -30,6 +30,9 @@ countryListURL: "https://www.free-now.com/uk/cities/"
 links:
 - title: Ride - Download App | FREENOW (free-now.com)
   url: https://www.free-now.com/uk/ride/download-app/
+appStoreIDs:
+  googlePlay: taxi.android.client
+  iOS: id357852748
 ---
 
 ## Issues

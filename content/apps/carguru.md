@@ -16,6 +16,9 @@ countries:
 links:
 - title: CARGURU
   url: https://carguru.lv
+appStoreIDs:
+  googlePlay: lv.slyfox.carguru
+  iOS: id1229147815
 ---
 
 ## Extra notes
