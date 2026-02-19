@@ -17,7 +17,7 @@ countries:
 - lithuania
 links:
 - title: Forus Taxi
-  url: https://forus.eu/
+  url: https://forus.eu/en/
 ---
 
 ## Issues
