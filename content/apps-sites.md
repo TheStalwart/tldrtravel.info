@@ -84,5 +84,6 @@ weight: 20
   - [FlixBus: Convenient and affordable bus travel](https://global.flixbus.com/)
   - [Lux Express: Travel Europe by bus and buy bus tickets online](https://luxexpress.eu/en/)
 - 🚢&#8239;Ferries
+  - [Direct Ferries | Compare and Book Ferry Tickets Worldwide](https://www.directferries.com/)
   - [DFDS | European Cruises and Ferry Crossings | Passenger Ferries](https://www.dfds.com/en)
   - [Stena Line | Ferries to UK, Ireland, Holland and Northern Europe](https://www.stenalinetravel.com/)
