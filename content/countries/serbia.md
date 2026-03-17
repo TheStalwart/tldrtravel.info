@@ -11,6 +11,12 @@ links:
   url: https://www.serbia.travel/en
 ---
 
+## Smoking
+
+Unlike in European Union, smoking is legal in public places, outdoors and indoors (restaurants, bars, cafes).
+It's usually up to venue owner to allow or ban smoking.
+If you don't like tobacco smoke - make sure to check venue policy before ordering food.
+
 ## Taxi
 
 Uber-like apps do not operate due to regulatory issues, but there are [local apps that offer similar functionality](https://isthereuberin.com/is-there-uber-in-belgrade/).
