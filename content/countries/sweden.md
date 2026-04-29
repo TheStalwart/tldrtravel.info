@@ -13,7 +13,14 @@ unions:
 
 ## Driving
 
-There are several bridge tolls, as well as congestions taxes in Stockholm and Gothenburg. Vehicles registered abroad will be taxed automatically, and bill sent to vehicle owner. More info available on [The Swedish Transport Agency website](https://transportstyrelsen.se/en/road/vehicles/taxes-and-fees/road-tolls/).
+There are bridge tolls in Motala, Sundsvall and Skurubron.
+Cars registered abroad will be taxed automatically, and bill sent to vehicle owner.
+Motorbikes and mopeds do not pay bridge tolls.
+More info available on [The Swedish Transport Agency website](https://transportstyrelsen.se/en/road/vehicles/taxes-and-fees/road-tolls/).
+
+There is a system of congestion taxes in Stockholm and Gothenburg.
+The tax applies to vehicles registered in and outside of Sweden.
+Motorbikes and mopeds are not liable to the tax
 
 ## Payment issues
 
