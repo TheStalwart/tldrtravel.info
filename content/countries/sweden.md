@@ -25,6 +25,11 @@ Motorbikes and mopeds are not liable to the tax
 ## Payment issues
 
 - Some vendors like street food trucks only accept {{% payment-link "swish" %}}! Make sure to ask before ordering!
+- Some automated gas stations did not accept my Platinum Visa, but i could pay with regular Mastercard. If you only have one card - refuel more often and use stations that have a store attached with cash payment option.
+
+## Accommodation
+
+Check-in after ~17:00 is considered "late" in Sweden. If you prefer cheap hotels - make sure to book in advance and always verify availability of late check-in or self-check-in.
 
 ## Hardware stores
 
