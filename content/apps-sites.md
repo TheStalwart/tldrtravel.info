@@ -38,6 +38,7 @@ weight: 20
 - [Garmin BaseCamp](https://www.garmin.com/en-US/software/basecamp/) - waypoint and route editor, uses proprietary database but supports import and export of GPX, KML files
   - [Freizeitkarte](https://www.freizeitkarte-osm.de/garmin/en/index.html) - [OpenStreetMap](https://www.openstreetmap.org/) tiles in Garmin format, per-country
   - [Openfietsmap](https://www.openfietsmap.nl/downloads/europe) - [OpenStreetMap](https://www.openstreetmap.org/) tiles in Garmin format, entire Europe
+  - [Talkytoaster](https://shop.talkytoaster.me.uk/) - detailed maps based on [OpenStreetMap](https://www.openstreetmap.org/), in Garmin format
 - [GPXSee](https://www.gpxsee.org/) - lightweight viewer of GPX, GeoJSON and KML files, for Windows and Mac, uses OpenStreetMap tiles
 - [GPS Visualizer](https://www.gpsvisualizer.com/) - format converters and tools for GPX and KML files
 - [gpx.studio](https://gpx.studio/) - online GPX file editor
