@@ -22,3 +22,7 @@ A valid vignette is required for cars and trucks to access motorways and most lo
 ## Motorcycling
 
 Motorcycles are exempt from vignette requirement.
+
+## Bank ATMs
+
+In 2025, very few ATMs accepted credit cards issued abroad. The notable exception was [Fibank](https://www.fibank.bg/en/branch-network), i managed to withdraw cash from my Visa Platinum issued by Citadele Latvia.
